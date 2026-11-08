@@ -1,0 +1,1001 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+1,US-2017-100000,03/02/2017,08/02/2017,First Class,CU-78501,Customer 179,Home Office,United States,New York City,New York,10001,East,OFF-56189,Office Supplies,Storage,Storage Box,46.0,1.0,0.3,8.68
+2,US-2017-100001,11/05/2017,15/05/2017,Same Day,CU-50540,Customer 57,Consumer,United States,Los Angeles,California,90001,West,OFF-59912,Office Supplies,Paper,Copy Paper,2620.47,9.0,0.2,85.26
+3,US-2014-100002,04/04/2014,11/04/2014,Second Class,CU-90380,Customer 169,Home Office,United States,Atlanta,Georgia,30301,South,TEC-78390,Technology,Accessories,Keyboard,324.24,2.0,0.3,60.69
+4,US-2015-100003,16/06/2015,20/06/2015,First Class,CU-46976,Customer 82,Home Office,United States,Los Angeles,California,90001,West,OFF-43341,Office Supplies,Binders,Presentation Binder,617.28,2.0,0.5,82.11
+5,US-2015-100004,17/11/2015,23/11/2015,Same Day,CU-49343,Customer 41,Home Office,United States,New York City,New York,10001,East,FUR-66678,Furniture,Chairs,Office Chair,736.41,7.0,0.2,81.31
+6,US-2014-100005,22/05/2014,25/05/2014,Second Class,CU-67307,Customer 35,Home Office,United States,Philadelphia,Pennsylvania,19103,East,TEC-27991,Technology,Copiers,Desktop Copier,1414.52,8.0,0.5,101.47
+7,US-2014-100006,11/01/2014,17/01/2014,First Class,CU-61186,Customer 10,Consumer,United States,Miami,Florida,33101,South,TEC-32093,Technology,Copiers,Multifunction Copier,1761.03,5.0,0.3,58.35
+8,US-2015-100007,04/10/2015,09/10/2015,First Class,CU-18150,Customer 140,Home Office,United States,New York City,New York,10001,East,OFF-37355,Office Supplies,Storage,Storage Box,2071.14,6.0,0.2,145.87
+9,US-2014-100008,14/02/2014,17/02/2014,Same Day,CU-15247,Customer 214,Consumer,United States,Seattle,Washington,98101,West,OFF-92587,Office Supplies,Labels,Address Labels,1153.85,3.0,0.2,-45.61
+10,US-2015-100009,27/09/2015,02/10/2015,Second Class,CU-38909,Customer 42,Corporate,United States,Chicago,Illinois,60601,Central,FUR-12044,Furniture,Tables,Conference Table,2402.27,8.0,0.2,
+11,US-2014-100010,12/05/2014,18/05/2014,Second Class,CU-72668,Customer 124,Corporate,United States,New York City,New York,10001,East,TEC-24959,Technology,Machines,Printer,1592.26,7.0,0.0,-134.56
+12,US-2014-100011,15/12/2014,18/12/2014,Standard Class,CU-42963,Customer 227,Corporate,United States,Houston,Texas,77001,Central,TEC-72972,Technology,Machines,Shredder,172.37,4.0,0.1,40.9
+13,US-2015-100012,24/01/2015,30/01/2015,Standard Class,CU-18675,Customer 112,Home Office,United States,Houston,Texas,77001,Central,TEC-21481,Technology,Accessories,Keyboard,613.25,3.0,0.3,-14.14
+14,US-2016-100013,24/10/2016,26/10/2016,Same Day,CU-54348,Customer 180,Corporate,United States,Houston,Texas,77001,Central,TEC-48887,Technology,Accessories,Keyboard,497.04,6.0,0.2,70.05
+15,US-2016-100014,04/07/2016,05/07/2016,Standard Class,CU-54458,Customer 47,Consumer,United States,Chicago,Illinois,60601,Central,OFF-69453,Office Supplies,Binders,Presentation Binder,1136.7,6.0,0.0,-150.16
+16,US-2016-100015,16/09/2016,17/09/2016,First Class,CU-65120,Customer 148,Consumer,United States,Los Angeles,California,90001,West,FUR-12052,Furniture,Tables,Conference Table,833.21,2.0,0.5,-0.35
+17,US-2017-100016,31/10/2017,03/11/2017,Second Class,CU-94403,Customer 41,Corporate,United States,Los Angeles,California,90001,West,OFF-58801,Office Supplies,Storage,Storage Box,221.05,1.0,0.0,13.48
+18,US-2017-100017,25/03/2017,27/03/2017,Standard Class,CU-10892,Customer 224,Corporate,United States,Houston,Texas,77001,Central,TEC-22622,Technology,Accessories,Keyboard,998.77,5.0,0.1,184.55
+19,US-2016-100018,19/03/2016,22/03/2016,Same Day,CU-79177,Customer 80,Consumer,United States,Chicago,Illinois,60601,Central,FUR-65317,Furniture,Tables,Conference Table,,2.0,0.1,87.25
+20,US-2017-100019,24/11/2017,26/11/2017,Same Day,CU-96688,Customer 79,Consumer,United States,Atlanta,Georgia,30301,South,FUR-95759,Furniture,Bookcases,Wooden Bookcase,847.16,5.0,0.1,150.62
+21,US-2015-100020,01/03/2015,06/03/2015,Second Class,CU-49158,Customer 242,Home Office,United States,Philadelphia,Pennsylvania,19103,East,OFF-23638,Office Supplies,Labels,Address Labels,696.74,9.0,0.5,-45.53
+22,US-2014-100021,13/05/2014,19/05/2014,Second Class,CU-40202,Customer 165,Corporate,United States,Atlanta,Georgia,30301,South,TEC-43628,Technology,Copiers,Desktop Copier,2118.7,9.0,0.2,308.42
+23,US-2014-100022,18/05/2014,24/05/2014,Standard Class,CU-84799,Customer 223,Consumer,United States,Atlanta,Georgia,30301,South,TEC-77205,Technology,Accessories,USB Drive,111.47,1.0,0.5,-5.42
+24,US-2015-100023,21/06/2015,26/06/2015,Same Day,CU-54937,Customer 125,Corporate,United States,Los Angeles,California,90001,West,TEC-22950,Technology,Copiers,Desktop Copier,284.81,2.0,0.5,38.15
+25,US-2014-100024,21/01/2014,23/01/2014,Same Day,CU-72482,Customer 191,Corporate,United States,Atlanta,Georgia,30301,South,FUR-47532,Furniture,Chairs,Office Chair,58.34,1.0,0.3,2.77
+26,US-2017-100025,15/06/2017,21/06/2017,Standard Class,CU-17278,Customer 99,Home Office,United States,Los Angeles,California,90001,West,FUR-37085,Furniture,Tables,Work Table,437.16,7.0,0.2,87.03
+27,US-2015-100026,15/12/2015,19/12/2015,First Class,CU-59967,Customer 37,Corporate,United States,Los Angeles,California,90001,West,OFF-85670,Office Supplies,Paper,Notebook Paper,2082.32,5.0,0.1,-261.08
+28,US-2016-100027,22/11/2016,23/11/2016,Same Day,CU-48886,Customer 117,Corporate,United States,New York City,New York,10001,East,TEC-80627,Technology,Accessories,USB Drive,2428.51,9.0,0.0,475.68
+29,US-2014-100028,27/01/2014,01/02/2014,Same Day,CU-64540,Customer 233,Home Office,United States,Miami,Florida,33101,South,FUR-77801,Furniture,Chairs,Ergonomic Chair,323.27,3.0,0.3,17.7
+30,US-2015-100029,28/02/2015,03/03/2015,Same Day,CU-57790,Customer 62,Consumer,United States,Seattle,Washington,98101,West,FUR-31299,Furniture,Chairs,Ergonomic Chair,1179.04,4.0,0.5,26.63
+31,US-2016-100030,25/12/2016,31/12/2016,Standard Class,CU-84218,Customer 80,Consumer,United States,Atlanta,Georgia,30301,South,TEC-93101,Technology,Copiers,Desktop Copier,2152.94,8.0,0.0,-187.62
+32,US-2017-100031,29/08/2017,05/09/2017,Standard Class,CU-73812,Customer 14,Consumer,United States,Los Angeles,California,90001,West,OFF-25717,Office Supplies,Binders,Ring Binder,217.53,3.0,0.2,-24.52
+33,US-2014-100032,19/03/2014,23/03/2014,First Class,CU-88749,Customer 198,Home Office,United States,Miami,Florida,33101,South,OFF-58285,Office Supplies,Storage,Storage Box,1166.59,8.0,0.1,70.29
+34,US-2015-100033,21/12/2015,23/12/2015,Second Class,CU-10636,Customer 94,Home Office,United States,New York City,New York,10001,East,TEC-57137,Technology,Phones,Office Phone,776.31,3.0,0.5,-50.0
+35,US-2014-100034,29/05/2014,30/05/2014,Same Day,CU-91237,Customer 60,Home Office,United States,Atlanta,Georgia,30301,South,TEC-38862,Technology,Phones,Office Phone,192.82,4.0,0.5,20.51
+36,US-2016-100035,25/04/2016,01/05/2016,First Class,CU-97027,Customer 214,Home Office,United States,Miami,Florida,33101,South,OFF-51651,Office Supplies,Art,Drawing Pad,512.08,8.0,0.5,18.21
+37,US-2015-100036,17/07/2015,22/07/2015,First Class,CU-30931,Customer 85,Corporate,United States,Miami,Florida,33101,South,OFF-55454,Office Supplies,Paper,Copy Paper,217.13,1.0,0.0,6.35
+38,US-2016-100037,11/12/2016,14/12/2016,Same Day,CU-86876,Customer 120,Home Office,United States,Chicago,Illinois,60601,Central,OFF-39552,Office Supplies,Paper,Copy Paper,954.85,7.0,0.3,163.11
+39,US-2016-100038,21/02/2016,28/02/2016,Standard Class,CU-35933,Customer 45,Home Office,United States,Houston,Texas,77001,Central,TEC-13163,Technology,Accessories,Keyboard,483.19,2.0,0.5,29.51
+40,US-2016-100039,22/05/2016,27/05/2016,Standard Class,CU-62270,Customer 22,Corporate,United States,Los Angeles,California,90001,West,OFF-94233,Office Supplies,Labels,Shipping Labels,556.03,2.0,0.3,63.08
+41,US-2014-100040,20/07/2014,27/07/2014,Same Day,CU-95141,Customer 23,Consumer,United States,Philadelphia,Pennsylvania,19103,East,TEC-74966,Technology,Phones,Wireless Phone,1412.2,4.0,0.2,216.8
+42,US-2014-100041,15/03/2014,16/03/2014,First Class,CU-71134,Customer 131,Home Office,United States,Seattle,Washington,98101,West,OFF-78752,Office Supplies,Art,Marker Set,511.94,2.0,0.0,25.79
+43,US-2017-100042,12/03/2017,16/03/2017,First Class,CU-17893,Customer 122,Corporate,United States,Atlanta,Georgia,30301,South,OFF-75592,Office Supplies,Paper,Notebook Paper,114.8,2.0,0.5,-5.72
+44,US-2017-100043,07/09/2017,13/09/2017,Same Day,CU-81569,Customer 91,Corporate,United States,Houston,Texas,77001,Central,FUR-38299,Furniture,Tables,Conference Table,1618.69,4.0,0.5,-27.25
+45,US-2014-100044,19/08/2014,26/08/2014,Standard Class,CU-59768,Customer 237,Home Office,United States,Chicago,Illinois,60601,Central,FUR-42470,Furniture,Bookcases,Modern Bookcase,874.8,5.0,0.2,114.61
+46,US-2016-100045,13/06/2016,17/06/2016,Same Day,CU-34386,Customer 212,Home Office,United States,Miami,Florida,33101,South,FUR-67336,Furniture,Chairs,Ergonomic Chair,2917.09,9.0,0.5,-144.48
+47,US-2014-100046,28/06/2014,02/07/2014,Second Class,CU-36582,Customer 242,Corporate,United States,New York City,New York,10001,East,OFF-38384,Office Supplies,Binders,Presentation Binder,1033.13,5.0,0.0,211.71
+48,US-2014-100047,18/01/2014,21/01/2014,Same Day,CU-71603,Customer 71,Home Office,United States,Houston,Texas,77001,Central,OFF-85319,Office Supplies,Labels,Shipping Labels,426.58,8.0,0.1,87.56
+49,US-2014-100048,05/06/2014,10/06/2014,Same Day,CU-12609,Customer 62,Consumer,United States,New York City,New York,10001,East,TEC-50795,Technology,Phones,Wireless Phone,88.67,2.0,0.3,14.63
+50,US-2017-100049,01/06/2017,07/06/2017,Standard Class,CU-24069,Customer 13,Home Office,United States,Los Angeles,California,90001,West,TEC-64532,Technology,Phones,Office Phone,2670.26,9.0,0.5,-197.15
+51,US-2017-100050,16/03/2017,23/03/2017,Standard Class,CU-79488,Customer 211,Home Office,United States,Atlanta,Georgia,30301,South,FUR-83781,Furniture,Chairs,Ergonomic Chair,1083.69,3.0,0.0,269.79
+52,US-2015-100051,14/10/2015,15/10/2015,First Class,CU-17742,Customer 212,Corporate,United States,Miami,Florida,33101,South,OFF-23969,Office Supplies,Paper,Copy Paper,458.04,2.0,0.2,44.3
+53,US-2016-100052,08/12/2016,09/12/2016,First Class,CU-14904,Customer 18,Corporate,United States,Miami,Florida,33101,South,FUR-10394,Furniture,Bookcases,Wooden Bookcase,441.17,1.0,0.3,34.89
+54,US-2014-100053,16/11/2014,23/11/2014,Standard Class,CU-63276,Customer 115,Corporate,United States,New York City,New York,10001,East,OFF-80566,Office Supplies,Art,Marker Set,89.82,2.0,0.3,17.06
+55,US-2016-100054,18/07/2016,25/07/2016,First Class,CU-72979,Customer 65,Corporate,United States,Chicago,Illinois,60601,Central,OFF-49840,Office Supplies,Storage,File Organizer,415.2,3.0,0.5,20.46
+56,US-2014-100055,19/08/2014,21/08/2014,Standard Class,CU-95305,Customer 70,Consumer,United States,Atlanta,Georgia,30301,South,OFF-37423,Office Supplies,Storage,Storage Box,861.92,4.0,0.0,-79.59
+57,US-2015-100056,17/09/2015,23/09/2015,Same Day,CU-62946,Customer 150,Consumer,United States,Seattle,Washington,98101,West,OFF-92840,Office Supplies,Storage,Storage Box,1676.86,9.0,0.2,-75.69
+58,US-2015-100057,13/03/2015,16/03/2015,First Class,CU-59232,Customer 162,Corporate,United States,New York City,New York,10001,East,OFF-68718,Office Supplies,Storage,File Organizer,777.95,3.0,0.1,106.33
+59,US-2015-100058,07/04/2015,09/04/2015,Same Day,CU-56146,Customer 202,Home Office,United States,Seattle,Washington,98101,West,TEC-60247,Technology,Accessories,Keyboard,566.4,2.0,0.2,2.3
+60,US-2014-100059,07/07/2014,14/07/2014,Second Class,CU-44552,Customer 124,Consumer,United States,Atlanta,Georgia,30301,South,TEC-20426,Technology,Machines,Shredder,1803.71,5.0,0.1,341.02
+61,US-2014-100060,16/04/2014,23/04/2014,First Class,CU-38250,Customer 17,Home Office,United States,New York City,New York,10001,East,TEC-91250,Technology,Copiers,Desktop Copier,153.02,1.0,0.1,-10.41
+62,US-2015-100061,30/09/2015,06/10/2015,First Class,CU-55747,Customer 91,Corporate,United States,New York City,New York,10001,East,TEC-96257,Technology,Copiers,Desktop Copier,290.05,4.0,0.1,-25.72
+63,US-2017-100062,24/12/2017,28/12/2017,Same Day,CU-67679,Customer 84,Consumer,United States,New York City,New York,10001,East,TEC-70745,Technology,Accessories,USB Drive,2230.28,7.0,0.3,26.18
+64,US-2017-100063,09/01/2017,13/01/2017,Same Day,CU-28043,Customer 209,Home Office,United States,Los Angeles,California,90001,West,OFF-99127,Office Supplies,Binders,Presentation Binder,753.98,2.0,0.5,33.58
+65,US-2014-100064,26/07/2014,30/07/2014,Second Class,CU-52238,Customer 229,Consumer,United States,Philadelphia,Pennsylvania,19103,East,OFF-37570,Office Supplies,Labels,Address Labels,1022.63,3.0,0.0,37.35
+66,US-2014-100065,23/12/2014,30/12/2014,Second Class,CU-75091,Customer 123,Consumer,United States,Los Angeles,California,90001,West,TEC-17570,Technology,Phones,Wireless Phone,402.78,3.0,0.0,41.15
+67,US-2014-100066,22/12/2014,28/12/2014,First Class,CU-15229,Customer 181,Corporate,United States,Chicago,Illinois,60601,Central,TEC-76929,Technology,Copiers,Multifunction Copier,1817.46,6.0,0.3,226.52
+68,US-2017-100067,10/07/2017,13/07/2017,Same Day,CU-48777,Customer 227,Consumer,United States,Seattle,Washington,98101,West,TEC-62840,Technology,Copiers,Desktop Copier,1734.04,5.0,0.3,81.4
+69,US-2017-100068,26/05/2017,29/05/2017,Same Day,CU-92559,Customer 157,Corporate,United States,New York City,New York,10001,East,OFF-45234,Office Supplies,Storage,File Organizer,406.57,8.0,0.2,6.95
+70,US-2014-100069,13/01/2014,16/01/2014,Second Class,CU-22816,Customer 150,Corporate,United States,Los Angeles,California,90001,West,FUR-10658,Furniture,Bookcases,Wooden Bookcase,417.65,1.0,0.3,-5.19
+71,US-2015-100070,10/02/2015,12/02/2015,Same Day,CU-78528,Customer 163,Home Office,United States,Houston,Texas,77001,Central,TEC-56356,Technology,Machines,Shredder,1964.76,7.0,0.5,54.35
+72,US-2015-100071,20/02/2015,27/02/2015,First Class,CU-68469,Customer 138,Home Office,United States,Philadelphia,Pennsylvania,19103,East,OFF-68868,Office Supplies,Art,Marker Set,439.12,8.0,0.2,13.78
+73,US-2017-100072,16/11/2017,17/11/2017,Standard Class,CU-21148,Customer 75,Consumer,United States,Houston,Texas,77001,Central,TEC-55735,Technology,Phones,Office Phone,2707.94,8.0,0.3,-1.91
+74,US-2017-100073,07/11/2017,11/11/2017,Second Class,CU-68484,Customer 22,Consumer,United States,Miami,Florida,33101,South,TEC-59990,Technology,Copiers,Multifunction Copier,2200.75,5.0,0.1,378.87
+75,US-2017-100074,17/03/2017,19/03/2017,Second Class,CU-19835,Customer 232,Home Office,United States,Seattle,Washington,98101,West,TEC-78641,Technology,Accessories,Keyboard,510.68,3.0,0.0,-65.91
+76,US-2016-100075,17/08/2016,23/08/2016,Standard Class,CU-19170,Customer 155,Consumer,United States,Philadelphia,Pennsylvania,19103,East,FUR-87230,Furniture,Furnishings,Wall Clock,2528.32,7.0,0.1,-111.84
+77,US-2014-100076,07/01/2014,14/01/2014,First Class,CU-70444,Customer 64,Consumer,United States,Houston,Texas,77001,Central,OFF-47349,Office Supplies,Paper,Notebook Paper,915.02,5.0,0.0,215.14
+78,US-2016-100077,05/02/2016,08/02/2016,Second Class,CU-59469,Customer 221,Home Office,United States,Miami,Florida,33101,South,TEC-26883,Technology,Copiers,Multifunction Copier,801.85,3.0,0.2,-20.42
+79,US-2014-100078,04/05/2014,09/05/2014,Same Day,CU-46714,Customer 134,Consumer,United States,Philadelphia,Pennsylvania,19103,East,OFF-20740,Office Supplies,Storage,Storage Box,1797.76,4.0,0.5,-20.28
+80,US-2014-100079,30/09/2014,07/10/2014,Same Day,CU-40965,Customer 34,Consumer,United States,Seattle,Washington,98101,West,TEC-42883,Technology,Machines,Shredder,1073.98,6.0,0.2,54.71
+81,US-2014-100080,09/04/2014,12/04/2014,Second Class,CU-47833,Customer 221,Home Office,United States,New York City,New York,10001,East,FUR-96609,Furniture,Tables,Work Table,861.01,3.0,0.2,-1.64
+82,US-2016-100081,05/01/2016,09/01/2016,Second Class,CU-37540,Customer 132,Home Office,United States,Miami,Florida,33101,South,TEC-76807,Technology,Accessories,USB Drive,979.68,9.0,0.2,188.8
+83,US-2016-100082,12/05/2016,17/05/2016,Second Class,CU-88687,Customer 1,Consumer,United States,Los Angeles,California,90001,West,OFF-15456,Office Supplies,Binders,Ring Binder,1182.65,8.0,0.1,-88.51
+84,US-2015-100083,01/01/2015,07/01/2015,Same Day,CU-33009,Customer 203,Home Office,United States,Seattle,Washington,98101,West,OFF-91228,Office Supplies,Art,Drawing Pad,865.64,4.0,0.5,60.63
+85,US-2017-100084,23/02/2017,27/02/2017,Same Day,CU-56145,Customer 233,Corporate,United States,Chicago,Illinois,60601,Central,FUR-22570,Furniture,Bookcases,Modern Bookcase,885.61,3.0,0.0,230.97
+86,US-2017-100085,01/10/2017,08/10/2017,Standard Class,CU-33745,Customer 129,Home Office,United States,New York City,New York,10001,East,TEC-38130,Technology,Phones,Office Phone,113.75,1.0,0.2,4.16
+87,US-2014-100086,16/03/2014,22/03/2014,Same Day,CU-37186,Customer 123,Corporate,United States,New York City,New York,10001,East,FUR-30749,Furniture,Tables,Work Table,2207.75,7.0,0.0,-134.63
+88,US-2014-100087,10/08/2014,11/08/2014,First Class,CU-12632,Customer 83,Corporate,United States,Houston,Texas,77001,Central,FUR-48819,Furniture,Bookcases,Wooden Bookcase,36.4,8.0,0.0,2.2
+89,US-2017-100088,13/02/2017,17/02/2017,Same Day,CU-71492,Customer 84,Consumer,United States,Seattle,Washington,98101,West,TEC-76954,Technology,Machines,Printer,336.44,3.0,0.1,17.06
+90,US-2014-100089,27/12/2014,03/01/2015,Standard Class,CU-38711,Customer 35,Consumer,United States,Chicago,Illinois,60601,Central,OFF-92693,Office Supplies,Binders,Ring Binder,1606.77,5.0,0.0,-208.28
+91,US-2014-100090,14/01/2014,21/01/2014,Standard Class,CU-61228,Customer 58,Corporate,United States,New York City,New York,10001,East,FUR-71871,Furniture,Furnishings,Desk Lamp,561.17,2.0,0.0,-25.87
+92,US-2015-100091,23/12/2015,24/12/2015,Same Day,CU-36201,Customer 64,Consumer,United States,Miami,Florida,33101,South,FUR-92690,Furniture,Furnishings,Wall Clock,459.5,6.0,0.5,50.05
+93,US-2015-100092,26/10/2015,02/11/2015,First Class,CU-81928,Customer 29,Corporate,United States,Seattle,Washington,98101,West,OFF-36679,Office Supplies,Labels,Shipping Labels,366.67,1.0,0.1,-4.32
+94,US-2016-100093,23/01/2016,26/01/2016,Second Class,CU-73188,Customer 42,Corporate,United States,Los Angeles,California,90001,West,OFF-75265,Office Supplies,Paper,Notebook Paper,17.31,1.0,0.3,-1.72
+95,US-2016-100094,30/10/2016,02/11/2016,Same Day,CU-22934,Customer 167,Home Office,United States,Miami,Florida,33101,South,TEC-15420,Technology,Copiers,Desktop Copier,537.7,2.0,0.5,-25.76
+96,US-2017-100095,05/03/2017,09/03/2017,Same Day,CU-44935,Customer 32,Corporate,United States,Los Angeles,California,90001,West,FUR-90756,Furniture,Furnishings,Desk Lamp,11.39,1.0,0.2,0.92
+97,US-2017-100096,09/07/2017,12/07/2017,Standard Class,CU-36527,Customer 86,Corporate,United States,New York City,New York,10001,East,OFF-97902,Office Supplies,Binders,Presentation Binder,53.06,2.0,0.1,5.05
+98,US-2014-100097,05/10/2014,06/10/2014,Second Class,CU-26672,Customer 138,Corporate,United States,Miami,Florida,33101,South,FUR-45654,Furniture,Tables,Work Table,1181.26,3.0,0.5,66.52
+99,US-2016-100098,16/09/2016,20/09/2016,Same Day,CU-56311,Customer 235,Consumer,United States,Miami,Florida,33101,South,TEC-13165,Technology,Copiers,Multifunction Copier,1327.81,3.0,0.3,28.15
+100,US-2015-100099,08/06/2015,12/06/2015,Second Class,CU-52191,Customer 38,Corporate,United States,Miami,Florida,33101,South,OFF-96538,Office Supplies,Storage,Storage Box,400.79,1.0,0.3,40.26
+101,US-2014-100100,18/09/2014,23/09/2014,Same Day,CU-76013,Customer 161,Home Office,United States,Chicago,Illinois,60601,Central,FUR-68129,Furniture,Furnishings,Wall Clock,887.56,9.0,0.5,23.08
+102,US-2015-100101,26/08/2015,30/08/2015,First Class,CU-80080,Customer 226,Home Office,United States,Houston,Texas,77001,Central,FUR-87900,Furniture,Tables,Conference Table,2472.4,7.0,0.5,-129.82
+103,US-2017-100102,11/03/2017,15/03/2017,Same Day,CU-43942,Customer 201,Home Office,United States,Miami,Florida,33101,South,FUR-93813,Furniture,Bookcases,Wooden Bookcase,57.28,4.0,0.3,10.87
+104,US-2016-100103,06/07/2016,09/07/2016,Second Class,CU-61820,Customer 233,Corporate,United States,Atlanta,Georgia,30301,South,OFF-52087,Office Supplies,Paper,Copy Paper,1578.73,6.0,0.1,154.54
+105,US-2014-100104,15/10/2014,18/10/2014,Standard Class,CU-40552,Customer 6,Home Office,United States,New York City,New York,10001,East,OFF-75452,Office Supplies,Paper,Copy Paper,536.48,7.0,0.0,77.45
+106,US-2014-100105,17/10/2014,18/10/2014,Standard Class,CU-53097,Customer 130,Consumer,United States,Los Angeles,California,90001,West,OFF-52157,Office Supplies,Art,Drawing Pad,1024.31,8.0,0.2,-57.46
+107,US-2015-100106,14/01/2015,15/01/2015,Same Day,CU-19962,Customer 59,Consumer,United States,Houston,Texas,77001,Central,FUR-22187,Furniture,Bookcases,Wooden Bookcase,295.02,1.0,0.5,9.3
+108,US-2015-100107,02/04/2015,08/04/2015,Same Day,CU-62973,Customer 18,Corporate,United States,Chicago,Illinois,60601,Central,FUR-22401,Furniture,Furnishings,Wall Clock,3988.06,9.0,0.3,725.24
+109,US-2015-100108,21/03/2015,23/03/2015,First Class,CU-24877,Customer 21,Consumer,United States,Atlanta,Georgia,30301,South,OFF-50889,Office Supplies,Storage,File Organizer,2232.59,8.0,0.5,92.89
+110,US-2014-100109,05/06/2014,11/06/2014,Second Class,CU-19989,Customer 190,Consumer,United States,Los Angeles,California,90001,West,OFF-79510,Office Supplies,Storage,Storage Box,952.21,7.0,0.5,11.47
+111,US-2014-100110,29/10/2014,03/11/2014,Standard Class,CU-86182,Customer 154,Consumer,United States,New York City,New York,10001,East,TEC-68561,Technology,Accessories,USB Drive,146.33,3.0,0.5,-2.65
+112,US-2014-100111,31/03/2014,04/04/2014,Same Day,CU-58137,Customer 133,Home Office,United States,Houston,Texas,77001,Central,FUR-32356,Furniture,Bookcases,Modern Bookcase,2685.87,7.0,0.2,-8.79
+113,US-2014-100112,24/12/2014,27/12/2014,Second Class,CU-54154,Customer 113,Corporate,United States,Chicago,Illinois,60601,Central,FUR-45395,Furniture,Bookcases,Modern Bookcase,350.7,1.0,0.5,12.73
+114,US-2017-100113,20/04/2017,24/04/2017,Second Class,CU-23204,Customer 41,Corporate,United States,Seattle,Washington,98101,West,OFF-59896,Office Supplies,Binders,Ring Binder,857.41,2.0,0.0,222.82
+115,US-2014-100114,31/10/2014,02/11/2014,Same Day,CU-64731,Customer 18,Corporate,United States,Atlanta,Georgia,30301,South,FUR-97384,Furniture,Furnishings,Desk Lamp,1651.66,4.0,0.0,-19.39
+116,US-2016-100115,11/02/2016,15/02/2016,First Class,CU-85528,Customer 39,Home Office,United States,Houston,Texas,77001,Central,OFF-92859,Office Supplies,Binders,Presentation Binder,3320.69,9.0,0.5,85.62
+117,US-2015-100116,14/05/2015,18/05/2015,First Class,CU-81426,Customer 207,Consumer,United States,Philadelphia,Pennsylvania,19103,East,FUR-28957,Furniture,Furnishings,Desk Lamp,281.73,1.0,0.3,34.09
+118,US-2016-100117,15/02/2016,19/02/2016,Second Class,CU-45776,Customer 115,Home Office,United States,Atlanta,Georgia,30301,South,FUR-21612,Furniture,Tables,Conference Table,447.04,1.0,0.1,-49.61
+119,US-2014-100118,11/08/2014,17/08/2014,First Class,CU-51498,Customer 76,Corporate,United States,Houston,Texas,77001,Central,OFF-69240,Office Supplies,Storage,File Organizer,292.69,2.0,0.5,23.75
+120,US-2014-100119,17/04/2014,21/04/2014,First Class,CU-62528,Customer 11,Home Office,United States,Seattle,Washington,98101,West,OFF-50466,Office Supplies,Labels,Shipping Labels,332.19,4.0,0.0,71.02
+121,US-2017-100120,27/07/2017,02/08/2017,Second Class,CU-95277,Customer 178,Corporate,United States,Chicago,Illinois,60601,Central,TEC-76124,Technology,Accessories,Keyboard,1491.79,5.0,0.2,-23.79
+122,US-2015-100121,30/07/2015,02/08/2015,Same Day,CU-27054,Customer 162,Corporate,United States,Philadelphia,Pennsylvania,19103,East,TEC-40812,Technology,Machines,Printer,1616.89,7.0,0.3,34.29
+123,US-2015-100122,19/08/2015,23/08/2015,First Class,CU-69661,Customer 76,Consumer,United States,Philadelphia,Pennsylvania,19103,East,OFF-89860,Office Supplies,Paper,Copy Paper,2413.6,8.0,0.0,318.29
+124,US-2017-100123,21/03/2017,23/03/2017,First Class,CU-88403,Customer 69,Home Office,United States,Chicago,Illinois,60601,Central,FUR-22478,Furniture,Furnishings,Wall Clock,912.16,8.0,0.5,-43.04
+125,US-2015-100124,18/02/2015,20/02/2015,Same Day,CU-95762,Customer 146,Corporate,United States,Chicago,Illinois,60601,Central,TEC-77096,Technology,Copiers,Multifunction Copier,1720.37,7.0,0.1,234.72
+126,US-2015-100125,26/03/2015,31/03/2015,First Class,CU-58531,Customer 100,Home Office,United States,Chicago,Illinois,60601,Central,FUR-88758,Furniture,Chairs,Ergonomic Chair,1640.3,9.0,0.2,-183.73
+127,US-2016-100126,09/06/2016,12/06/2016,First Class,CU-54083,Customer 111,Corporate,United States,Atlanta,Georgia,30301,South,OFF-83167,Office Supplies,Binders,Presentation Binder,1181.67,8.0,0.5,49.72
+128,US-2017-100127,27/03/2017,29/03/2017,Same Day,CU-99706,Customer 191,Consumer,United States,Chicago,Illinois,60601,Central,OFF-78632,Office Supplies,Labels,Shipping Labels,3421.1,9.0,0.5,291.39
+129,US-2015-100128,03/12/2015,08/12/2015,Second Class,CU-62735,Customer 91,Corporate,United States,New York City,New York,10001,East,OFF-35776,Office Supplies,Art,Marker Set,798.22,6.0,0.3,-21.87
+130,US-2016-100129,17/08/2016,23/08/2016,Second Class,CU-22087,Customer 209,Consumer,United States,Los Angeles,California,90001,West,FUR-22449,Furniture,Furnishings,Wall Clock,14.7,2.0,0.0,2.84
+131,US-2017-100130,04/02/2017,09/02/2017,Standard Class,CU-48051,Customer 100,Corporate,United States,Philadelphia,Pennsylvania,19103,East,FUR-88995,Furniture,Bookcases,Wooden Bookcase,449.48,5.0,0.5,-18.83
+132,US-2015-100131,27/02/2015,06/03/2015,Second Class,CU-30124,Customer 166,Corporate,United States,Atlanta,Georgia,30301,South,OFF-20065,Office Supplies,Binders,Presentation Binder,713.34,2.0,0.1,147.97
+133,US-2017-100132,30/04/2017,05/05/2017,Same Day,CU-68741,Customer 1,Home Office,United States,Philadelphia,Pennsylvania,19103,East,FUR-12139,Furniture,Bookcases,Wooden Bookcase,1136.71,5.0,0.2,131.9
+134,US-2014-100133,16/02/2014,20/02/2014,Second Class,CU-26004,Customer 106,Consumer,United States,Atlanta,Georgia,30301,South,FUR-14627,Furniture,Bookcases,Modern Bookcase,3077.15,7.0,0.1,133.82
+135,US-2016-100134,08/09/2016,14/09/2016,Second Class,CU-38938,Customer 59,Home Office,United States,Chicago,Illinois,60601,Central,OFF-74299,Office Supplies,Paper,Notebook Paper,2591.88,7.0,0.5,37.8
+136,US-2014-100135,02/09/2014,06/09/2014,Standard Class,CU-37707,Customer 133,Consumer,United States,Miami,Florida,33101,South,FUR-16076,Furniture,Furnishings,Desk Lamp,792.13,2.0,0.5,-33.26
+137,US-2014-100136,19/03/2014,21/03/2014,First Class,CU-84080,Customer 86,Consumer,United States,Seattle,Washington,98101,West,FUR-12371,Furniture,Bookcases,Wooden Bookcase,156.3,8.0,0.3,14.27
+138,US-2014-100137,06/04/2014,13/04/2014,Standard Class,CU-59103,Customer 184,Corporate,United States,Los Angeles,California,90001,West,FUR-33170,Furniture,Furnishings,Wall Clock,1846.82,5.0,0.0,36.25
+139,US-2017-100138,03/01/2017,05/01/2017,First Class,CU-28753,Customer 162,Home Office,United States,Chicago,Illinois,60601,Central,OFF-96564,Office Supplies,Storage,Storage Box,1176.6,7.0,0.2,-52.48
+140,US-2017-100139,14/01/2017,15/01/2017,Second Class,CU-86832,Customer 35,Home Office,United States,New York City,New York,10001,East,OFF-68817,Office Supplies,Binders,Ring Binder,742.21,2.0,0.0,204.75
+141,US-2015-100140,18/10/2015,25/10/2015,First Class,CU-29871,Customer 118,Corporate,United States,Los Angeles,California,90001,West,OFF-95191,Office Supplies,Binders,Presentation Binder,3539.66,9.0,0.5,-119.13
+142,US-2015-100141,03/01/2015,09/01/2015,First Class,CU-57745,Customer 13,Home Office,United States,Chicago,Illinois,60601,Central,FUR-64139,Furniture,Tables,Conference Table,1867.66,5.0,0.1,-232.92
+143,US-2015-100142,11/12/2015,16/12/2015,Standard Class,CU-44682,Customer 188,Consumer,United States,Chicago,Illinois,60601,Central,FUR-21904,Furniture,Chairs,Office Chair,1118.01,3.0,0.3,71.47
+144,US-2014-100143,26/08/2014,29/08/2014,Standard Class,CU-63832,Customer 223,Home Office,United States,Seattle,Washington,98101,West,OFF-68165,Office Supplies,Storage,Storage Box,234.3,7.0,0.1,-12.38
+145,US-2014-100144,09/09/2014,15/09/2014,Second Class,CU-29365,Customer 119,Corporate,United States,Miami,Florida,33101,South,TEC-51750,Technology,Phones,Office Phone,3370.01,8.0,0.2,-335.44
+146,US-2015-100145,16/03/2015,21/03/2015,Second Class,CU-17001,Customer 34,Corporate,United States,Los Angeles,California,90001,West,FUR-87424,Furniture,Bookcases,Modern Bookcase,96.32,1.0,0.0,-7.15
+147,US-2015-100146,13/04/2015,16/04/2015,Second Class,CU-28484,Customer 200,Home Office,United States,Los Angeles,California,90001,West,OFF-12908,Office Supplies,Paper,Copy Paper,610.52,5.0,0.1,61.82
+148,US-2016-100147,18/10/2016,19/10/2016,Standard Class,CU-96635,Customer 188,Consumer,United States,Atlanta,Georgia,30301,South,TEC-83781,Technology,Phones,Office Phone,560.66,2.0,0.2,97.12
+149,US-2016-100148,08/02/2016,10/02/2016,Standard Class,CU-61916,Customer 229,Home Office,United States,Philadelphia,Pennsylvania,19103,East,TEC-93243,Technology,Accessories,USB Drive,296.95,2.0,0.2,61.27
+150,US-2017-100149,15/03/2017,22/03/2017,Second Class,CU-81532,Customer 146,Corporate,United States,Los Angeles,California,90001,West,FUR-21524,Furniture,Chairs,Ergonomic Chair,2185.07,5.0,0.5,22.87
+151,US-2015-100150,14/04/2015,16/04/2015,First Class,CU-46779,Customer 110,Corporate,United States,Philadelphia,Pennsylvania,19103,East,FUR-82059,Furniture,Furnishings,Desk Lamp,2134.73,8.0,0.5,4.51
+152,US-2015-100151,08/07/2015,15/07/2015,Second Class,CU-44531,Customer 115,Consumer,United States,Philadelphia,Pennsylvania,19103,East,TEC-69287,Technology,Copiers,Multifunction Copier,603.4,4.0,0.1,51.16
+153,US-2016-100152,20/03/2016,23/03/2016,First Class,CU-75079,Customer 242,Corporate,United States,Chicago,Illinois,60601,Central,FUR-87692,Furniture,Furnishings,Desk Lamp,46.21,1.0,0.1,-3.27
+154,US-2017-100153,13/02/2017,17/02/2017,Same Day,CU-19413,Customer 167,Home Office,United States,Los Angeles,California,90001,West,TEC-14731,Technology,Copiers,Multifunction Copier,1118.24,3.0,0.5,59.76
+155,US-2017-100154,12/10/2017,18/10/2017,Same Day,CU-71237,Customer 228,Corporate,United States,Philadelphia,Pennsylvania,19103,East,OFF-17493,Office Supplies,Binders,Presentation Binder,54.54,9.0,0.2,-5.82
+156,US-2015-100155,05/05/2015,11/05/2015,Standard Class,CU-94263,Customer 83,Home Office,United States,New York City,New York,10001,East,FUR-89087,Furniture,Furnishings,Desk Lamp,1058.64,5.0,0.2,159.44
+157,US-2015-100156,29/06/2015,05/07/2015,Standard Class,CU-58283,Customer 60,Home Office,United States,Atlanta,Georgia,30301,South,OFF-16903,Office Supplies,Binders,Ring Binder,2447.26,7.0,0.0,155.48
+158,US-2017-100157,02/03/2017,08/03/2017,Second Class,CU-45073,Customer 202,Corporate,United States,Atlanta,Georgia,30301,South,TEC-53358,Technology,Phones,Wireless Phone,2373.92,6.0,0.2,-202.3
+159,US-2016-100158,04/04/2016,09/04/2016,Standard Class,CU-20655,Customer 220,Home Office,United States,Los Angeles,California,90001,West,TEC-29908,Technology,Machines,Shredder,1521.12,9.0,0.2,35.99
+160,US-2014-100159,11/04/2014,13/04/2014,First Class,CU-49024,Customer 172,Corporate,United States,Miami,Florida,33101,South,TEC-24705,Technology,Accessories,Keyboard,117.53,8.0,0.5,2.9
+161,US-2016-100160,02/09/2016,03/09/2016,Same Day,CU-29289,Customer 112,Consumer,United States,Philadelphia,Pennsylvania,19103,East,OFF-61680,Office Supplies,Art,Drawing Pad,419.86,2.0,0.0,31.31
+162,US-2015-100161,20/12/2015,23/12/2015,Same Day,CU-32064,Customer 21,Corporate,United States,Los Angeles,California,90001,West,FUR-68649,Furniture,Bookcases,Modern Bookcase,1661.65,9.0,0.1,402.28
+163,US-2017-100162,26/06/2017,03/07/2017,Second Class,CU-99417,Customer 120,Home Office,United States,Atlanta,Georgia,30301,South,OFF-69463,Office Supplies,Paper,Copy Paper,40.02,2.0,0.2,2.56
+164,US-2014-100163,25/10/2014,30/10/2014,Same Day,CU-92043,Customer 30,Consumer,United States,New York City,New York,10001,East,OFF-15384,Office Supplies,Paper,Notebook Paper,217.09,9.0,0.1,41.05
+165,US-2017-100164,03/05/2017,10/05/2017,Same Day,CU-50050,Customer 247,Consumer,United States,New York City,New York,10001,East,FUR-25493,Furniture,Tables,Conference Table,257.08,1.0,0.5,2.67
+166,US-2015-100165,26/02/2015,01/03/2015,Standard Class,CU-21474,Customer 177,Corporate,United States,Atlanta,Georgia,30301,South,TEC-84700,Technology,Phones,Wireless Phone,1302.33,3.0,0.0,290.34
+167,US-2017-100166,25/11/2017,30/11/2017,Second Class,CU-58914,Customer 241,Home Office,United States,Los Angeles,California,90001,West,TEC-29398,Technology,Accessories,Keyboard,2153.53,6.0,0.0,182.28
+168,US-2015-100167,02/10/2015,07/10/2015,Second Class,CU-20266,Customer 23,Home Office,United States,Atlanta,Georgia,30301,South,TEC-16969,Technology,Accessories,USB Drive,881.54,5.0,0.1,14.56
+169,US-2017-100168,12/02/2017,18/02/2017,Same Day,CU-28523,Customer 71,Home Office,United States,Seattle,Washington,98101,West,OFF-83642,Office Supplies,Binders,Presentation Binder,157.51,8.0,0.3,-9.07
+170,US-2015-100169,14/07/2015,18/07/2015,Standard Class,CU-93961,Customer 16,Consumer,United States,Los Angeles,California,90001,West,OFF-27560,Office Supplies,Labels,Shipping Labels,984.75,9.0,0.2,-66.14
+171,US-2016-100170,10/04/2016,13/04/2016,Same Day,CU-65600,Customer 163,Home Office,United States,Los Angeles,California,90001,West,TEC-66237,Technology,Accessories,Keyboard,564.2,6.0,0.3,76.72
+172,US-2014-100171,06/07/2014,09/07/2014,Same Day,CU-39302,Customer 192,Consumer,United States,Atlanta,Georgia,30301,South,FUR-58642,Furniture,Bookcases,Wooden Bookcase,597.83,3.0,0.3,5.3
+173,US-2014-100172,24/09/2014,29/09/2014,Same Day,CU-74970,Customer 225,Consumer,United States,Houston,Texas,77001,Central,FUR-74359,Furniture,Bookcases,Modern Bookcase,395.81,2.0,0.3,-14.32
+174,US-2017-100173,19/01/2017,21/01/2017,First Class,CU-34921,Customer 248,Consumer,United States,Atlanta,Georgia,30301,South,TEC-53764,Technology,Phones,Wireless Phone,1178.6,5.0,0.0,44.51
+175,US-2015-100174,29/11/2015,06/12/2015,First Class,CU-14574,Customer 149,Home Office,United States,Seattle,Washington,98101,West,OFF-11559,Office Supplies,Labels,Address Labels,739.72,7.0,0.2,73.48
+176,US-2015-100175,23/12/2015,30/12/2015,First Class,CU-91304,Customer 107,Corporate,United States,Houston,Texas,77001,Central,FUR-67413,Furniture,Chairs,Ergonomic Chair,370.71,1.0,0.3,48.31
+177,US-2017-100176,04/06/2017,10/06/2017,First Class,CU-43381,Customer 150,Corporate,United States,Los Angeles,California,90001,West,OFF-66618,Office Supplies,Paper,Copy Paper,1214.59,4.0,0.3,223.65
+178,US-2015-100177,24/06/2015,28/06/2015,First Class,CU-44814,Customer 50,Corporate,United States,Miami,Florida,33101,South,FUR-66413,Furniture,Tables,Work Table,500.55,5.0,0.2,-37.48
+179,US-2016-100178,27/12/2016,29/12/2016,Second Class,CU-27789,Customer 99,Consumer,United States,New York City,New York,10001,East,TEC-39525,Technology,Machines,Printer,2582.38,6.0,0.0,-215.88
+180,US-2014-100179,04/10/2014,11/10/2014,Second Class,CU-82197,Customer 37,Corporate,United States,Seattle,Washington,98101,West,TEC-34608,Technology,Copiers,Desktop Copier,574.91,7.0,0.3,22.42
+181,US-2015-100180,27/03/2015,30/03/2015,Standard Class,CU-80398,Customer 145,Home Office,United States,Los Angeles,California,90001,West,FUR-19810,Furniture,Tables,Conference Table,281.52,8.0,0.3,11.21
+182,US-2014-100181,28/10/2014,01/11/2014,Standard Class,CU-40901,Customer 98,Home Office,United States,Miami,Florida,33101,South,OFF-31683,Office Supplies,Labels,Address Labels,494.76,3.0,0.0,25.24
+183,US-2017-100182,02/01/2017,04/01/2017,Same Day,CU-43234,Customer 225,Consumer,United States,Atlanta,Georgia,30301,South,FUR-58539,Furniture,Bookcases,Wooden Bookcase,798.86,4.0,0.0,-15.76
+184,US-2014-100183,28/03/2014,04/04/2014,Same Day,CU-49695,Customer 222,Home Office,United States,Miami,Florida,33101,South,OFF-91773,Office Supplies,Storage,Storage Box,2344.55,6.0,0.3,186.79
+185,US-2017-100184,01/03/2017,04/03/2017,Second Class,CU-46662,Customer 113,Corporate,United States,Seattle,Washington,98101,West,OFF-78711,Office Supplies,Art,Marker Set,1517.82,7.0,0.0,94.95
+186,US-2016-100185,27/07/2016,02/08/2016,Same Day,CU-70114,Customer 218,Consumer,United States,Seattle,Washington,98101,West,TEC-90090,Technology,Phones,Wireless Phone,1073.04,3.0,0.0,298.06
+187,US-2015-100186,04/04/2015,05/04/2015,Same Day,CU-60129,Customer 154,Consumer,United States,Los Angeles,California,90001,West,OFF-29389,Office Supplies,Art,Marker Set,3381.66,8.0,0.3,-4.27
+188,US-2014-100187,23/11/2014,25/11/2014,Same Day,CU-70384,Customer 48,Home Office,United States,Los Angeles,California,90001,West,TEC-25791,Technology,Phones,Wireless Phone,1653.16,9.0,0.0,236.36
+189,US-2017-100188,31/03/2017,07/04/2017,Second Class,CU-31172,Customer 240,Consumer,United States,Los Angeles,California,90001,West,FUR-40799,Furniture,Furnishings,Wall Clock,2143.81,7.0,0.0,429.24
+190,US-2016-100189,31/03/2016,02/04/2016,Same Day,CU-62093,Customer 95,Home Office,United States,Atlanta,Georgia,30301,South,FUR-85160,Furniture,Chairs,Ergonomic Chair,467.41,4.0,0.3,59.51
+191,US-2014-100190,08/11/2014,13/11/2014,Same Day,CU-56701,Customer 182,Home Office,United States,Miami,Florida,33101,South,FUR-79085,Furniture,Tables,Conference Table,84.94,4.0,0.5,-2.57
+192,US-2014-100191,24/07/2014,27/07/2014,Standard Class,CU-49175,Customer 120,Home Office,United States,New York City,New York,10001,East,OFF-87562,Office Supplies,Art,Marker Set,352.88,4.0,0.0,9.29
+193,US-2016-100192,26/07/2016,01/08/2016,Standard Class,CU-32128,Customer 248,Home Office,United States,Seattle,Washington,98101,West,TEC-17827,Technology,Phones,Wireless Phone,367.79,2.0,0.2,72.69
+194,US-2017-100193,16/11/2017,17/11/2017,Second Class,CU-27301,Customer 199,Consumer,United States,Miami,Florida,33101,South,OFF-91683,Office Supplies,Storage,File Organizer,173.35,2.0,0.2,-3.54
+195,US-2017-100194,17/03/2017,22/03/2017,First Class,CU-46183,Customer 232,Consumer,United States,Seattle,Washington,98101,West,FUR-46257,Furniture,Tables,Work Table,128.45,2.0,0.1,29.58
+196,US-2016-100195,11/07/2016,14/07/2016,Same Day,CU-45345,Customer 229,Corporate,United States,Miami,Florida,33101,South,FUR-86588,Furniture,Bookcases,Wooden Bookcase,578.21,2.0,0.2,-27.43
+197,US-2017-100196,23/05/2017,24/05/2017,First Class,CU-78396,Customer 151,Consumer,United States,Los Angeles,California,90001,West,FUR-20958,Furniture,Tables,Work Table,1123.1,8.0,0.5,65.22
+198,US-2014-100197,21/08/2014,28/08/2014,First Class,CU-14168,Customer 205,Consumer,United States,Miami,Florida,33101,South,FUR-77441,Furniture,Tables,Conference Table,1579.99,4.0,0.0,269.0
+199,US-2015-100198,25/02/2015,28/02/2015,Same Day,CU-45558,Customer 208,Home Office,United States,Seattle,Washington,98101,West,FUR-96489,Furniture,Furnishings,Desk Lamp,688.06,3.0,0.2,55.34
+200,US-2017-100199,11/03/2017,13/03/2017,Standard Class,CU-50840,Customer 240,Consumer,United States,Atlanta,Georgia,30301,South,TEC-74964,Technology,Machines,Printer,1661.09,7.0,0.3,223.19
+201,US-2017-100200,02/09/2017,04/09/2017,Standard Class,CU-18442,Customer 149,Corporate,United States,Miami,Florida,33101,South,TEC-65400,Technology,Accessories,USB Drive,861.5,4.0,0.3,165.39
+202,US-2014-100201,23/05/2014,25/05/2014,Same Day,CU-32455,Customer 192,Consumer,United States,Atlanta,Georgia,30301,South,OFF-40316,Office Supplies,Art,Drawing Pad,1764.28,4.0,0.2,-28.84
+203,US-2016-100202,04/06/2016,07/06/2016,Second Class,CU-60716,Customer 151,Corporate,United States,Los Angeles,California,90001,West,OFF-52691,Office Supplies,Labels,Shipping Labels,919.71,9.0,0.0,143.59
+204,US-2015-100203,23/10/2015,26/10/2015,Same Day,CU-42384,Customer 187,Corporate,United States,New York City,New York,10001,East,TEC-33184,Technology,Copiers,Multifunction Copier,180.81,1.0,0.2,-18.53
+205,US-2017-100204,19/06/2017,21/06/2017,Same Day,CU-32112,Customer 199,Consumer,United States,Seattle,Washington,98101,West,TEC-46686,Technology,Machines,Shredder,722.87,3.0,0.1,120.41
+206,US-2015-100205,12/05/2015,19/05/2015,First Class,CU-21079,Customer 112,Consumer,United States,New York City,New York,10001,East,OFF-67638,Office Supplies,Art,Marker Set,2014.93,6.0,0.5,55.15
+207,US-2014-100206,22/10/2014,23/10/2014,Second Class,CU-97510,Customer 43,Home Office,United States,Chicago,Illinois,60601,Central,TEC-71020,Technology,Copiers,Multifunction Copier,262.06,1.0,0.1,-21.08
+208,US-2017-100207,20/04/2017,23/04/2017,Standard Class,CU-15514,Customer 247,Consumer,United States,Atlanta,Georgia,30301,South,TEC-16665,Technology,Phones,Office Phone,88.28,2.0,0.0,-10.54
+209,US-2014-100208,13/07/2014,17/07/2014,Second Class,CU-67461,Customer 110,Corporate,United States,New York City,New York,10001,East,TEC-94490,Technology,Machines,Shredder,285.39,1.0,0.3,45.81
+210,US-2015-100209,29/08/2015,02/09/2015,Same Day,CU-47973,Customer 39,Home Office,United States,Philadelphia,Pennsylvania,19103,East,TEC-32171,Technology,Accessories,USB Drive,398.46,5.0,0.2,-12.08
+211,US-2017-100210,14/05/2017,19/05/2017,Standard Class,CU-37689,Customer 188,Consumer,United States,Miami,Florida,33101,South,FUR-50716,Furniture,Furnishings,Wall Clock,232.04,6.0,0.5,20.76
+212,US-2016-100211,07/08/2016,14/08/2016,First Class,CU-50073,Customer 152,Consumer,United States,Philadelphia,Pennsylvania,19103,East,FUR-66118,Furniture,Chairs,Ergonomic Chair,799.6,6.0,0.1,84.49
+213,US-2014-100212,17/07/2014,20/07/2014,Standard Class,CU-46812,Customer 109,Consumer,United States,Atlanta,Georgia,30301,South,TEC-99646,Technology,Machines,Shredder,222.21,6.0,0.3,6.55
+214,US-2015-100213,28/04/2015,02/05/2015,First Class,CU-96482,Customer 118,Corporate,United States,Los Angeles,California,90001,West,TEC-54926,Technology,Machines,Shredder,1122.21,3.0,0.2,158.89
+215,US-2016-100214,23/06/2016,29/06/2016,Standard Class,CU-16466,Customer 103,Corporate,United States,New York City,New York,10001,East,TEC-70175,Technology,Copiers,Desktop Copier,2452.42,9.0,0.2,327.9
+216,US-2016-100215,22/01/2016,29/01/2016,Second Class,CU-48337,Customer 55,Consumer,United States,Houston,Texas,77001,Central,OFF-18566,Office Supplies,Storage,Storage Box,2165.71,5.0,0.2,-125.13
+217,US-2014-100216,01/01/2014,06/01/2014,Same Day,CU-23885,Customer 27,Home Office,United States,Seattle,Washington,98101,West,OFF-97011,Office Supplies,Paper,Notebook Paper,91.69,5.0,0.3,6.1
+218,US-2015-100217,10/08/2015,15/08/2015,Same Day,CU-32498,Customer 226,Home Office,United States,Los Angeles,California,90001,West,FUR-55018,Furniture,Chairs,Office Chair,1127.2,6.0,0.1,-51.54
+219,US-2017-100218,08/01/2017,12/01/2017,First Class,CU-33658,Customer 160,Corporate,United States,Los Angeles,California,90001,West,TEC-77571,Technology,Accessories,Keyboard,1055.63,8.0,0.1,-40.2
+220,US-2014-100219,13/01/2014,20/01/2014,Same Day,CU-44121,Customer 132,Home Office,United States,Atlanta,Georgia,30301,South,FUR-84954,Furniture,Tables,Work Table,2325.28,6.0,0.2,-115.97
+221,US-2015-100220,19/03/2015,26/03/2015,Same Day,CU-34221,Customer 10,Consumer,United States,Los Angeles,California,90001,West,OFF-67320,Office Supplies,Paper,Notebook Paper,2040.62,5.0,0.5,197.26
+222,US-2014-100221,28/04/2014,02/05/2014,First Class,CU-48166,Customer 83,Corporate,United States,Seattle,Washington,98101,West,FUR-21450,Furniture,Tables,Conference Table,1116.67,6.0,0.3,-5.14
+223,US-2014-100222,03/10/2014,07/10/2014,Standard Class,CU-11904,Customer 244,Consumer,United States,Houston,Texas,77001,Central,TEC-20080,Technology,Copiers,Desktop Copier,342.67,1.0,0.1,27.2
+224,US-2015-100223,08/01/2015,13/01/2015,First Class,CU-12000,Customer 212,Consumer,United States,Los Angeles,California,90001,West,TEC-23985,Technology,Accessories,Keyboard,28.5,1.0,0.5,-2.0
+225,US-2016-100224,04/06/2016,06/06/2016,Standard Class,CU-10991,Customer 137,Consumer,United States,Seattle,Washington,98101,West,OFF-63458,Office Supplies,Art,Marker Set,1448.11,4.0,0.0,338.88
+226,US-2015-100225,08/05/2015,12/05/2015,First Class,CU-96370,Customer 238,Home Office,United States,Atlanta,Georgia,30301,South,TEC-54465,Technology,Phones,Wireless Phone,596.71,2.0,0.0,64.3
+227,US-2015-100226,15/03/2015,22/03/2015,Second Class,CU-74026,Customer 90,Consumer,United States,Seattle,Washington,98101,West,OFF-39285,Office Supplies,Art,Marker Set,171.5,7.0,0.1,0.22
+228,US-2016-100227,04/03/2016,09/03/2016,First Class,CU-87824,Customer 119,Corporate,United States,Houston,Texas,77001,Central,FUR-64305,Furniture,Tables,Conference Table,2558.44,7.0,0.1,-243.61
+229,US-2014-100228,25/12/2014,27/12/2014,Standard Class,CU-84196,Customer 142,Home Office,United States,Philadelphia,Pennsylvania,19103,East,FUR-49238,Furniture,Furnishings,Desk Lamp,1131.68,6.0,0.2,-67.03
+230,US-2016-100229,07/06/2016,14/06/2016,Standard Class,CU-74371,Customer 242,Consumer,United States,Los Angeles,California,90001,West,OFF-91530,Office Supplies,Binders,Ring Binder,3857.04,9.0,0.2,549.55
+231,US-2017-100230,18/11/2017,20/11/2017,Second Class,CU-47552,Customer 159,Corporate,United States,Los Angeles,California,90001,West,OFF-55158,Office Supplies,Art,Marker Set,277.77,1.0,0.5,15.88
+232,US-2016-100231,25/08/2016,31/08/2016,Second Class,CU-59026,Customer 78,Home Office,United States,Los Angeles,California,90001,West,TEC-97250,Technology,Phones,Wireless Phone,2678.51,7.0,0.2,148.34
+233,US-2016-100232,06/12/2016,07/12/2016,First Class,CU-76072,Customer 25,Consumer,United States,Los Angeles,California,90001,West,OFF-95216,Office Supplies,Labels,Address Labels,843.64,4.0,0.1,193.85
+234,US-2016-100233,16/08/2016,19/08/2016,Same Day,CU-18552,Customer 173,Corporate,United States,Miami,Florida,33101,South,FUR-98857,Furniture,Furnishings,Wall Clock,839.77,3.0,0.2,-26.27
+235,US-2014-100234,08/08/2014,12/08/2014,Same Day,CU-77838,Customer 35,Consumer,United States,Seattle,Washington,98101,West,FUR-56031,Furniture,Tables,Conference Table,286.2,8.0,0.1,14.01
+236,US-2014-100235,07/02/2014,13/02/2014,Same Day,CU-27071,Customer 29,Corporate,United States,Chicago,Illinois,60601,Central,TEC-89657,Technology,Machines,Printer,1624.72,8.0,0.5,105.48
+237,US-2015-100236,16/12/2015,18/12/2015,Second Class,CU-22580,Customer 53,Corporate,United States,Philadelphia,Pennsylvania,19103,East,FUR-72101,Furniture,Chairs,Office Chair,50.26,2.0,0.3,-0.94
+238,US-2016-100237,01/03/2016,05/03/2016,Second Class,CU-78374,Customer 28,Corporate,United States,Houston,Texas,77001,Central,FUR-11239,Furniture,Chairs,Office Chair,278.02,1.0,0.1,32.55
+239,US-2014-100238,29/12/2014,01/01/2015,Standard Class,CU-63415,Customer 37,Consumer,United States,Houston,Texas,77001,Central,OFF-66917,Office Supplies,Paper,Copy Paper,1207.61,7.0,0.5,47.15
+240,US-2017-100239,09/01/2017,12/01/2017,Same Day,CU-98190,Customer 150,Consumer,United States,Seattle,Washington,98101,West,TEC-78745,Technology,Accessories,Keyboard,353.14,1.0,0.5,-24.79
+241,US-2015-100240,20/02/2015,26/02/2015,Second Class,CU-50043,Customer 240,Corporate,United States,Atlanta,Georgia,30301,South,TEC-58254,Technology,Machines,Shredder,1324.58,3.0,0.5,-87.28
+242,US-2017-100241,04/03/2017,07/03/2017,Same Day,CU-10283,Customer 120,Consumer,United States,Los Angeles,California,90001,West,FUR-98023,Furniture,Furnishings,Desk Lamp,205.82,1.0,0.0,-2.21
+243,US-2015-100242,25/11/2015,26/11/2015,Standard Class,CU-18163,Customer 137,Corporate,United States,Chicago,Illinois,60601,Central,FUR-10754,Furniture,Bookcases,Wooden Bookcase,857.86,7.0,0.5,28.63
+244,US-2016-100243,02/12/2016,06/12/2016,Same Day,CU-21600,Customer 70,Corporate,United States,Atlanta,Georgia,30301,South,TEC-86991,Technology,Copiers,Multifunction Copier,687.08,3.0,0.3,20.56
+245,US-2015-100244,24/07/2015,27/07/2015,Second Class,CU-45265,Customer 141,Consumer,United States,Miami,Florida,33101,South,OFF-74292,Office Supplies,Labels,Shipping Labels,415.27,3.0,0.0,-56.74
+246,US-2015-100245,07/11/2015,09/11/2015,Second Class,CU-51421,Customer 117,Corporate,United States,Philadelphia,Pennsylvania,19103,East,OFF-42516,Office Supplies,Art,Marker Set,487.28,3.0,0.2,61.67
+247,US-2017-100246,29/05/2017,30/05/2017,First Class,CU-54513,Customer 138,Consumer,United States,New York City,New York,10001,East,OFF-95727,Office Supplies,Paper,Copy Paper,156.82,1.0,0.5,-10.45
+248,US-2016-100247,17/09/2016,23/09/2016,First Class,CU-47427,Customer 178,Home Office,United States,Los Angeles,California,90001,West,OFF-99351,Office Supplies,Binders,Ring Binder,3374.89,8.0,0.1,472.18
+249,US-2015-100248,14/05/2015,18/05/2015,Second Class,CU-11271,Customer 19,Home Office,United States,Houston,Texas,77001,Central,FUR-64461,Furniture,Bookcases,Modern Bookcase,666.79,8.0,0.2,60.62
+250,US-2015-100249,13/01/2015,14/01/2015,Standard Class,CU-34565,Customer 49,Home Office,United States,Chicago,Illinois,60601,Central,TEC-44075,Technology,Phones,Wireless Phone,378.49,3.0,0.5,-5.65
+251,US-2015-100250,17/07/2015,24/07/2015,Second Class,CU-78097,Customer 150,Home Office,United States,Houston,Texas,77001,Central,OFF-41607,Office Supplies,Paper,Copy Paper,45.72,3.0,0.0,-2.88
+252,US-2014-100251,07/03/2014,11/03/2014,Same Day,CU-53102,Customer 223,Consumer,United States,Atlanta,Georgia,30301,South,TEC-49090,Technology,Machines,Shredder,1047.53,3.0,0.0,223.16
+253,US-2017-100252,24/01/2017,29/01/2017,Second Class,CU-79307,Customer 10,Consumer,United States,New York City,New York,10001,East,TEC-34890,Technology,Copiers,Desktop Copier,46.08,1.0,0.5,6.39
+254,US-2014-100253,14/07/2014,15/07/2014,Same Day,CU-77675,Customer 69,Home Office,United States,Philadelphia,Pennsylvania,19103,East,TEC-47275,Technology,Copiers,Multifunction Copier,2181.4,8.0,0.2,-188.32
+255,US-2014-100254,03/03/2014,08/03/2014,Standard Class,CU-34330,Customer 215,Home Office,United States,Miami,Florida,33101,South,OFF-92506,Office Supplies,Storage,File Organizer,1742.36,9.0,0.1,357.76
+256,US-2017-100255,10/01/2017,13/01/2017,First Class,CU-79009,Customer 88,Corporate,United States,Houston,Texas,77001,Central,TEC-60920,Technology,Machines,Printer,475.15,4.0,0.1,-36.23
+257,US-2015-100256,27/08/2015,31/08/2015,First Class,CU-85431,Customer 42,Consumer,United States,Seattle,Washington,98101,West,TEC-93391,Technology,Copiers,Desktop Copier,2477.9,7.0,0.5,329.64
+258,US-2016-100257,26/03/2016,28/03/2016,Same Day,CU-41792,Customer 141,Corporate,United States,Seattle,Washington,98101,West,FUR-74892,Furniture,Furnishings,Desk Lamp,728.99,6.0,0.0,-73.24
+259,US-2014-100258,27/03/2014,30/03/2014,Standard Class,CU-69662,Customer 95,Consumer,United States,Chicago,Illinois,60601,Central,OFF-45985,Office Supplies,Binders,Presentation Binder,232.46,1.0,0.0,-9.02
+260,US-2015-100259,17/01/2015,24/01/2015,First Class,CU-52389,Customer 39,Home Office,United States,Atlanta,Georgia,30301,South,FUR-19373,Furniture,Bookcases,Wooden Bookcase,798.26,3.0,0.1,28.98
+261,US-2017-100260,30/12/2017,05/01/2018,Same Day,CU-20261,Customer 146,Home Office,United States,Philadelphia,Pennsylvania,19103,East,OFF-68931,Office Supplies,Paper,Notebook Paper,1246.11,3.0,0.2,-111.91
+262,US-2015-100261,18/05/2015,21/05/2015,Standard Class,CU-87306,Customer 64,Corporate,United States,Atlanta,Georgia,30301,South,FUR-73473,Furniture,Chairs,Ergonomic Chair,948.04,5.0,0.1,201.62
+263,US-2014-100262,09/04/2014,14/04/2014,Same Day,CU-95485,Customer 222,Home Office,United States,Seattle,Washington,98101,West,FUR-46199,Furniture,Bookcases,Modern Bookcase,296.33,1.0,0.1,-29.22
+264,US-2015-100263,14/12/2015,15/12/2015,Second Class,CU-52198,Customer 92,Corporate,United States,Atlanta,Georgia,30301,South,TEC-32909,Technology,Accessories,Keyboard,974.32,4.0,0.2,-96.6
+265,US-2015-100264,18/07/2015,20/07/2015,First Class,CU-58050,Customer 249,Home Office,United States,Philadelphia,Pennsylvania,19103,East,FUR-11514,Furniture,Tables,Work Table,531.35,3.0,0.3,-0.55
+266,US-2015-100265,28/02/2015,05/03/2015,Same Day,CU-73986,Customer 107,Home Office,United States,Houston,Texas,77001,Central,FUR-72847,Furniture,Furnishings,Desk Lamp,2048.85,5.0,0.5,-127.8
+267,US-2017-100266,11/12/2017,17/12/2017,Standard Class,CU-55690,Customer 21,Home Office,United States,Seattle,Washington,98101,West,OFF-85065,Office Supplies,Binders,Ring Binder,241.79,4.0,0.2,33.49
+268,US-2016-100267,23/05/2016,28/05/2016,Same Day,CU-18913,Customer 139,Home Office,United States,Miami,Florida,33101,South,TEC-29464,Technology,Machines,Printer,2658.14,7.0,0.2,-285.67
+269,US-2017-100268,10/06/2017,16/06/2017,Second Class,CU-28392,Customer 173,Consumer,United States,Los Angeles,California,90001,West,OFF-54533,Office Supplies,Storage,File Organizer,155.2,1.0,0.0,23.69
+270,US-2016-100269,04/11/2016,10/11/2016,First Class,CU-29318,Customer 77,Corporate,United States,Atlanta,Georgia,30301,South,FUR-36920,Furniture,Bookcases,Wooden Bookcase,1312.63,3.0,0.0,147.7
+271,US-2014-100270,27/02/2014,28/02/2014,Second Class,CU-78084,Customer 53,Corporate,United States,Philadelphia,Pennsylvania,19103,East,TEC-31609,Technology,Machines,Printer,2964.19,9.0,0.0,764.81
+272,US-2017-100271,27/06/2017,01/07/2017,First Class,CU-65599,Customer 248,Home Office,United States,Houston,Texas,77001,Central,FUR-17086,Furniture,Chairs,Ergonomic Chair,981.47,5.0,0.1,208.63
+273,US-2015-100272,16/07/2015,17/07/2015,Same Day,CU-54665,Customer 154,Home Office,United States,Houston,Texas,77001,Central,FUR-85838,Furniture,Furnishings,Desk Lamp,163.69,2.0,0.1,26.3
+274,US-2017-100273,23/10/2017,24/10/2017,Same Day,CU-21008,Customer 50,Consumer,United States,New York City,New York,10001,East,FUR-61627,Furniture,Chairs,Ergonomic Chair,121.18,1.0,0.1,-6.56
+275,US-2015-100274,29/12/2015,04/01/2016,Standard Class,CU-72077,Customer 53,Home Office,United States,Houston,Texas,77001,Central,OFF-84920,Office Supplies,Binders,Ring Binder,197.42,3.0,0.5,3.38
+276,US-2016-100275,22/03/2016,26/03/2016,First Class,CU-10717,Customer 181,Consumer,United States,Chicago,Illinois,60601,Central,OFF-15975,Office Supplies,Binders,Ring Binder,69.67,2.0,0.2,-1.46
+277,US-2017-100276,13/06/2017,18/06/2017,First Class,CU-31123,Customer 118,Corporate,United States,Atlanta,Georgia,30301,South,TEC-79112,Technology,Phones,Office Phone,87.31,3.0,0.0,18.95
+278,US-2015-100277,21/02/2015,27/02/2015,Standard Class,CU-95049,Customer 13,Consumer,United States,Houston,Texas,77001,Central,TEC-52987,Technology,Accessories,USB Drive,2225.68,5.0,0.2,368.93
+279,US-2017-100278,18/07/2017,19/07/2017,Second Class,CU-56929,Customer 66,Corporate,United States,New York City,New York,10001,East,OFF-48516,Office Supplies,Labels,Shipping Labels,1334.79,,0.1,9.17
+280,US-2016-100279,13/10/2016,16/10/2016,Same Day,CU-61690,Customer 34,Corporate,United States,Chicago,Illinois,60601,Central,TEC-72446,Technology,Accessories,Keyboard,283.5,4.0,0.5,15.44
+281,US-2017-100280,22/05/2017,23/05/2017,Standard Class,CU-98845,Customer 68,Consumer,United States,Atlanta,Georgia,30301,South,FUR-40194,Furniture,Chairs,Office Chair,150.44,6.0,0.0,26.74
+282,US-2014-100281,05/06/2014,06/06/2014,Standard Class,CU-27738,Customer 247,Home Office,United States,Philadelphia,Pennsylvania,19103,East,TEC-33185,Technology,Machines,Printer,1149.44,7.0,0.2,97.41
+283,US-2014-100282,04/10/2014,08/10/2014,Second Class,CU-90327,Customer 98,Home Office,United States,Houston,Texas,77001,Central,FUR-28317,Furniture,Chairs,Ergonomic Chair,2144.12,6.0,,298.16
+284,US-2016-100283,09/02/2016,13/02/2016,First Class,CU-54946,Customer 104,Consumer,United States,Los Angeles,California,90001,West,TEC-58368,Technology,Accessories,Keyboard,1258.94,3.0,0.2,271.0
+285,US-2015-100284,13/12/2015,16/12/2015,Same Day,CU-21145,Customer 25,Consumer,United States,Atlanta,Georgia,30301,South,FUR-77601,Furniture,Chairs,Office Chair,306.44,9.0,0.2,61.42
+286,US-2017-100285,08/05/2017,09/05/2017,First Class,CU-33588,Customer 189,Consumer,United States,Miami,Florida,33101,South,FUR-84536,Furniture,Furnishings,Wall Clock,242.23,7.0,0.0,29.46
+287,US-2016-100286,14/11/2016,21/11/2016,Standard Class,CU-69790,Customer 103,Corporate,United States,Atlanta,Georgia,30301,South,OFF-70438,Office Supplies,Storage,File Organizer,3877.28,9.0,0.3,278.56
+288,US-2015-100287,09/07/2015,16/07/2015,Second Class,CU-15228,Customer 13,Corporate,United States,Miami,Florida,33101,South,OFF-46384,Office Supplies,Binders,Ring Binder,489.18,,,42.17
+289,US-2016-100288,01/05/2016,07/05/2016,Same Day,CU-66227,Customer 236,Corporate,United States,Miami,Florida,33101,South,OFF-12262,Office Supplies,Paper,Notebook Paper,1740.78,6.0,0.3,231.29
+290,US-2017-100289,09/02/2017,10/02/2017,First Class,CU-45885,Customer 148,Consumer,United States,Seattle,Washington,98101,West,FUR-29956,Furniture,Chairs,Ergonomic Chair,1966.76,5.0,0.2,-174.84
+291,US-2016-100290,07/12/2016,14/12/2016,Same Day,CU-87768,Customer 9,Home Office,United States,New York City,New York,10001,East,TEC-43295,Technology,Accessories,Keyboard,1395.11,9.0,0.2,46.75
+292,US-2015-100291,22/01/2015,25/01/2015,Second Class,CU-44352,Customer 126,Home Office,United States,Seattle,Washington,98101,West,FUR-31135,Furniture,Bookcases,Modern Bookcase,180.18,2.0,0.0,46.12
+293,US-2014-100292,04/06/2014,06/06/2014,First Class,CU-19973,Customer 230,Corporate,United States,Atlanta,Georgia,30301,South,OFF-91112,Office Supplies,Binders,Presentation Binder,2788.3,8.0,0.1,489.76
+294,US-2014-100293,01/10/2014,04/10/2014,First Class,CU-67818,Customer 53,Home Office,United States,Atlanta,Georgia,30301,South,FUR-83749,Furniture,Bookcases,Modern Bookcase,3583.04,9.0,0.3,219.38
+295,US-2015-100294,29/12/2015,31/12/2015,Same Day,CU-14799,Customer 150,Home Office,United States,Philadelphia,Pennsylvania,19103,East,FUR-69306,Furniture,Tables,Conference Table,2616.61,7.0,0.5,-40.3
+296,US-2014-100295,23/03/2014,27/03/2014,Standard Class,CU-73188,Customer 58,Consumer,United States,Atlanta,Georgia,30301,South,TEC-85296,Technology,Machines,Shredder,956.08,5.0,0.5,-51.82
+297,US-2014-100296,01/08/2014,02/08/2014,Same Day,CU-43128,Customer 193,Corporate,United States,Chicago,Illinois,60601,Central,FUR-36262,Furniture,Furnishings,Wall Clock,691.11,9.0,0.1,57.36
+298,US-2015-100297,26/09/2015,28/09/2015,First Class,CU-65479,Customer 160,Corporate,United States,Atlanta,Georgia,30301,South,TEC-72143,Technology,Copiers,Desktop Copier,3363.96,9.0,0.1,353.2
+299,US-2014-100298,25/01/2014,26/01/2014,Same Day,CU-55875,Customer 79,Corporate,United States,Seattle,Washington,98101,West,TEC-10000,Technology,Copiers,Multifunction Copier,344.54,2.0,0.3,-34.89
+300,US-2016-100299,29/01/2016,01/02/2016,Same Day,CU-65404,Customer 80,Home Office,United States,Houston,Texas,77001,Central,TEC-36456,Technology,Phones,Office Phone,856.87,5.0,0.0,-64.81
+301,US-2016-100300,04/03/2016,06/03/2016,Same Day,CU-12253,Customer 60,Consumer,United States,Seattle,Washington,98101,West,OFF-32984,Office Supplies,Binders,Presentation Binder,918.46,7.0,0.5,67.92
+302,US-2017-100301,28/06/2017,29/06/2017,First Class,CU-39080,Customer 99,Corporate,United States,Houston,Texas,77001,Central,TEC-13712,Technology,Machines,Shredder,2359.3,7.0,0.1,232.93
+303,US-2014-100302,26/05/2014,30/05/2014,Second Class,CU-84408,Customer 93,Corporate,United States,Philadelphia,Pennsylvania,19103,East,OFF-24266,Office Supplies,Binders,Presentation Binder,1010.73,4.0,0.0,174.79
+304,US-2015-100303,17/01/2015,22/01/2015,Standard Class,CU-41948,Customer 20,Home Office,United States,Seattle,Washington,98101,West,TEC-27516,Technology,Copiers,Multifunction Copier,834.15,2.0,0.1,157.33
+305,US-2014-100304,06/01/2014,11/01/2014,Same Day,CU-79088,Customer 159,Home Office,United States,Chicago,Illinois,60601,Central,OFF-80218,Office Supplies,Labels,Address Labels,410.37,2.0,0.0,9.45
+306,US-2017-100305,14/06/2017,15/06/2017,Second Class,CU-61161,Customer 237,Corporate,United States,Philadelphia,Pennsylvania,19103,East,TEC-47007,Technology,Accessories,Keyboard,392.18,9.0,0.1,90.1
+307,US-2016-100306,01/09/2016,05/09/2016,Same Day,CU-30929,Customer 196,Corporate,United States,Miami,Florida,33101,South,OFF-14649,Office Supplies,Art,Drawing Pad,341.47,5.0,0.0,38.96
+308,US-2015-100307,18/03/2015,25/03/2015,Second Class,CU-36977,Customer 50,Corporate,United States,Chicago,Illinois,60601,Central,TEC-87478,Technology,Copiers,Multifunction Copier,1743.56,5.0,0.0,109.03
+309,US-2017-100308,16/04/2017,23/04/2017,Same Day,CU-61408,Customer 38,Corporate,United States,Seattle,Washington,98101,West,TEC-74270,Technology,Accessories,Keyboard,952.54,9.0,0.5,119.39
+310,US-2015-100309,20/05/2015,23/05/2015,Second Class,CU-58912,Customer 157,Home Office,United States,Seattle,Washington,98101,West,FUR-56887,Furniture,Chairs,Ergonomic Chair,122.29,3.0,0.2,22.67
+311,US-2015-100310,18/09/2015,20/09/2015,Same Day,CU-78397,Customer 248,Corporate,United States,Los Angeles,California,90001,West,OFF-35813,Office Supplies,Art,Marker Set,277.44,3.0,0.5,21.94
+312,US-2015-100311,22/01/2015,25/01/2015,First Class,CU-16033,Customer 248,Consumer,United States,Miami,Florida,33101,South,TEC-47814,Technology,Copiers,Desktop Copier,2521.7,7.0,0.0,539.46
+313,US-2017-100312,03/04/2017,06/04/2017,First Class,CU-19534,Customer 190,Consumer,United States,Los Angeles,California,90001,West,TEC-38344,Technology,Phones,Office Phone,1619.23,9.0,0.5,75.42
+314,US-2016-100313,03/10/2016,06/10/2016,Same Day,CU-64663,Customer 18,Home Office,United States,Miami,Florida,33101,South,TEC-61733,Technology,Accessories,Keyboard,669.77,3.0,0.2,125.87
+315,US-2015-100314,14/11/2015,17/11/2015,Standard Class,CU-55087,Customer 31,Corporate,United States,Houston,Texas,77001,Central,OFF-80557,Office Supplies,Storage,File Organizer,643.38,3.0,0.1,58.05
+316,US-2016-100315,11/10/2016,17/10/2016,Standard Class,CU-69865,Customer 72,Home Office,United States,Miami,Florida,33101,South,FUR-76524,Furniture,Chairs,Ergonomic Chair,3077.83,8.0,0.1,278.54
+317,US-2014-100316,15/12/2014,21/12/2014,Standard Class,CU-88815,Customer 59,Home Office,United States,Chicago,Illinois,60601,Central,TEC-54641,Technology,Phones,Office Phone,2135.48,5.0,0.2,23.85
+318,US-2014-100317,19/09/2014,21/09/2014,Same Day,CU-70591,Customer 133,Consumer,United States,Miami,Florida,33101,South,TEC-44907,Technology,Copiers,Multifunction Copier,179.41,1.0,0.5,13.11
+319,US-2017-100318,31/03/2017,04/04/2017,First Class,CU-67851,Customer 200,Home Office,United States,Philadelphia,Pennsylvania,19103,East,TEC-16624,Technology,Phones,Office Phone,532.78,5.0,0.5,-20.44
+320,US-2015-100319,16/03/2015,18/03/2015,First Class,CU-46373,Customer 4,Corporate,United States,Los Angeles,California,90001,West,TEC-60083,Technology,Phones,Office Phone,839.79,8.0,0.1,208.66
+321,US-2016-100320,18/01/2016,25/01/2016,Same Day,CU-80623,Customer 77,Consumer,United States,Seattle,Washington,98101,West,TEC-24372,Technology,Accessories,USB Drive,552.3,7.0,0.2,74.47
+322,US-2016-100321,26/01/2016,02/02/2016,Second Class,CU-63404,Customer 115,Home Office,United States,Houston,Texas,77001,Central,TEC-26336,Technology,Phones,Wireless Phone,754.65,3.0,0.0,-24.92
+323,US-2016-100322,13/02/2016,15/02/2016,Standard Class,CU-78832,Customer 215,Corporate,United States,New York City,New York,10001,East,TEC-52644,Technology,Phones,Wireless Phone,3425.46,9.0,0.0,-256.09
+324,US-2014-100323,16/09/2014,18/09/2014,Standard Class,CU-57927,Customer 209,Consumer,United States,Miami,Florida,33101,South,TEC-17270,Technology,Phones,Wireless Phone,93.45,5.0,0.5,7.54
+325,US-2017-100324,11/07/2017,14/07/2017,Second Class,CU-68750,Customer 188,Home Office,United States,Seattle,Washington,98101,West,TEC-65189,Technology,Copiers,Multifunction Copier,1523.36,5.0,0.3,80.82
+326,US-2016-100325,07/05/2016,10/05/2016,First Class,CU-83475,Customer 247,Consumer,United States,New York City,New York,10001,East,FUR-24560,Furniture,Bookcases,Modern Bookcase,1823.3,9.0,0.0,385.96
+327,US-2017-100326,13/03/2017,15/03/2017,First Class,CU-56263,Customer 26,Consumer,United States,Chicago,Illinois,60601,Central,TEC-57492,Technology,Phones,Office Phone,324.41,2.0,0.3,29.27
+328,US-2015-100327,26/11/2015,27/11/2015,Standard Class,CU-31489,Customer 172,Home Office,United States,Los Angeles,California,90001,West,TEC-58524,Technology,Phones,Office Phone,964.38,6.0,0.1,128.03
+329,US-2017-100328,27/09/2017,01/10/2017,Same Day,CU-86192,Customer 21,Corporate,United States,Seattle,Washington,98101,West,OFF-57500,Office Supplies,Storage,Storage Box,2337.75,7.0,0.0,642.96
+330,US-2017-100329,26/05/2017,29/05/2017,Second Class,CU-50604,Customer 149,Corporate,United States,Philadelphia,Pennsylvania,19103,East,OFF-20712,Office Supplies,Art,Drawing Pad,3144.47,7.0,,-388.78
+331,US-2014-100330,24/12/2014,29/12/2014,Standard Class,CU-88590,Customer 52,Home Office,United States,Chicago,Illinois,60601,Central,FUR-47664,Furniture,Tables,Conference Table,623.41,8.0,0.0,-81.46
+332,US-2015-100331,11/10/2015,12/10/2015,Second Class,CU-77773,Customer 72,Home Office,United States,New York City,New York,10001,East,OFF-71122,Office Supplies,Storage,Storage Box,810.42,3.0,0.1,180.17
+333,US-2014-100332,20/03/2014,27/03/2014,Same Day,CU-83125,Customer 130,Home Office,United States,Seattle,Washington,98101,West,TEC-21642,Technology,Copiers,Multifunction Copier,1903.36,9.0,0.3,-73.82
+334,US-2017-100333,10/06/2017,14/06/2017,First Class,CU-54483,Customer 68,Corporate,United States,Los Angeles,California,90001,West,OFF-43453,Office Supplies,Storage,File Organizer,2471.96,8.0,0.1,287.94
+335,US-2014-100334,08/03/2014,10/03/2014,Second Class,CU-62903,Customer 221,Consumer,United States,Seattle,Washington,98101,West,TEC-62864,Technology,Accessories,USB Drive,567.14,5.0,0.2,-27.2
+336,US-2014-100335,21/04/2014,27/04/2014,Same Day,CU-58253,Customer 189,Consumer,United States,New York City,New York,10001,East,TEC-94558,Technology,Accessories,Keyboard,785.47,4.0,0.1,-8.51
+337,US-2016-100336,22/08/2016,29/08/2016,Standard Class,CU-38594,Customer 131,Consumer,United States,Houston,Texas,77001,Central,OFF-47339,Office Supplies,Binders,Presentation Binder,188.83,1.0,0.2,11.46
+338,US-2017-100337,03/05/2017,04/05/2017,Standard Class,CU-90147,Customer 114,Consumer,United States,Houston,Texas,77001,Central,TEC-11823,Technology,Accessories,Keyboard,2514.58,6.0,0.1,265.3
+339,US-2014-100338,31/12/2014,07/01/2015,First Class,CU-10089,Customer 32,Consumer,United States,Houston,Texas,77001,Central,FUR-27524,Furniture,Furnishings,Desk Lamp,365.97,2.0,0.1,25.52
+340,US-2015-100339,05/04/2015,09/04/2015,Standard Class,CU-45813,Customer 27,Home Office,United States,New York City,New York,10001,East,FUR-21417,Furniture,Chairs,Office Chair,514.67,5.0,0.2,104.91
+341,US-2014-100340,02/08/2014,09/08/2014,Second Class,CU-97704,Customer 101,Consumer,United States,Los Angeles,California,90001,West,TEC-88163,Technology,Machines,Shredder,2664.4,,0.3,-208.84
+342,US-2016-100341,01/04/2016,04/04/2016,Same Day,CU-70018,Customer 162,Consumer,United States,Seattle,Washington,98101,West,FUR-97110,Furniture,Chairs,Office Chair,635.0,9.0,0.2,6.62
+343,US-2014-100342,26/03/2014,29/03/2014,Standard Class,CU-70615,Customer 30,Corporate,United States,Seattle,Washington,98101,West,TEC-39722,Technology,Accessories,Keyboard,423.22,6.0,0.3,23.51
+344,US-2017-100343,15/04/2017,17/04/2017,Same Day,CU-88625,Customer 41,Consumer,United States,Los Angeles,California,90001,West,FUR-70672,Furniture,Furnishings,Wall Clock,320.15,1.0,0.3,-32.89
+345,US-2014-100344,29/03/2014,31/03/2014,First Class,CU-63485,Customer 144,Consumer,United States,Seattle,Washington,98101,West,OFF-92189,Office Supplies,Paper,Notebook Paper,667.49,4.0,0.2,80.01
+346,US-2016-100345,14/11/2016,21/11/2016,Standard Class,CU-69090,Customer 3,Consumer,United States,Seattle,Washington,98101,West,TEC-98795,Technology,Machines,Shredder,737.13,5.0,0.3,-23.12
+347,US-2014-100346,21/11/2014,22/11/2014,First Class,CU-81850,Customer 6,Home Office,United States,Miami,Florida,33101,South,TEC-68463,Technology,Copiers,Desktop Copier,1143.31,6.0,0.1,-10.81
+348,US-2017-100347,19/09/2017,21/09/2017,First Class,CU-71963,Customer 40,Corporate,United States,Atlanta,Georgia,30301,South,FUR-11062,Furniture,Furnishings,Desk Lamp,822.74,2.0,0.3,-3.08
+349,US-2014-100348,29/12/2014,03/01/2015,Standard Class,CU-33143,Customer 231,Corporate,United States,Chicago,Illinois,60601,Central,TEC-40461,Technology,Phones,Wireless Phone,293.64,6.0,0.5,15.36
+350,US-2017-100349,08/05/2017,10/05/2017,First Class,CU-33513,Customer 232,Home Office,United States,Chicago,Illinois,60601,Central,FUR-55514,Furniture,Tables,Conference Table,426.47,2.0,0.0,-40.46
+351,US-2017-100350,11/04/2017,13/04/2017,Same Day,CU-35039,Customer 186,Consumer,United States,Houston,Texas,77001,Central,OFF-74628,Office Supplies,Art,Drawing Pad,788.59,2.0,0.3,62.85
+352,US-2014-100351,09/10/2014,10/10/2014,Standard Class,CU-64403,Customer 197,Home Office,United States,Seattle,Washington,98101,West,TEC-83968,Technology,Phones,Office Phone,248.8,1.0,0.5,13.99
+353,US-2015-100352,28/03/2015,04/04/2015,Same Day,CU-98130,Customer 188,Consumer,United States,Los Angeles,California,90001,West,OFF-65726,Office Supplies,Labels,Shipping Labels,296.18,1.0,0.2,-14.14
+354,US-2016-100353,23/07/2016,28/07/2016,Same Day,CU-58071,Customer 28,Consumer,United States,Miami,Florida,33101,South,OFF-17155,Office Supplies,Paper,Copy Paper,291.75,7.0,0.1,27.23
+355,US-2017-100354,01/01/2017,03/01/2017,Same Day,CU-73804,Customer 192,Home Office,United States,Miami,Florida,33101,South,FUR-32389,Furniture,Chairs,Ergonomic Chair,1576.96,5.0,0.3,-33.34
+356,US-2016-100355,30/04/2016,03/05/2016,Second Class,CU-25751,Customer 79,Corporate,United States,New York City,New York,10001,East,OFF-22715,Office Supplies,Paper,Copy Paper,1340.32,4.0,0.2,102.31
+357,US-2015-100356,25/01/2015,31/01/2015,Second Class,CU-32849,Customer 96,Consumer,United States,Houston,Texas,77001,Central,TEC-23488,Technology,Phones,Wireless Phone,2137.79,6.0,0.1,-235.27
+358,US-2014-100357,08/07/2014,13/07/2014,First Class,CU-31230,Customer 231,Home Office,United States,Atlanta,Georgia,30301,South,TEC-78824,Technology,Machines,Shredder,86.2,1.0,0.2,0.92
+359,US-2015-100358,16/10/2015,19/10/2015,Same Day,CU-32380,Customer 52,Home Office,United States,Houston,Texas,77001,Central,TEC-53907,Technology,Phones,Wireless Phone,581.13,2.0,0.2,113.91
+360,US-2017-100359,19/04/2017,24/04/2017,First Class,CU-85939,Customer 54,Corporate,United States,New York City,New York,10001,East,FUR-34290,Furniture,Furnishings,Wall Clock,1350.05,6.0,0.2,-91.57
+361,US-2016-100360,22/05/2016,28/05/2016,Same Day,CU-46872,Customer 163,Consumer,United States,Los Angeles,California,90001,West,OFF-22864,Office Supplies,Binders,Ring Binder,341.54,2.0,0.5,7.14
+362,US-2014-100361,06/04/2014,10/04/2014,First Class,CU-11027,Customer 226,Corporate,United States,Philadelphia,Pennsylvania,19103,East,FUR-40373,Furniture,Bookcases,Modern Bookcase,3310.48,9.0,0.2,592.47
+363,US-2016-100362,10/06/2016,11/06/2016,Second Class,CU-80281,Customer 205,Home Office,United States,New York City,New York,10001,East,OFF-58557,Office Supplies,Art,Marker Set,164.41,3.0,0.1,19.75
+364,US-2017-100363,19/09/2017,21/09/2017,Same Day,CU-26018,Customer 212,Corporate,United States,Chicago,Illinois,60601,Central,OFF-96811,Office Supplies,Storage,Storage Box,2069.56,5.0,0.1,454.3
+365,US-2015-100364,11/11/2015,18/11/2015,Same Day,CU-95787,Customer 56,Consumer,United States,Los Angeles,California,90001,West,FUR-14877,Furniture,Chairs,Office Chair,356.79,3.0,0.1,-24.7
+366,US-2016-100365,27/10/2016,02/11/2016,First Class,CU-12120,Customer 234,Consumer,United States,Atlanta,Georgia,30301,South,FUR-37161,Furniture,Tables,Work Table,1062.86,7.0,0.3,-51.87
+367,US-2015-100366,08/01/2015,11/01/2015,Same Day,CU-70598,Customer 202,Consumer,United States,Philadelphia,Pennsylvania,19103,East,TEC-99783,Technology,Machines,Shredder,286.07,1.0,0.2,-18.63
+368,US-2016-100367,08/08/2016,10/08/2016,Standard Class,CU-34778,Customer 135,Consumer,United States,Chicago,Illinois,60601,Central,TEC-21598,Technology,Accessories,Keyboard,619.69,3.0,0.0,-41.52
+369,US-2016-100368,02/10/2016,08/10/2016,Second Class,CU-74922,Customer 126,Home Office,United States,Seattle,Washington,98101,West,TEC-61406,Technology,Phones,Office Phone,143.55,3.0,0.5,-9.44
+370,US-2016-100369,01/04/2016,02/04/2016,Standard Class,CU-16344,Customer 16,Consumer,United States,Miami,Florida,33101,South,FUR-84429,Furniture,Furnishings,Desk Lamp,557.15,4.0,0.2,124.04
+371,US-2016-100370,22/07/2016,23/07/2016,Standard Class,CU-63866,Customer 75,Corporate,United States,Houston,Texas,77001,Central,TEC-82649,Technology,Phones,Wireless Phone,171.94,2.0,0.5,-12.87
+372,US-2015-100371,02/08/2015,04/08/2015,Same Day,CU-79867,Customer 245,Consumer,United States,New York City,New York,10001,East,OFF-96792,Office Supplies,Paper,Copy Paper,29.38,1.0,0.3,-0.32
+373,US-2014-100372,28/07/2014,29/07/2014,First Class,CU-16897,Customer 200,Corporate,United States,Atlanta,Georgia,30301,South,TEC-36756,Technology,Phones,Wireless Phone,46.9,1.0,0.3,-2.26
+374,US-2016-100373,19/08/2016,24/08/2016,Standard Class,CU-76430,Customer 91,Home Office,United States,Atlanta,Georgia,30301,South,FUR-10392,Furniture,Tables,Conference Table,2757.54,9.0,0.1,552.97
+375,US-2016-100374,11/01/2016,16/01/2016,Same Day,CU-17248,Customer 234,Home Office,United States,New York City,New York,10001,East,TEC-23143,Technology,Copiers,Desktop Copier,652.04,8.0,0.2,-65.3
+376,US-2014-100375,30/07/2014,01/08/2014,First Class,CU-29461,Customer 162,Home Office,United States,Miami,Florida,33101,South,OFF-44924,Office Supplies,Paper,Copy Paper,31.96,2.0,0.1,4.34
+377,US-2016-100376,21/03/2016,26/03/2016,Same Day,CU-92500,Customer 185,Corporate,United States,Chicago,Illinois,60601,Central,FUR-57249,Furniture,Tables,Work Table,2061.79,6.0,0.5,254.4
+378,US-2017-100377,23/05/2017,26/05/2017,Standard Class,CU-25679,Customer 175,Home Office,United States,Atlanta,Georgia,30301,South,FUR-81157,Furniture,Bookcases,Wooden Bookcase,52.83,1.0,0.5,0.03
+379,US-2016-100378,11/05/2016,16/05/2016,Standard Class,CU-39753,Customer 209,Consumer,United States,Atlanta,Georgia,30301,South,FUR-58526,Furniture,Furnishings,Wall Clock,29.39,3.0,0.1,-0.78
+380,US-2014-100379,19/02/2014,25/02/2014,First Class,CU-36569,Customer 162,Corporate,United States,Miami,Florida,33101,South,FUR-53515,Furniture,Tables,Work Table,728.59,2.0,0.5,-24.12
+381,US-2015-100380,04/10/2015,06/10/2015,Second Class,CU-95868,Customer 61,Consumer,United States,Los Angeles,California,90001,West,FUR-31838,Furniture,Bookcases,Modern Bookcase,309.03,4.0,0.0,-28.74
+382,US-2016-100381,13/11/2016,16/11/2016,Second Class,CU-89383,Customer 139,Consumer,United States,Chicago,Illinois,60601,Central,OFF-41097,Office Supplies,Labels,Shipping Labels,2483.67,6.0,0.3,-174.94
+383,US-2017-100382,16/03/2017,21/03/2017,Same Day,CU-54007,Customer 169,Consumer,United States,Chicago,Illinois,60601,Central,TEC-34833,Technology,Accessories,USB Drive,501.29,2.0,0.5,-8.4
+384,US-2014-100383,09/05/2014,10/05/2014,Standard Class,CU-36815,Customer 18,Consumer,United States,Miami,Florida,33101,South,TEC-52936,Technology,Accessories,USB Drive,139.0,6.0,0.0,20.76
+385,US-2015-100384,10/05/2015,11/05/2015,Same Day,CU-96370,Customer 78,Corporate,United States,Miami,Florida,33101,South,FUR-25596,Furniture,Chairs,Office Chair,3855.49,9.0,0.3,-242.15
+386,US-2016-100385,04/10/2016,09/10/2016,First Class,CU-95871,Customer 27,Corporate,United States,Philadelphia,Pennsylvania,19103,East,OFF-69816,Office Supplies,Art,Drawing Pad,1757.02,8.0,0.2,-15.12
+387,US-2014-100386,19/02/2014,20/02/2014,Standard Class,CU-47894,Customer 10,Consumer,United States,Houston,Texas,77001,Central,FUR-21933,Furniture,Bookcases,Wooden Bookcase,577.75,2.0,0.0,69.47
+388,US-2015-100387,08/11/2015,11/11/2015,Second Class,CU-43308,Customer 189,Home Office,United States,Houston,Texas,77001,Central,OFF-54727,Office Supplies,Art,Drawing Pad,1339.43,6.0,0.1,320.07
+389,US-2015-100388,01/12/2015,02/12/2015,Standard Class,CU-74681,Customer 84,Consumer,United States,Miami,Florida,33101,South,FUR-92998,Furniture,Bookcases,Modern Bookcase,590.74,5.0,0.1,148.73
+390,US-2014-100389,28/10/2014,29/10/2014,Same Day,CU-80738,Customer 154,Corporate,United States,New York City,New York,10001,East,OFF-36270,Office Supplies,Storage,File Organizer,420.29,1.0,0.5,17.82
+391,US-2014-100390,04/04/2014,06/04/2014,Same Day,CU-49062,Customer 199,Home Office,United States,Houston,Texas,77001,Central,TEC-22759,Technology,Copiers,Desktop Copier,142.81,1.0,0.0,-20.66
+392,US-2016-100391,14/03/2016,19/03/2016,First Class,CU-16072,Customer 236,Corporate,United States,Miami,Florida,33101,South,FUR-34747,Furniture,Furnishings,Wall Clock,1530.21,4.0,0.5,-41.39
+393,US-2014-100392,08/02/2014,09/02/2014,Same Day,CU-36310,Customer 225,Corporate,United States,Philadelphia,Pennsylvania,19103,East,FUR-26890,Furniture,Chairs,Office Chair,476.0,2.0,0.1,98.42
+394,US-2016-100393,18/12/2016,24/12/2016,First Class,CU-22342,Customer 147,Home Office,United States,Chicago,Illinois,60601,Central,OFF-79645,Office Supplies,Binders,Ring Binder,228.34,1.0,0.2,
+395,US-2015-100394,28/07/2015,04/08/2015,Second Class,CU-42068,Customer 141,Corporate,United States,Chicago,Illinois,60601,Central,FUR-94142,Furniture,Tables,Work Table,1356.38,9.0,0.0,85.54
+396,US-2016-100395,03/04/2016,08/04/2016,First Class,CU-21295,Customer 79,Home Office,United States,Houston,Texas,77001,Central,FUR-39728,Furniture,Tables,Conference Table,475.23,3.0,0.1,45.54
+397,US-2016-100396,10/10/2016,13/10/2016,Same Day,CU-86963,Customer 4,Consumer,United States,Seattle,Washington,98101,West,OFF-42741,Office Supplies,Paper,Copy Paper,1608.59,4.0,0.2,-172.94
+398,US-2016-100397,25/11/2016,28/11/2016,Same Day,CU-22483,Customer 216,Corporate,United States,Seattle,Washington,98101,West,OFF-93014,Office Supplies,Binders,Presentation Binder,1862.07,9.0,0.1,-44.75
+399,US-2016-100398,23/03/2016,27/03/2016,Standard Class,CU-34165,Customer 219,Consumer,United States,Philadelphia,Pennsylvania,19103,East,FUR-45734,Furniture,Tables,Conference Table,3827.34,9.0,0.2,119.07
+400,US-2014-100399,18/12/2014,25/12/2014,Standard Class,CU-16889,Customer 173,Corporate,United States,Philadelphia,Pennsylvania,19103,East,OFF-68316,Office Supplies,Binders,Ring Binder,2921.88,7.0,0.5,-149.93
+401,US-2014-100400,11/04/2014,15/04/2014,Second Class,CU-56430,Customer 92,Consumer,United States,Miami,Florida,33101,South,TEC-88788,Technology,Accessories,Keyboard,1977.92,5.0,0.5,197.18
+402,US-2016-100401,22/11/2016,23/11/2016,Standard Class,CU-65561,Customer 58,Corporate,United States,Seattle,Washington,98101,West,TEC-65802,Technology,Machines,Shredder,463.97,2.0,0.2,-7.87
+403,US-2017-100402,22/02/2017,28/02/2017,Standard Class,CU-46234,Customer 87,Consumer,United States,New York City,New York,10001,East,FUR-41753,Furniture,Bookcases,Modern Bookcase,469.96,3.0,0.5,31.34
+404,US-2016-100403,16/09/2016,17/09/2016,First Class,CU-91120,Customer 246,Corporate,United States,Seattle,Washington,98101,West,TEC-32310,Technology,Copiers,Multifunction Copier,3333.96,9.0,0.3,209.5
+405,US-2014-100404,21/04/2014,23/04/2014,Second Class,CU-33762,Customer 190,Consumer,United States,Philadelphia,Pennsylvania,19103,East,OFF-14235,Office Supplies,Labels,Address Labels,28.64,4.0,0.1,2.74
+406,US-2017-100405,11/07/2017,14/07/2017,Same Day,CU-94429,Customer 205,Consumer,United States,New York City,New York,10001,East,FUR-72268,Furniture,Furnishings,Desk Lamp,1227.47,4.0,0.3,-7.66
+407,US-2016-100406,27/03/2016,01/04/2016,Standard Class,CU-91206,Customer 8,Consumer,United States,Miami,Florida,33101,South,FUR-17100,Furniture,Bookcases,Wooden Bookcase,705.8,2.0,0.5,89.34
+408,US-2015-100407,11/01/2015,15/01/2015,Same Day,CU-16344,Customer 155,Corporate,United States,Miami,Florida,33101,South,OFF-37112,Office Supplies,Art,Marker Set,132.54,1.0,0.3,17.72
+409,US-2015-100408,30/03/2015,05/04/2015,Second Class,CU-59739,Customer 172,Corporate,United States,Houston,Texas,77001,Central,TEC-82598,Technology,Copiers,Desktop Copier,1251.7,5.0,0.2,26.12
+410,US-2015-100409,19/09/2015,26/09/2015,First Class,CU-91345,Customer 141,Corporate,United States,Miami,Florida,33101,South,FUR-72997,Furniture,Furnishings,Desk Lamp,1207.19,6.0,0.1,228.68
+411,US-2016-100410,30/12/2016,01/01/2017,Same Day,CU-10223,Customer 239,Home Office,United States,Los Angeles,California,90001,West,TEC-57643,Technology,Accessories,Keyboard,1810.2,8.0,0.1,167.73
+412,US-2015-100411,24/06/2015,25/06/2015,Second Class,CU-91039,Customer 104,Home Office,United States,Seattle,Washington,98101,West,OFF-61345,Office Supplies,Labels,Address Labels,2395.41,7.0,0.1,468.49
+413,US-2014-100412,01/01/2014,06/01/2014,First Class,CU-71322,Customer 116,Consumer,United States,Houston,Texas,77001,Central,OFF-56717,Office Supplies,Labels,Shipping Labels,225.47,1.0,0.2,35.76
+414,US-2016-100413,29/05/2016,03/06/2016,Same Day,CU-86388,Customer 43,Consumer,United States,Atlanta,Georgia,30301,South,FUR-58901,Furniture,Furnishings,Desk Lamp,3724.5,9.0,0.5,208.67
+415,US-2017-100414,22/01/2017,26/01/2017,Same Day,CU-48908,Customer 170,Consumer,United States,Miami,Florida,33101,South,OFF-93911,Office Supplies,Art,Drawing Pad,1391.2,8.0,0.0,94.0
+416,US-2015-100415,07/07/2015,13/07/2015,Second Class,CU-66494,Customer 176,Consumer,United States,Los Angeles,California,90001,West,TEC-81578,Technology,Accessories,USB Drive,11.36,1.0,0.0,-0.9
+417,US-2014-100416,30/11/2014,05/12/2014,First Class,CU-89729,Customer 112,Consumer,United States,Seattle,Washington,98101,West,OFF-22320,Office Supplies,Labels,Address Labels,1201.21,3.0,0.1,90.77
+418,US-2016-100417,11/08/2016,15/08/2016,Same Day,CU-68206,Customer 138,Consumer,United States,Chicago,Illinois,60601,Central,OFF-40963,Office Supplies,Storage,Storage Box,495.38,9.0,0.1,98.7
+419,US-2016-100418,29/01/2016,31/01/2016,Second Class,CU-56288,Customer 130,Home Office,United States,Los Angeles,California,90001,West,FUR-64376,Furniture,Bookcases,Modern Bookcase,3752.33,9.0,0.2,353.49
+420,US-2014-100419,21/04/2014,28/04/2014,Same Day,CU-60895,Customer 209,Consumer,United States,Seattle,Washington,98101,West,TEC-37609,Technology,Phones,Office Phone,3296.13,9.0,0.3,133.02
+421,US-2017-100420,17/01/2017,24/01/2017,Standard Class,CU-83808,Customer 106,Consumer,United States,Los Angeles,California,90001,West,FUR-75558,Furniture,Bookcases,Wooden Bookcase,1329.79,9.0,0.2,17.47
+422,US-2014-100421,15/08/2014,16/08/2014,First Class,CU-90963,Customer 200,Home Office,United States,Philadelphia,Pennsylvania,19103,East,FUR-45139,Furniture,Furnishings,Wall Clock,1465.26,8.0,0.2,285.44
+423,US-2015-100422,08/12/2015,14/12/2015,Second Class,CU-17811,Customer 66,Consumer,United States,New York City,New York,10001,East,TEC-52799,Technology,Accessories,USB Drive,751.6,5.0,0.5,73.87
+424,US-2016-100423,08/04/2016,15/04/2016,Second Class,CU-10378,Customer 125,Home Office,United States,Atlanta,Georgia,30301,South,TEC-29804,Technology,Copiers,Desktop Copier,1795.4,9.0,0.3,-118.25
+425,US-2017-100424,27/09/2017,03/10/2017,Second Class,CU-69043,Customer 100,Consumer,United States,Houston,Texas,77001,Central,FUR-56583,Furniture,Tables,Work Table,278.2,3.0,0.1,-13.25
+426,US-2014-100425,23/01/2014,30/01/2014,Standard Class,CU-35595,Customer 241,Corporate,United States,Seattle,Washington,98101,West,TEC-65962,Technology,Machines,Shredder,1169.1,7.0,0.1,-12.78
+427,US-2015-100426,10/02/2015,16/02/2015,Standard Class,CU-70518,Customer 228,Corporate,United States,Los Angeles,California,90001,West,OFF-22877,Office Supplies,Binders,Presentation Binder,1016.2,4.0,0.3,164.05
+428,US-2014-100427,24/10/2014,25/10/2014,First Class,CU-61099,Customer 205,Consumer,United States,Los Angeles,California,90001,West,TEC-29497,Technology,Copiers,Multifunction Copier,1136.37,6.0,0.2,-112.2
+429,US-2017-100428,20/03/2017,24/03/2017,Second Class,CU-14662,Customer 168,Home Office,United States,Chicago,Illinois,60601,Central,OFF-35055,Office Supplies,Art,Marker Set,2575.03,7.0,0.0,-190.87
+430,US-2014-100429,12/12/2014,15/12/2014,Standard Class,CU-58623,Customer 51,Home Office,United States,Chicago,Illinois,60601,Central,FUR-38588,Furniture,Bookcases,Wooden Bookcase,1092.87,8.0,0.5,-9.3
+431,US-2014-100430,02/05/2014,06/05/2014,Same Day,CU-91750,Customer 119,Home Office,United States,Miami,Florida,33101,South,FUR-32141,Furniture,Furnishings,Desk Lamp,206.86,7.0,0.5,-6.06
+432,US-2015-100431,27/07/2015,29/07/2015,Second Class,CU-89479,Customer 90,Home Office,United States,Philadelphia,Pennsylvania,19103,East,FUR-64973,Furniture,Chairs,Office Chair,122.7,2.0,0.5,5.99
+433,US-2015-100432,09/03/2015,10/03/2015,Second Class,CU-35034,Customer 219,Consumer,United States,Philadelphia,Pennsylvania,19103,East,OFF-15552,Office Supplies,Labels,Shipping Labels,1181.02,8.0,0.5,56.54
+434,US-2014-100433,02/01/2014,04/01/2014,Standard Class,CU-43326,Customer 238,Corporate,United States,Philadelphia,Pennsylvania,19103,East,TEC-65361,Technology,Accessories,Keyboard,431.37,5.0,0.3,-0.11
+435,US-2015-100434,11/07/2015,16/07/2015,Same Day,CU-48122,Customer 71,Consumer,United States,Chicago,Illinois,60601,Central,FUR-63333,Furniture,Bookcases,Modern Bookcase,1475.85,6.0,0.0,255.82
+436,US-2015-100435,07/12/2015,08/12/2015,First Class,CU-58451,Customer 16,Consumer,United States,New York City,New York,10001,East,FUR-23778,Furniture,Chairs,Ergonomic Chair,902.82,8.0,0.2,104.19
+437,US-2015-100436,29/04/2015,01/05/2015,Same Day,CU-99301,Customer 144,Home Office,United States,Philadelphia,Pennsylvania,19103,East,TEC-89973,Technology,Copiers,Desktop Copier,3127.59,8.0,0.3,385.54
+438,US-2017-100437,03/08/2017,09/08/2017,Second Class,CU-60975,Customer 129,Home Office,United States,Miami,Florida,33101,South,OFF-86592,Office Supplies,Art,Marker Set,3366.95,8.0,0.2,335.25
+439,US-2015-100438,22/09/2015,28/09/2015,Standard Class,CU-78121,Customer 136,Home Office,United States,Los Angeles,California,90001,West,TEC-29064,Technology,Copiers,Multifunction Copier,920.15,8.0,0.5,71.37
+440,US-2015-100439,17/10/2015,22/10/2015,Second Class,CU-96307,Customer 199,Home Office,United States,Atlanta,Georgia,30301,South,OFF-49708,Office Supplies,Storage,Storage Box,877.67,2.0,0.1,127.68
+441,US-2014-100440,05/11/2014,09/11/2014,Standard Class,CU-32515,Customer 215,Home Office,United States,Philadelphia,Pennsylvania,19103,East,FUR-78674,Furniture,Bookcases,Modern Bookcase,353.61,8.0,0.2,44.79
+442,US-2016-100441,26/04/2016,28/04/2016,Same Day,CU-43544,Customer 86,Corporate,United States,Chicago,Illinois,60601,Central,TEC-33548,Technology,Phones,Wireless Phone,1025.14,5.0,0.0,51.03
+443,US-2015-100442,11/02/2015,12/02/2015,Second Class,CU-32381,Customer 201,Consumer,United States,Chicago,Illinois,60601,Central,TEC-48289,Technology,Phones,Office Phone,299.61,2.0,0.5,-16.78
+444,US-2017-100443,02/05/2017,06/05/2017,Same Day,CU-46064,Customer 170,Corporate,United States,Miami,Florida,33101,South,FUR-83602,Furniture,Chairs,Office Chair,1711.61,6.0,0.3,315.52
+445,US-2017-100444,02/03/2017,05/03/2017,First Class,CU-17647,Customer 123,Home Office,United States,Houston,Texas,77001,Central,OFF-35184,Office Supplies,Storage,Storage Box,2052.46,6.0,0.0,541.0
+446,US-2015-100445,03/09/2015,05/09/2015,Standard Class,CU-65852,Customer 174,Consumer,United States,Atlanta,Georgia,30301,South,OFF-29940,Office Supplies,Storage,Storage Box,3890.35,9.0,0.2,0.22
+447,US-2015-100446,20/04/2015,21/04/2015,Second Class,CU-80051,Customer 161,Corporate,United States,Philadelphia,Pennsylvania,19103,East,FUR-11384,Furniture,Furnishings,Desk Lamp,295.28,1.0,0.2,30.48
+448,US-2014-100447,11/07/2014,12/07/2014,Standard Class,CU-50762,Customer 166,Home Office,United States,Chicago,Illinois,60601,Central,FUR-66662,Furniture,Bookcases,Wooden Bookcase,250.44,3.0,0.1,-18.55
+449,US-2017-100448,28/09/2017,30/09/2017,First Class,CU-48779,Customer 78,Corporate,United States,Seattle,Washington,98101,West,TEC-99190,Technology,Copiers,Multifunction Copier,2044.61,8.0,0.0,-252.54
+450,US-2014-100449,26/04/2014,28/04/2014,First Class,CU-60171,Customer 8,Corporate,United States,Houston,Texas,77001,Central,FUR-75063,Furniture,Tables,Conference Table,2774.07,8.0,0.2,180.84
+451,US-2016-100450,06/03/2016,09/03/2016,Second Class,CU-65882,Customer 196,Corporate,United States,Chicago,Illinois,60601,Central,FUR-60929,Furniture,Bookcases,Wooden Bookcase,2259.72,8.0,0.5,61.74
+452,US-2015-100451,21/02/2015,24/02/2015,Same Day,CU-42138,Customer 170,Home Office,United States,Houston,Texas,77001,Central,FUR-67844,Furniture,Chairs,Ergonomic Chair,152.7,7.0,0.3,-3.03
+453,US-2016-100452,10/08/2016,11/08/2016,First Class,CU-31263,Customer 19,Consumer,United States,Seattle,Washington,98101,West,OFF-57609,Office Supplies,Binders,Presentation Binder,2975.53,9.0,0.2,365.02
+454,US-2016-100453,10/01/2016,12/01/2016,Standard Class,CU-23013,Customer 109,Home Office,United States,Houston,Texas,77001,Central,TEC-73561,Technology,Accessories,Keyboard,1093.29,4.0,0.1,192.7
+455,US-2014-100454,29/04/2014,30/04/2014,First Class,CU-39170,Customer 70,Corporate,United States,Houston,Texas,77001,Central,OFF-10458,Office Supplies,Labels,Address Labels,1258.36,8.0,0.3,227.42
+456,US-2014-100455,30/08/2014,04/09/2014,Standard Class,CU-62345,Customer 249,Corporate,United States,Chicago,Illinois,60601,Central,TEC-47107,Technology,Accessories,USB Drive,379.38,4.0,0.0,-37.35
+457,US-2014-100456,03/01/2014,05/01/2014,Second Class,CU-74159,Customer 219,Corporate,United States,Los Angeles,California,90001,West,TEC-35585,Technology,Phones,Office Phone,2591.96,8.0,0.2,504.45
+458,US-2014-100457,28/11/2014,29/11/2014,Second Class,CU-85855,Customer 166,Corporate,United States,Atlanta,Georgia,30301,South,OFF-56426,Office Supplies,Labels,Address Labels,3346.42,8.0,0.2,-237.58
+459,US-2016-100458,03/02/2016,09/02/2016,First Class,CU-27308,Customer 107,Consumer,United States,Philadelphia,Pennsylvania,19103,East,TEC-76126,Technology,Copiers,Multifunction Copier,1277.01,7.0,0.1,-106.42
+460,US-2017-100459,12/01/2017,17/01/2017,Same Day,CU-57472,Customer 137,Home Office,United States,Miami,Florida,33101,South,FUR-83788,Furniture,Tables,Work Table,1208.59,4.0,0.0,276.68
+461,US-2016-100460,17/01/2016,18/01/2016,Second Class,CU-56682,Customer 230,Corporate,United States,Los Angeles,California,90001,West,OFF-44840,Office Supplies,Labels,Shipping Labels,541.73,3.0,0.1,-9.21
+462,US-2017-100461,02/02/2017,06/02/2017,Same Day,CU-38341,Customer 140,Consumer,United States,Philadelphia,Pennsylvania,19103,East,OFF-58294,Office Supplies,Paper,Notebook Paper,1266.53,8.0,0.1,-69.35
+463,US-2017-100462,24/04/2017,25/04/2017,First Class,CU-13242,Customer 151,Corporate,United States,Philadelphia,Pennsylvania,19103,East,FUR-16255,Furniture,Bookcases,Modern Bookcase,1592.43,6.0,0.2,88.38
+464,US-2015-100463,17/10/2015,20/10/2015,Standard Class,CU-83787,Customer 48,Consumer,United States,Chicago,Illinois,60601,Central,FUR-64746,Furniture,Tables,Work Table,227.88,5.0,0.1,-14.39
+465,US-2014-100464,17/09/2014,19/09/2014,Standard Class,CU-48287,Customer 84,Home Office,United States,Miami,Florida,33101,South,TEC-66851,Technology,Accessories,USB Drive,2762.08,7.0,0.0,-63.55
+466,US-2017-100465,01/01/2017,07/01/2017,Same Day,CU-15260,Customer 99,Corporate,United States,Atlanta,Georgia,30301,South,FUR-38397,Furniture,Bookcases,Wooden Bookcase,2670.77,6.0,0.0,-278.88
+467,US-2014-100466,09/07/2014,10/07/2014,First Class,CU-24234,Customer 47,Corporate,United States,Seattle,Washington,98101,West,TEC-16268,Technology,Copiers,Desktop Copier,398.7,9.0,0.1,23.01
+468,US-2016-100467,07/07/2016,14/07/2016,Standard Class,CU-91855,Customer 14,Corporate,United States,Los Angeles,California,90001,West,OFF-22545,Office Supplies,Binders,Presentation Binder,459.27,5.0,0.2,-23.15
+469,US-2015-100468,22/12/2015,29/12/2015,Standard Class,CU-43486,Customer 55,Consumer,United States,Philadelphia,Pennsylvania,19103,East,OFF-49086,Office Supplies,Paper,Copy Paper,1579.42,6.0,0.2,-62.27
+470,US-2014-100469,15/07/2014,19/07/2014,Second Class,CU-85616,Customer 81,Consumer,United States,Los Angeles,California,90001,West,FUR-31394,Furniture,Furnishings,Desk Lamp,3968.2,9.0,0.2,-366.05
+471,US-2014-100470,21/01/2014,26/01/2014,Second Class,CU-42140,Customer 236,Home Office,United States,Los Angeles,California,90001,West,FUR-47173,Furniture,Furnishings,Desk Lamp,591.06,7.0,0.1,84.01
+472,US-2015-100471,16/03/2015,20/03/2015,Standard Class,CU-35757,Customer 66,Home Office,United States,Los Angeles,California,90001,West,OFF-25512,Office Supplies,Binders,Ring Binder,360.0,5.0,0.2,32.62
+473,US-2017-100472,19/09/2017,23/09/2017,Same Day,CU-17896,Customer 81,Home Office,United States,Los Angeles,California,90001,West,FUR-90541,Furniture,Chairs,Ergonomic Chair,347.31,3.0,0.2,12.42
+474,US-2017-100473,02/12/2017,04/12/2017,Same Day,CU-72794,Customer 166,Corporate,United States,Los Angeles,California,90001,West,OFF-53202,Office Supplies,Paper,Copy Paper,3233.02,9.0,0.1,379.26
+475,US-2017-100474,14/08/2017,17/08/2017,Standard Class,CU-45344,Customer 164,Consumer,United States,Philadelphia,Pennsylvania,19103,East,OFF-83892,Office Supplies,Binders,Ring Binder,1733.05,7.0,0.3,-117.28
+476,US-2016-100475,17/02/2016,20/02/2016,Standard Class,CU-77560,Customer 120,Corporate,United States,Miami,Florida,33101,South,FUR-33381,Furniture,Furnishings,Wall Clock,1360.25,4.0,0.3,235.76
+477,US-2014-100476,19/12/2014,22/12/2014,Standard Class,CU-59244,Customer 123,Corporate,United States,Philadelphia,Pennsylvania,19103,East,FUR-68923,Furniture,Chairs,Office Chair,427.52,1.0,0.3,41.2
+478,US-2015-100477,08/04/2015,14/04/2015,Same Day,CU-76628,Customer 176,Home Office,United States,Miami,Florida,33101,South,FUR-24539,Furniture,Chairs,Office Chair,1621.99,9.0,0.2,344.81
+479,US-2016-100478,05/05/2016,07/05/2016,Same Day,CU-26290,Customer 192,Corporate,United States,Houston,Texas,77001,Central,FUR-46280,Furniture,Bookcases,Modern Bookcase,1884.39,6.0,0.1,409.3
+480,US-2016-100479,29/05/2016,01/06/2016,First Class,CU-15260,Customer 39,Home Office,United States,Philadelphia,Pennsylvania,19103,East,TEC-50561,Technology,Phones,Office Phone,185.34,1.0,0.2,14.35
+481,US-2015-100480,24/06/2015,27/06/2015,Second Class,CU-58534,Customer 6,Corporate,United States,Los Angeles,California,90001,West,FUR-23761,Furniture,Chairs,Ergonomic Chair,244.9,1.0,0.1,54.44
+482,US-2016-100481,07/09/2016,09/09/2016,Standard Class,CU-28027,Customer 81,Consumer,United States,New York City,New York,10001,East,OFF-63196,Office Supplies,Binders,Presentation Binder,2637.75,7.0,0.2,-117.57
+483,US-2016-100482,26/06/2016,29/06/2016,Second Class,CU-37525,Customer 79,Home Office,United States,Los Angeles,California,90001,West,TEC-70779,Technology,Machines,Shredder,1191.23,4.0,0.1,97.22
+484,US-2017-100483,05/11/2017,10/11/2017,Second Class,CU-90159,Customer 192,Corporate,United States,New York City,New York,10001,East,FUR-55027,Furniture,Tables,Conference Table,2117.58,9.0,0.1,392.46
+485,US-2017-100484,26/01/2017,29/01/2017,First Class,CU-95593,Customer 137,Home Office,United States,Chicago,Illinois,60601,Central,FUR-63603,Furniture,Furnishings,Wall Clock,583.28,4.0,0.5,16.89
+486,US-2015-100485,14/08/2015,17/08/2015,Second Class,CU-56470,Customer 227,Corporate,United States,Atlanta,Georgia,30301,South,OFF-75801,Office Supplies,Labels,Shipping Labels,470.74,2.0,0.5,45.5
+487,US-2016-100486,04/07/2016,05/07/2016,Standard Class,CU-87036,Customer 189,Home Office,United States,Miami,Florida,33101,South,OFF-25490,Office Supplies,Binders,Presentation Binder,26.17,2.0,0.2,1.39
+488,US-2016-100487,15/07/2016,18/07/2016,Second Class,CU-15387,Customer 8,Consumer,United States,Miami,Florida,33101,South,FUR-72136,Furniture,Tables,Conference Table,174.82,1.0,0.2,-5.63
+489,US-2015-100488,28/09/2015,29/09/2015,First Class,CU-62277,Customer 14,Consumer,United States,Miami,Florida,33101,South,OFF-46962,Office Supplies,Labels,Address Labels,996.8,5.0,0.2,42.91
+490,US-2014-100489,23/02/2014,24/02/2014,Second Class,CU-38492,Customer 99,Consumer,United States,Atlanta,Georgia,30301,South,TEC-67487,Technology,Accessories,USB Drive,475.21,2.0,0.3,73.12
+491,US-2014-100490,30/12/2014,04/01/2015,Standard Class,CU-73614,Customer 75,Home Office,United States,New York City,New York,10001,East,FUR-32798,Furniture,Furnishings,Desk Lamp,835.83,4.0,0.2,176.3
+492,US-2016-100491,08/11/2016,14/11/2016,First Class,CU-26513,Customer 181,Home Office,United States,Chicago,Illinois,60601,Central,FUR-21464,Furniture,Tables,Work Table,2662.14,6.0,0.5,314.79
+493,US-2016-100492,18/10/2016,21/10/2016,Standard Class,CU-16264,Customer 236,Corporate,United States,Atlanta,Georgia,30301,South,OFF-31236,Office Supplies,Storage,Storage Box,454.0,9.0,0.5,-20.98
+494,US-2015-100493,25/08/2015,31/08/2015,First Class,CU-18768,Customer 221,Home Office,United States,New York City,New York,10001,East,TEC-25750,Technology,Machines,Shredder,1030.31,8.0,0.5,-51.25
+495,US-2014-100494,30/05/2014,04/06/2014,Same Day,CU-77596,Customer 58,Consumer,United States,Atlanta,Georgia,30301,South,FUR-71253,Furniture,Bookcases,Modern Bookcase,2224.28,8.0,0.0,380.04
+496,US-2016-100495,25/02/2016,29/02/2016,Second Class,CU-60391,Customer 142,Consumer,United States,New York City,New York,10001,East,TEC-26696,Technology,Phones,Wireless Phone,1141.59,7.0,0.0,-115.53
+497,US-2016-100496,18/09/2016,21/09/2016,First Class,CU-40101,Customer 125,Consumer,United States,New York City,New York,10001,East,FUR-84178,Furniture,Bookcases,Modern Bookcase,255.15,3.0,0.3,-25.71
+498,US-2016-100497,06/04/2016,13/04/2016,Second Class,CU-72109,Customer 9,Corporate,United States,Los Angeles,California,90001,West,TEC-75907,Technology,Machines,Shredder,504.54,2.0,0.2,108.89
+499,US-2017-100498,02/02/2017,07/02/2017,First Class,CU-68976,Customer 159,Home Office,United States,Houston,Texas,77001,Central,FUR-98377,Furniture,Tables,Work Table,1955.99,5.0,0.1,142.43
+500,US-2014-100499,16/07/2014,20/07/2014,Same Day,CU-97865,Customer 49,Corporate,United States,Miami,Florida,33101,South,OFF-82017,Office Supplies,Storage,Storage Box,850.15,7.0,0.2,-95.94
+501,US-2015-100500,12/05/2015,14/05/2015,Same Day,CU-12743,Customer 140,Corporate,United States,Chicago,Illinois,60601,Central,FUR-55192,Furniture,Bookcases,Wooden Bookcase,1906.98,5.0,0.2,-182.49
+502,US-2017-100501,15/09/2017,17/09/2017,Same Day,CU-73586,Customer 128,Consumer,United States,Atlanta,Georgia,30301,South,OFF-48062,Office Supplies,Labels,Shipping Labels,1042.23,8.0,0.2,120.83
+503,US-2017-100502,05/04/2017,09/04/2017,First Class,CU-87622,Customer 24,Consumer,United States,Houston,Texas,77001,Central,TEC-88926,Technology,Phones,Wireless Phone,1087.08,5.0,0.5,107.06
+504,US-2016-100503,12/01/2016,15/01/2016,Standard Class,CU-21544,Customer 154,Home Office,United States,New York City,New York,10001,East,TEC-21678,Technology,Copiers,Multifunction Copier,948.61,3.0,0.5,1.33
+505,US-2017-100504,02/08/2017,09/08/2017,Standard Class,CU-17590,Customer 65,Consumer,United States,New York City,New York,10001,East,FUR-27573,Furniture,Furnishings,Wall Clock,4027.03,9.0,0.1,398.83
+506,US-2017-100505,17/01/2017,22/01/2017,First Class,CU-36912,Customer 172,Home Office,United States,New York City,New York,10001,East,OFF-52460,Office Supplies,Labels,Address Labels,809.59,4.0,0.0,64.13
+507,US-2016-100506,08/11/2016,10/11/2016,Standard Class,CU-40982,Customer 193,Home Office,United States,Chicago,Illinois,60601,Central,TEC-11285,Technology,Accessories,USB Drive,420.2,7.0,0.0,36.98
+508,US-2014-100507,07/02/2014,11/02/2014,Standard Class,CU-49937,Customer 233,Home Office,United States,Philadelphia,Pennsylvania,19103,East,TEC-80906,Technology,Copiers,Desktop Copier,1108.81,3.0,0.1,116.22
+509,US-2017-100508,31/05/2017,06/06/2017,Same Day,CU-28139,Customer 222,Corporate,United States,New York City,New York,10001,East,OFF-38991,Office Supplies,Storage,Storage Box,2518.82,9.0,0.2,-251.21
+510,US-2014-100509,27/01/2014,02/02/2014,Same Day,CU-88792,Customer 119,Consumer,United States,New York City,New York,10001,East,OFF-85621,Office Supplies,Labels,Address Labels,444.5,9.0,0.3,-37.63
+511,US-2014-100510,13/04/2014,15/04/2014,Standard Class,CU-21214,Customer 170,Corporate,United States,Philadelphia,Pennsylvania,19103,East,FUR-17549,Furniture,Furnishings,Desk Lamp,2927.78,8.0,0.2,-223.0
+512,US-2016-100511,24/02/2016,01/03/2016,First Class,CU-60135,Customer 46,Home Office,United States,Los Angeles,California,90001,West,OFF-16151,Office Supplies,Labels,Shipping Labels,2766.54,7.0,0.3,402.61
+513,US-2016-100512,15/08/2016,20/08/2016,First Class,CU-53753,Customer 157,Home Office,United States,Philadelphia,Pennsylvania,19103,East,FUR-73924,Furniture,Chairs,Ergonomic Chair,1286.04,3.0,,-13.53
+514,US-2017-100513,08/01/2017,12/01/2017,Standard Class,CU-80246,Customer 147,Corporate,United States,Los Angeles,California,90001,West,TEC-23195,Technology,Machines,Shredder,3025.24,9.0,0.2,131.64
+515,US-2015-100514,23/09/2015,24/09/2015,Standard Class,CU-25272,Customer 107,Home Office,United States,Philadelphia,Pennsylvania,19103,East,FUR-75734,Furniture,Furnishings,Desk Lamp,311.49,4.0,0.2,25.9
+516,US-2016-100515,25/11/2016,02/12/2016,Standard Class,CU-19520,Customer 210,Corporate,United States,Los Angeles,California,90001,West,FUR-92374,Furniture,Bookcases,Modern Bookcase,733.83,5.0,0.1,34.86
+517,US-2015-100516,19/03/2015,23/03/2015,Second Class,CU-56703,Customer 62,Corporate,United States,Seattle,Washington,98101,West,FUR-14408,Furniture,Furnishings,Wall Clock,187.31,2.0,0.2,26.51
+518,US-2016-100517,09/03/2016,13/03/2016,Same Day,CU-80092,Customer 186,Corporate,United States,Chicago,Illinois,60601,Central,OFF-11748,Office Supplies,Binders,Ring Binder,518.19,7.0,0.5,50.04
+519,US-2015-100518,03/02/2015,09/02/2015,Same Day,CU-24708,Customer 123,Corporate,United States,Seattle,Washington,98101,West,OFF-68202,Office Supplies,Labels,Shipping Labels,857.6,5.0,0.5,97.02
+520,US-2016-100519,08/11/2016,14/11/2016,First Class,CU-36093,Customer 1,Home Office,United States,New York City,New York,10001,East,FUR-55958,Furniture,Bookcases,Modern Bookcase,1049.26,3.0,0.5,-75.54
+521,US-2015-100520,22/03/2015,27/03/2015,First Class,CU-26806,Customer 142,Consumer,United States,Chicago,Illinois,60601,Central,FUR-22828,Furniture,Tables,Conference Table,804.37,3.0,0.1,9.47
+522,US-2015-100521,23/02/2015,24/02/2015,Second Class,CU-10509,Customer 142,Home Office,United States,Los Angeles,California,90001,West,TEC-84585,Technology,Accessories,Keyboard,3373.09,9.0,0.0,329.24
+523,US-2014-100522,11/12/2014,14/12/2014,First Class,CU-92077,Customer 140,Consumer,United States,Houston,Texas,77001,Central,FUR-91414,Furniture,Chairs,Office Chair,721.75,5.0,0.0,164.2
+524,US-2016-100523,26/09/2016,29/09/2016,Same Day,CU-64419,Customer 163,Home Office,United States,Houston,Texas,77001,Central,OFF-69440,Office Supplies,Storage,File Organizer,65.18,5.0,0.0,17.51
+525,US-2016-100524,10/02/2016,12/02/2016,First Class,CU-47881,Customer 163,Corporate,United States,Chicago,Illinois,60601,Central,OFF-42243,Office Supplies,Art,Marker Set,168.31,7.0,0.2,27.54
+526,US-2014-100525,04/11/2014,11/11/2014,First Class,CU-90599,Customer 59,Consumer,United States,Chicago,Illinois,60601,Central,OFF-91504,Office Supplies,Binders,Presentation Binder,155.65,2.0,0.1,38.74
+527,US-2015-100526,11/02/2015,12/02/2015,Same Day,CU-31404,Customer 161,Home Office,United States,Atlanta,Georgia,30301,South,OFF-48139,Office Supplies,Binders,Ring Binder,2663.44,9.0,0.2,171.78
+528,US-2015-100527,17/10/2015,21/10/2015,Same Day,CU-39461,Customer 194,Consumer,United States,Atlanta,Georgia,30301,South,TEC-20088,Technology,Machines,Shredder,893.63,8.0,0.1,-23.74
+529,US-2015-100528,26/02/2015,04/03/2015,Standard Class,CU-34424,Customer 5,Corporate,United States,Miami,Florida,33101,South,OFF-99671,Office Supplies,Labels,Shipping Labels,3586.18,8.0,0.5,-186.3
+530,US-2014-100529,04/02/2014,08/02/2014,Second Class,CU-80852,Customer 115,Consumer,United States,Houston,Texas,77001,Central,FUR-21757,Furniture,Furnishings,Desk Lamp,86.85,7.0,0.3,7.04
+531,US-2015-100530,04/08/2015,10/08/2015,Same Day,CU-56415,Customer 214,Home Office,United States,Houston,Texas,77001,Central,OFF-97709,Office Supplies,Labels,Address Labels,589.38,4.0,0.3,42.6
+532,US-2016-100531,13/05/2016,14/05/2016,Same Day,CU-76023,Customer 22,Corporate,United States,New York City,New York,10001,East,FUR-47241,Furniture,Chairs,Ergonomic Chair,548.6,4.0,0.3,-17.1
+533,US-2017-100532,03/02/2017,10/02/2017,Same Day,CU-31092,Customer 248,Corporate,United States,Atlanta,Georgia,30301,South,TEC-70699,Technology,Accessories,Keyboard,326.99,1.0,0.2,37.41
+534,US-2016-100533,22/07/2016,25/07/2016,Standard Class,CU-47696,Customer 216,Home Office,United States,Miami,Florida,33101,South,OFF-22728,Office Supplies,Art,Drawing Pad,1142.04,5.0,0.0,155.86
+535,US-2015-100534,19/06/2015,26/06/2015,First Class,CU-34738,Customer 176,Home Office,United States,New York City,New York,10001,East,FUR-28534,Furniture,Bookcases,Wooden Bookcase,896.35,4.0,0.5,1.29
+536,US-2014-100535,04/07/2014,10/07/2014,Standard Class,CU-41049,Customer 63,Consumer,United States,Chicago,Illinois,60601,Central,OFF-77148,Office Supplies,Paper,Copy Paper,308.74,1.0,0.1,39.06
+537,US-2017-100536,28/01/2017,01/02/2017,Standard Class,CU-34681,Customer 219,Home Office,United States,Miami,Florida,33101,South,TEC-18887,Technology,Accessories,USB Drive,1782.42,4.0,0.3,-56.98
+538,US-2016-100537,02/04/2016,07/04/2016,First Class,CU-17764,Customer 219,Home Office,United States,Los Angeles,California,90001,West,TEC-24647,Technology,Copiers,Desktop Copier,250.98,1.0,0.5,-2.45
+539,US-2015-100538,16/06/2015,20/06/2015,First Class,CU-16779,Customer 170,Home Office,United States,Philadelphia,Pennsylvania,19103,East,TEC-69642,Technology,Copiers,Desktop Copier,117.79,3.0,0.5,3.56
+540,US-2017-100539,13/10/2017,19/10/2017,First Class,CU-16530,Customer 161,Consumer,United States,Miami,Florida,33101,South,TEC-89518,Technology,Copiers,Multifunction Copier,2429.01,7.0,0.0,588.98
+541,US-2014-100540,10/12/2014,17/12/2014,Same Day,CU-49114,Customer 54,Consumer,United States,Miami,Florida,33101,South,OFF-92418,Office Supplies,Labels,Shipping Labels,98.26,1.0,0.1,23.93
+542,US-2014-100541,19/01/2014,22/01/2014,First Class,CU-77110,Customer 81,Home Office,United States,Chicago,Illinois,60601,Central,OFF-87143,Office Supplies,Art,Marker Set,3996.17,9.0,0.1,542.96
+543,US-2014-100542,14/11/2014,20/11/2014,First Class,CU-52031,Customer 202,Consumer,United States,Atlanta,Georgia,30301,South,FUR-59650,Furniture,Bookcases,Modern Bookcase,278.85,2.0,0.5,19.56
+544,US-2016-100543,30/04/2016,01/05/2016,Standard Class,CU-77786,Customer 160,Home Office,United States,Chicago,Illinois,60601,Central,OFF-90963,Office Supplies,Storage,Storage Box,1162.18,5.0,0.1,265.26
+545,US-2014-100544,09/06/2014,14/06/2014,Second Class,CU-34563,Customer 38,Corporate,United States,Seattle,Washington,98101,West,OFF-66120,Office Supplies,Paper,Notebook Paper,728.27,8.0,0.1,-23.62
+546,US-2016-100545,18/02/2016,20/02/2016,First Class,CU-98167,Customer 56,Corporate,United States,Chicago,Illinois,60601,Central,TEC-28059,Technology,Machines,Shredder,155.8,1.0,0.0,-11.59
+547,US-2014-100546,02/01/2014,03/01/2014,Standard Class,CU-29356,Customer 187,Consumer,United States,New York City,New York,10001,East,OFF-86388,Office Supplies,Storage,File Organizer,1790.73,4.0,0.1,394.71
+548,US-2014-100547,21/10/2014,27/10/2014,Second Class,CU-46663,Customer 220,Consumer,United States,Houston,Texas,77001,Central,OFF-19662,Office Supplies,Labels,Address Labels,119.01,2.0,0.3,18.67
+549,US-2016-100548,18/04/2016,22/04/2016,Second Class,CU-62132,Customer 26,Corporate,United States,Atlanta,Georgia,30301,South,FUR-67740,Furniture,Chairs,Ergonomic Chair,1654.62,8.0,0.5,-94.54
+550,US-2017-100549,02/10/2017,05/10/2017,Second Class,CU-87108,Customer 71,Consumer,United States,Miami,Florida,33101,South,OFF-69409,Office Supplies,Labels,Shipping Labels,222.76,3.0,0.2,-24.06
+551,US-2014-100550,27/07/2014,28/07/2014,Same Day,CU-14190,Customer 86,Home Office,United States,Philadelphia,Pennsylvania,19103,East,FUR-40567,Furniture,Chairs,Office Chair,2758.61,7.0,0.0,706.12
+552,US-2017-100551,04/02/2017,11/02/2017,Same Day,CU-10469,Customer 118,Home Office,United States,Philadelphia,Pennsylvania,19103,East,FUR-32010,Furniture,Chairs,Office Chair,618.22,3.0,0.2,80.76
+553,US-2016-100552,27/11/2016,03/12/2016,Standard Class,CU-57241,Customer 222,Home Office,United States,Houston,Texas,77001,Central,TEC-53024,Technology,Accessories,USB Drive,729.98,4.0,0.3,28.49
+554,US-2017-100553,02/12/2017,06/12/2017,Second Class,CU-55079,Customer 107,Corporate,United States,Atlanta,Georgia,30301,South,TEC-25061,Technology,Accessories,Keyboard,254.86,4.0,0.5,-14.38
+555,US-2015-100554,21/05/2015,25/05/2015,Standard Class,CU-27441,Customer 212,Corporate,United States,New York City,New York,10001,East,TEC-47890,Technology,Accessories,USB Drive,1217.78,3.0,0.3,79.94
+556,US-2014-100555,26/03/2014,30/03/2014,Second Class,CU-79576,Customer 18,Home Office,United States,Seattle,Washington,98101,West,OFF-40294,Office Supplies,Binders,Ring Binder,1231.04,5.0,0.3,97.68
+557,US-2017-100556,20/03/2017,22/03/2017,Standard Class,CU-40893,Customer 159,Consumer,United States,Philadelphia,Pennsylvania,19103,East,FUR-89625,Furniture,Bookcases,Modern Bookcase,1015.99,7.0,0.2,198.27
+558,US-2015-100557,09/07/2015,15/07/2015,First Class,CU-11593,Customer 57,Corporate,United States,Atlanta,Georgia,30301,South,TEC-80121,Technology,Machines,Printer,62.52,1.0,0.1,-3.37
+559,US-2015-100558,22/02/2015,26/02/2015,Same Day,CU-19972,Customer 230,Consumer,United States,Chicago,Illinois,60601,Central,FUR-32356,Furniture,Bookcases,Wooden Bookcase,1396.2,5.0,0.2,249.78
+560,US-2014-100559,12/02/2014,15/02/2014,Second Class,CU-46471,Customer 17,Home Office,United States,Seattle,Washington,98101,West,FUR-93889,Furniture,Chairs,Ergonomic Chair,2223.2,9.0,0.2,489.92
+561,US-2016-100560,03/01/2016,10/01/2016,First Class,CU-69292,Customer 22,Corporate,United States,Chicago,Illinois,60601,Central,OFF-76379,Office Supplies,Storage,Storage Box,1596.24,8.0,0.2,-41.92
+562,US-2016-100561,11/03/2016,16/03/2016,Second Class,CU-80989,Customer 19,Corporate,United States,Los Angeles,California,90001,West,FUR-48754,Furniture,Tables,Work Table,23.85,4.0,0.0,-3.52
+563,US-2014-100562,30/04/2014,06/05/2014,Standard Class,CU-62677,Customer 100,Home Office,United States,Houston,Texas,77001,Central,FUR-95506,Furniture,Furnishings,Wall Clock,2244.76,5.0,0.1,
+564,US-2014-100563,26/08/2014,29/08/2014,Second Class,CU-77907,Customer 69,Home Office,United States,Miami,Florida,33101,South,TEC-95983,Technology,Machines,Printer,618.62,2.0,0.2,-70.65
+565,US-2015-100564,07/04/2015,09/04/2015,First Class,CU-49316,Customer 40,Consumer,United States,Seattle,Washington,98101,West,FUR-48917,Furniture,Furnishings,Desk Lamp,1899.11,5.0,0.2,267.3
+566,US-2015-100565,07/04/2015,11/04/2015,First Class,CU-46535,Customer 145,Consumer,United States,New York City,New York,10001,East,OFF-56574,Office Supplies,Labels,Shipping Labels,1303.65,7.0,0.3,34.3
+567,US-2016-100566,21/09/2016,28/09/2016,First Class,CU-55054,Customer 249,Corporate,United States,Los Angeles,California,90001,West,OFF-91279,Office Supplies,Paper,Notebook Paper,66.59,6.0,0.2,-2.58
+568,US-2015-100567,07/06/2015,13/06/2015,Second Class,CU-85442,Customer 45,Home Office,United States,Seattle,Washington,98101,West,OFF-47258,Office Supplies,Paper,Copy Paper,1907.99,6.0,0.5,21.88
+569,US-2017-100568,22/02/2017,28/02/2017,Standard Class,CU-39898,Customer 169,Home Office,United States,Miami,Florida,33101,South,TEC-89709,Technology,Phones,Wireless Phone,308.3,1.0,0.1,46.69
+570,US-2015-100569,11/08/2015,12/08/2015,Second Class,CU-72170,Customer 107,Consumer,United States,New York City,New York,10001,East,TEC-45535,Technology,Phones,Wireless Phone,792.0,,0.2,-20.14
+571,US-2015-100570,17/03/2015,22/03/2015,Second Class,CU-75822,Customer 19,Home Office,United States,New York City,New York,10001,East,FUR-38749,Furniture,Bookcases,Modern Bookcase,1399.36,4.0,0.0,
+572,US-2017-100571,14/06/2017,15/06/2017,Standard Class,CU-82689,Customer 126,Consumer,United States,Los Angeles,California,90001,West,FUR-89758,Furniture,Furnishings,Wall Clock,1425.43,5.0,0.3,-30.09
+573,US-2015-100572,01/02/2015,08/02/2015,Standard Class,CU-49827,Customer 229,Corporate,United States,Chicago,Illinois,60601,Central,TEC-41441,Technology,Copiers,Multifunction Copier,1213.61,9.0,0.0,-57.91
+574,US-2016-100573,13/02/2016,15/02/2016,First Class,CU-61720,Customer 170,Consumer,United States,Houston,Texas,77001,Central,OFF-44874,Office Supplies,Art,Marker Set,1413.68,6.0,0.1,-69.45
+575,US-2015-100574,15/06/2015,20/06/2015,Standard Class,CU-86090,Customer 207,Consumer,United States,Atlanta,Georgia,30301,South,FUR-19734,Furniture,Furnishings,Wall Clock,1090.42,7.0,0.3,167.72
+576,US-2017-100575,15/05/2017,18/05/2017,Second Class,CU-71111,Customer 173,Consumer,United States,Philadelphia,Pennsylvania,19103,East,OFF-53281,Office Supplies,Labels,Address Labels,387.34,3.0,0.2,-10.68
+577,US-2014-100576,19/11/2014,26/11/2014,Same Day,CU-26189,Customer 221,Home Office,United States,New York City,New York,10001,East,OFF-22804,Office Supplies,Art,Drawing Pad,1585.34,7.0,0.3,-28.8
+578,US-2017-100577,15/12/2017,20/12/2017,Standard Class,CU-29715,Customer 116,Consumer,United States,Philadelphia,Pennsylvania,19103,East,OFF-44864,Office Supplies,Labels,Shipping Labels,616.78,2.0,0.2,-48.43
+579,US-2017-100578,06/10/2017,13/10/2017,Standard Class,CU-46712,Customer 247,Corporate,United States,Atlanta,Georgia,30301,South,FUR-69223,Furniture,Bookcases,Modern Bookcase,1207.58,4.0,0.3,207.75
+580,US-2016-100579,29/11/2016,01/12/2016,Standard Class,CU-38878,Customer 179,Corporate,United States,Los Angeles,California,90001,West,OFF-35801,Office Supplies,Labels,Shipping Labels,781.22,5.0,0.5,22.86
+581,US-2017-100580,11/01/2017,18/01/2017,Same Day,CU-42741,Customer 219,Home Office,United States,Seattle,Washington,98101,West,OFF-98463,Office Supplies,Art,Drawing Pad,856.32,3.0,0.1,-64.66
+582,US-2016-100581,10/02/2016,12/02/2016,Same Day,CU-59905,Customer 200,Consumer,United States,Philadelphia,Pennsylvania,19103,East,OFF-63565,Office Supplies,Labels,Address Labels,269.47,1.0,0.3,14.82
+583,US-2017-100582,17/02/2017,23/02/2017,Same Day,CU-98256,Customer 156,Consumer,United States,Houston,Texas,77001,Central,OFF-94444,Office Supplies,Art,Drawing Pad,2009.11,6.0,0.1,-86.25
+584,US-2015-100583,24/09/2015,01/10/2015,Standard Class,CU-15782,Customer 122,Corporate,United States,Los Angeles,California,90001,West,OFF-31932,Office Supplies,Paper,Copy Paper,1290.92,4.0,0.1,-94.8
+585,US-2014-100584,11/12/2014,14/12/2014,First Class,CU-66398,Customer 202,Consumer,United States,Los Angeles,California,90001,West,FUR-25194,Furniture,Bookcases,Wooden Bookcase,17.9,1.0,0.1,1.89
+586,US-2016-100585,01/10/2016,08/10/2016,Standard Class,CU-37181,Customer 228,Consumer,United States,Chicago,Illinois,60601,Central,TEC-91958,Technology,Machines,Printer,845.74,4.0,0.2,134.72
+587,US-2014-100586,23/11/2014,28/11/2014,First Class,CU-27067,Customer 51,Home Office,United States,Miami,Florida,33101,South,FUR-32620,Furniture,Furnishings,Desk Lamp,457.29,3.0,0.1,50.31
+588,US-2015-100587,25/10/2015,26/10/2015,First Class,CU-92512,Customer 42,Home Office,United States,New York City,New York,10001,East,OFF-52402,Office Supplies,Labels,Address Labels,1137.43,7.0,0.3,-42.9
+589,US-2015-100588,31/05/2015,04/06/2015,Same Day,CU-13947,Customer 163,Corporate,United States,Atlanta,Georgia,30301,South,OFF-68842,Office Supplies,Paper,Copy Paper,1730.1,5.0,0.3,-94.88
+590,US-2016-100589,30/09/2016,05/10/2016,First Class,CU-97078,Customer 181,Home Office,United States,Miami,Florida,33101,South,TEC-27726,Technology,Machines,Shredder,435.14,4.0,0.3,-18.92
+591,US-2015-100590,02/03/2015,08/03/2015,Second Class,CU-85593,Customer 134,Home Office,United States,New York City,New York,10001,East,OFF-52102,Office Supplies,Art,Marker Set,995.5,5.0,0.3,170.99
+592,US-2015-100591,17/04/2015,22/04/2015,First Class,CU-19908,Customer 2,Home Office,United States,Philadelphia,Pennsylvania,19103,East,FUR-86646,Furniture,Tables,Conference Table,590.64,4.0,0.3,-57.48
+593,US-2014-100592,09/03/2014,15/03/2014,First Class,CU-89605,Customer 237,Home Office,United States,New York City,New York,10001,East,OFF-21597,Office Supplies,Paper,Notebook Paper,1210.49,3.0,0.0,-82.63
+594,US-2014-100593,16/11/2014,18/11/2014,Same Day,CU-82898,Customer 207,Home Office,United States,Los Angeles,California,90001,West,FUR-24320,Furniture,Chairs,Ergonomic Chair,454.48,4.0,0.0,-23.29
+595,US-2017-100594,02/12/2017,08/12/2017,First Class,CU-34721,Customer 15,Corporate,United States,Philadelphia,Pennsylvania,19103,East,FUR-73300,Furniture,Furnishings,Desk Lamp,288.24,5.0,0.2,46.4
+596,US-2017-100595,30/11/2017,05/12/2017,Second Class,CU-28962,Customer 230,Consumer,United States,Seattle,Washington,98101,West,OFF-56165,Office Supplies,Binders,Presentation Binder,151.78,2.0,0.5,-6.65
+597,US-2016-100596,29/06/2016,30/06/2016,Standard Class,CU-50747,Customer 235,Corporate,United States,Atlanta,Georgia,30301,South,OFF-63779,Office Supplies,Paper,Copy Paper,405.8,3.0,0.2,-0.72
+598,US-2016-100597,14/06/2016,16/06/2016,First Class,CU-47284,Customer 145,Corporate,United States,Atlanta,Georgia,30301,South,OFF-47502,Office Supplies,Storage,File Organizer,320.2,2.0,0.5,-12.0
+599,US-2014-100598,17/03/2014,24/03/2014,Same Day,CU-36142,Customer 204,Corporate,United States,Chicago,Illinois,60601,Central,TEC-11576,Technology,Phones,Office Phone,948.38,5.0,0.3,168.0
+600,US-2017-100599,04/05/2017,07/05/2017,First Class,CU-64554,Customer 207,Home Office,United States,Miami,Florida,33101,South,OFF-87563,Office Supplies,Paper,Copy Paper,2266.24,9.0,0.0,287.11
+601,US-2016-100600,02/04/2016,08/04/2016,Same Day,CU-24823,Customer 205,Consumer,United States,Los Angeles,California,90001,West,FUR-61795,Furniture,Tables,Work Table,2977.27,8.0,0.3,91.14
+602,US-2016-100601,29/09/2016,05/10/2016,Same Day,CU-12229,Customer 231,Consumer,United States,Seattle,Washington,98101,West,OFF-64131,Office Supplies,Binders,Ring Binder,2040.01,6.0,0.1,-183.27
+603,US-2017-100602,24/01/2017,31/01/2017,Second Class,CU-59886,Customer 199,Corporate,United States,Miami,Florida,33101,South,FUR-62473,Furniture,Chairs,Ergonomic Chair,985.94,7.0,0.3,24.58
+604,US-2016-100603,30/07/2016,03/08/2016,Second Class,CU-69343,Customer 55,Consumer,United States,New York City,New York,10001,East,FUR-52997,Furniture,Bookcases,Modern Bookcase,3955.99,9.0,0.0,-295.39
+605,US-2017-100604,30/06/2017,07/07/2017,First Class,CU-65932,Customer 10,Corporate,United States,Chicago,Illinois,60601,Central,OFF-60479,Office Supplies,Storage,File Organizer,316.25,3.0,0.0,67.17
+606,US-2016-100605,23/12/2016,30/12/2016,Second Class,CU-79284,Customer 69,Consumer,United States,Chicago,Illinois,60601,Central,FUR-69258,Furniture,Chairs,Office Chair,3228.58,8.0,0.3,530.07
+607,US-2014-100606,09/05/2014,16/05/2014,First Class,CU-63057,Customer 77,Corporate,United States,Los Angeles,California,90001,West,OFF-17028,Office Supplies,Art,Marker Set,5.66,1.0,0.0,-0.06
+608,US-2017-100607,29/11/2017,06/12/2017,First Class,CU-55117,Customer 92,Consumer,United States,Chicago,Illinois,60601,Central,OFF-77164,Office Supplies,Labels,Shipping Labels,378.28,2.0,0.3,43.8
+609,US-2014-100608,01/07/2014,08/07/2014,First Class,CU-25695,Customer 222,Consumer,United States,Los Angeles,California,90001,West,FUR-32209,Furniture,Tables,Conference Table,3019.17,8.0,0.3,-274.43
+610,US-2016-100609,30/05/2016,31/05/2016,Second Class,CU-32003,Customer 168,Corporate,United States,Los Angeles,California,90001,West,FUR-14886,Furniture,Tables,Conference Table,1487.1,5.0,0.2,-176.81
+611,US-2017-100610,18/06/2017,21/06/2017,Standard Class,CU-71344,Customer 186,Consumer,United States,New York City,New York,10001,East,FUR-24890,Furniture,Tables,Conference Table,1296.65,5.0,0.5,72.37
+612,US-2014-100611,23/06/2014,30/06/2014,Same Day,CU-99363,Customer 65,Home Office,United States,Philadelphia,Pennsylvania,19103,East,FUR-25494,Furniture,Furnishings,Wall Clock,630.6,4.0,0.3,36.83
+613,US-2014-100612,06/09/2014,09/09/2014,Standard Class,CU-16566,Customer 186,Consumer,United States,Miami,Florida,33101,South,OFF-90963,Office Supplies,Paper,Copy Paper,163.39,6.0,0.0,40.82
+614,US-2017-100613,23/06/2017,25/06/2017,Second Class,CU-64787,Customer 10,Corporate,United States,Houston,Texas,77001,Central,FUR-36355,Furniture,Furnishings,Wall Clock,1660.64,9.0,0.2,15.01
+615,US-2014-100614,29/06/2014,03/07/2014,Same Day,CU-49804,Customer 233,Consumer,United States,New York City,New York,10001,East,FUR-14784,Furniture,Chairs,Ergonomic Chair,399.26,8.0,0.0,22.61
+616,US-2015-100615,05/06/2015,07/06/2015,Second Class,CU-78464,Customer 178,Corporate,United States,New York City,New York,10001,East,FUR-66422,Furniture,Bookcases,Modern Bookcase,3298.28,8.0,0.1,71.72
+617,US-2014-100616,26/09/2014,29/09/2014,Standard Class,CU-37534,Customer 225,Consumer,United States,Philadelphia,Pennsylvania,19103,East,FUR-98810,Furniture,Tables,Work Table,395.18,6.0,0.2,-7.55
+618,US-2017-100617,12/06/2017,17/06/2017,Same Day,CU-68960,Customer 16,Corporate,United States,Houston,Texas,77001,Central,FUR-33230,Furniture,Tables,Work Table,99.82,2.0,0.3,3.92
+619,US-2017-100618,19/03/2017,23/03/2017,First Class,CU-27459,Customer 247,Corporate,United States,New York City,New York,10001,East,TEC-39718,Technology,Machines,Shredder,1733.54,9.0,0.3,40.59
+620,US-2015-100619,09/08/2015,11/08/2015,Second Class,CU-21536,Customer 229,Consumer,United States,Seattle,Washington,98101,West,TEC-54135,Technology,Copiers,Multifunction Copier,104.73,4.0,0.3,16.42
+621,US-2017-100620,28/10/2017,02/11/2017,Same Day,CU-61959,Customer 232,Home Office,United States,Houston,Texas,77001,Central,TEC-76830,Technology,Machines,Shredder,1394.53,8.0,0.5,122.22
+622,US-2016-100621,07/04/2016,13/04/2016,Second Class,CU-80484,Customer 28,Consumer,United States,Los Angeles,California,90001,West,TEC-80645,Technology,Copiers,Desktop Copier,1331.48,3.0,0.0,-85.37
+623,US-2016-100622,21/03/2016,27/03/2016,Second Class,CU-70134,Customer 235,Home Office,United States,Seattle,Washington,98101,West,FUR-98984,Furniture,Tables,Conference Table,1427.77,7.0,0.1,283.91
+624,US-2015-100623,16/02/2015,23/02/2015,First Class,CU-77782,Customer 181,Corporate,United States,Seattle,Washington,98101,West,OFF-40189,Office Supplies,Paper,Copy Paper,135.84,3.0,0.3,10.82
+625,US-2014-100624,18/01/2014,21/01/2014,Second Class,CU-48286,Customer 248,Consumer,United States,Los Angeles,California,90001,West,OFF-97557,Office Supplies,Binders,Presentation Binder,516.21,6.0,0.1,-13.4
+626,US-2015-100625,21/02/2015,26/02/2015,Same Day,CU-78749,Customer 82,Corporate,United States,Chicago,Illinois,60601,Central,TEC-17783,Technology,Accessories,USB Drive,87.42,4.0,0.0,2.18
+627,US-2016-100626,14/07/2016,20/07/2016,Second Class,CU-92909,Customer 192,Corporate,United States,Miami,Florida,33101,South,TEC-23185,Technology,Accessories,USB Drive,277.16,4.0,0.0,30.2
+628,US-2016-100627,02/05/2016,08/05/2016,Second Class,CU-39855,Customer 174,Home Office,United States,Chicago,Illinois,60601,Central,FUR-69926,Furniture,Tables,Work Table,227.19,3.0,0.2,33.35
+629,US-2017-100628,25/04/2017,27/04/2017,Same Day,CU-36830,Customer 94,Consumer,United States,Chicago,Illinois,60601,Central,FUR-72852,Furniture,Furnishings,Desk Lamp,2740.22,7.0,0.0,275.24
+630,US-2017-100629,02/01/2017,08/01/2017,Same Day,CU-66384,Customer 163,Home Office,United States,Philadelphia,Pennsylvania,19103,East,FUR-91391,Furniture,Tables,Conference Table,822.59,2.0,0.2,87.42
+631,US-2017-100630,17/09/2017,22/09/2017,Standard Class,CU-16953,Customer 212,Consumer,United States,Chicago,Illinois,60601,Central,OFF-81621,Office Supplies,Paper,Copy Paper,2215.85,6.0,0.1,253.63
+632,US-2015-100631,04/12/2015,11/12/2015,Same Day,CU-63645,Customer 37,Corporate,United States,Atlanta,Georgia,30301,South,OFF-99731,Office Supplies,Labels,Address Labels,1414.76,4.0,0.0,-20.16
+633,US-2014-100632,14/02/2014,19/02/2014,Standard Class,CU-29475,Customer 147,Home Office,United States,Miami,Florida,33101,South,OFF-28161,Office Supplies,Binders,Presentation Binder,590.05,5.0,0.3,66.2
+634,US-2017-100633,25/03/2017,30/03/2017,Same Day,CU-27831,Customer 48,Corporate,United States,Los Angeles,California,90001,West,TEC-50997,Technology,Copiers,Multifunction Copier,220.28,2.0,0.0,-24.9
+635,US-2017-100634,20/09/2017,22/09/2017,First Class,CU-47047,Customer 77,Consumer,United States,Chicago,Illinois,60601,Central,OFF-36987,Office Supplies,Storage,File Organizer,1686.52,8.0,0.5,30.78
+636,US-2015-100635,01/07/2015,06/07/2015,Second Class,CU-20900,Customer 138,Corporate,United States,Chicago,Illinois,60601,Central,FUR-75640,Furniture,Bookcases,Modern Bookcase,656.16,7.0,0.3,-39.95
+637,US-2015-100636,02/06/2015,04/06/2015,First Class,CU-39807,Customer 148,Consumer,United States,Seattle,Washington,98101,West,FUR-73060,Furniture,Furnishings,Desk Lamp,616.86,5.0,0.5,56.48
+638,US-2015-100637,14/03/2015,18/03/2015,Second Class,CU-99950,Customer 122,Home Office,United States,Philadelphia,Pennsylvania,19103,East,OFF-80689,Office Supplies,Binders,Ring Binder,629.08,9.0,0.0,9.73
+639,US-2014-100638,09/01/2014,16/01/2014,Standard Class,CU-64089,Customer 7,Corporate,United States,New York City,New York,10001,East,TEC-11026,Technology,Phones,Wireless Phone,3317.0,9.0,0.5,412.92
+640,US-2017-100639,30/03/2017,04/04/2017,Same Day,CU-14145,Customer 236,Home Office,United States,Houston,Texas,77001,Central,FUR-23998,Furniture,Chairs,Office Chair,314.75,7.0,0.2,-15.66
+641,US-2014-100640,08/07/2014,11/07/2014,Standard Class,CU-84397,Customer 101,Corporate,United States,New York City,New York,10001,East,TEC-76209,Technology,Phones,Wireless Phone,432.4,1.0,0.3,-10.19
+642,US-2016-100641,27/08/2016,31/08/2016,Standard Class,CU-65433,Customer 133,Consumer,United States,Seattle,Washington,98101,West,FUR-26041,Furniture,Bookcases,Wooden Bookcase,2024.33,6.0,0.5,253.66
+643,US-2016-100642,01/08/2016,05/08/2016,Same Day,CU-76594,Customer 74,Consumer,United States,New York City,New York,10001,East,FUR-38775,Furniture,Bookcases,Wooden Bookcase,320.22,6.0,0.3,-23.39
+644,US-2014-100643,29/07/2014,04/08/2014,First Class,CU-64384,Customer 236,Home Office,United States,Miami,Florida,33101,South,OFF-28695,Office Supplies,Binders,Presentation Binder,235.47,5.0,0.1,-26.05
+645,US-2016-100644,24/09/2016,25/09/2016,Same Day,CU-12333,Customer 23,Consumer,United States,Atlanta,Georgia,30301,South,FUR-45570,Furniture,Furnishings,Desk Lamp,259.6,1.0,0.2,58.05
+646,US-2017-100645,24/09/2017,27/09/2017,Standard Class,CU-66589,Customer 186,Corporate,United States,Chicago,Illinois,60601,Central,FUR-38134,Furniture,Furnishings,Desk Lamp,3570.43,9.0,0.5,48.57
+647,US-2016-100646,26/08/2016,02/09/2016,Second Class,CU-37563,Customer 57,Consumer,United States,Atlanta,Georgia,30301,South,FUR-59758,Furniture,Furnishings,Desk Lamp,578.64,5.0,0.5,76.57
+648,US-2017-100647,24/05/2017,26/05/2017,Same Day,CU-12773,Customer 42,Corporate,United States,Chicago,Illinois,60601,Central,OFF-46001,Office Supplies,Storage,Storage Box,566.44,2.0,0.1,3.0
+649,US-2017-100648,21/02/2017,23/02/2017,Second Class,CU-19914,Customer 51,Home Office,United States,Miami,Florida,33101,South,OFF-65871,Office Supplies,Storage,File Organizer,1276.6,6.0,0.2,-9.54
+650,US-2015-100649,06/12/2015,08/12/2015,Standard Class,CU-50631,Customer 168,Consumer,United States,Los Angeles,California,90001,West,OFF-35352,Office Supplies,Binders,Presentation Binder,1211.26,6.0,0.1,37.78
+651,US-2017-100650,29/08/2017,05/09/2017,Second Class,CU-85728,Customer 203,Corporate,United States,Miami,Florida,33101,South,FUR-85379,Furniture,Bookcases,Wooden Bookcase,731.02,2.0,0.5,-0.9
+652,US-2015-100651,27/08/2015,02/09/2015,Second Class,CU-18297,Customer 240,Corporate,United States,Chicago,Illinois,60601,Central,OFF-59466,Office Supplies,Art,Marker Set,823.74,3.0,0.2,-98.55
+653,US-2016-100652,23/05/2016,27/05/2016,Same Day,CU-70382,Customer 34,Corporate,United States,New York City,New York,10001,East,OFF-89979,Office Supplies,Binders,Presentation Binder,2623.94,6.0,0.1,277.05
+654,US-2017-100653,20/11/2017,21/11/2017,Same Day,CU-60394,Customer 83,Corporate,United States,Chicago,Illinois,60601,Central,FUR-70332,Furniture,Chairs,Ergonomic Chair,598.58,2.0,0.1,-10.67
+655,US-2014-100654,06/08/2014,08/08/2014,Same Day,CU-32240,Customer 154,Corporate,United States,Chicago,Illinois,60601,Central,TEC-88243,Technology,Accessories,USB Drive,491.45,6.0,0.0,123.39
+656,US-2016-100655,10/12/2016,12/12/2016,First Class,CU-86405,Customer 82,Consumer,United States,Los Angeles,California,90001,West,OFF-21534,Office Supplies,Labels,Address Labels,24.73,2.0,0.3,3.83
+657,US-2017-100656,05/12/2017,10/12/2017,First Class,CU-39190,Customer 238,Home Office,United States,New York City,New York,10001,East,TEC-76507,Technology,Phones,Wireless Phone,2207.91,7.0,0.3,23.74
+658,US-2015-100657,17/10/2015,24/10/2015,First Class,CU-65042,Customer 197,Consumer,United States,Philadelphia,Pennsylvania,19103,East,FUR-62614,Furniture,Tables,Work Table,666.99,3.0,0.5,11.17
+659,US-2014-100658,14/01/2014,21/01/2014,First Class,CU-52749,Customer 245,Corporate,United States,Seattle,Washington,98101,West,OFF-46990,Office Supplies,Paper,Notebook Paper,1319.64,7.0,0.5,64.02
+660,US-2015-100659,27/02/2015,06/03/2015,Standard Class,CU-59577,Customer 107,Consumer,United States,New York City,New York,10001,East,OFF-73813,Office Supplies,Labels,Shipping Labels,1261.12,5.0,0.0,135.09
+661,US-2014-100660,10/03/2014,14/03/2014,Standard Class,CU-49640,Customer 21,Home Office,United States,Seattle,Washington,98101,West,TEC-97338,Technology,Copiers,Desktop Copier,2553.28,9.0,0.3,-93.76
+662,US-2017-100661,01/12/2017,02/12/2017,First Class,CU-89051,Customer 152,Corporate,United States,Seattle,Washington,98101,West,OFF-76135,Office Supplies,Storage,File Organizer,870.52,3.0,0.0,-126.69
+663,US-2017-100662,27/01/2017,28/01/2017,Standard Class,CU-16401,Customer 214,Consumer,United States,Seattle,Washington,98101,West,FUR-47706,Furniture,Tables,Work Table,252.53,3.0,0.2,6.25
+664,US-2016-100663,20/01/2016,22/01/2016,Second Class,CU-66736,Customer 196,Consumer,United States,Philadelphia,Pennsylvania,19103,East,FUR-43799,Furniture,Tables,Work Table,254.97,1.0,0.0,49.13
+665,US-2016-100664,28/06/2016,04/07/2016,Same Day,CU-89503,Customer 33,Corporate,United States,Chicago,Illinois,60601,Central,FUR-76017,Furniture,Furnishings,Wall Clock,1582.67,8.0,0.0,-113.05
+666,US-2014-100665,03/10/2014,06/10/2014,Same Day,CU-80461,Customer 186,Home Office,United States,Seattle,Washington,98101,West,OFF-47667,Office Supplies,Paper,Notebook Paper,821.39,2.0,0.3,-53.3
+667,US-2014-100666,23/01/2014,26/01/2014,First Class,CU-90269,Customer 88,Corporate,United States,Seattle,Washington,98101,West,OFF-72354,Office Supplies,Binders,Ring Binder,314.43,1.0,0.1,-11.16
+668,US-2017-100667,16/11/2017,21/11/2017,First Class,CU-62241,Customer 42,Home Office,United States,Miami,Florida,33101,South,OFF-62024,Office Supplies,Labels,Shipping Labels,995.67,4.0,0.1,213.84
+669,US-2017-100668,06/01/2017,09/01/2017,Same Day,CU-47850,Customer 208,Consumer,United States,Chicago,Illinois,60601,Central,OFF-78243,Office Supplies,Labels,Shipping Labels,406.48,5.0,0.1,37.0
+670,US-2016-100669,26/07/2016,28/07/2016,Standard Class,CU-58860,Customer 214,Consumer,United States,New York City,New York,10001,East,TEC-77452,Technology,Copiers,Desktop Copier,2226.2,9.0,0.0,177.65
+671,US-2015-100670,02/03/2015,04/03/2015,Standard Class,CU-18749,Customer 208,Consumer,United States,New York City,New York,10001,East,FUR-96349,Furniture,Tables,Conference Table,195.7,7.0,0.5,19.98
+672,US-2016-100671,29/08/2016,02/09/2016,Standard Class,CU-58858,Customer 193,Home Office,United States,Miami,Florida,33101,South,FUR-59543,Furniture,Chairs,Ergonomic Chair,3404.96,9.0,0.3,273.9
+673,US-2017-100672,06/12/2017,13/12/2017,Standard Class,CU-18850,Customer 243,Consumer,United States,Chicago,Illinois,60601,Central,TEC-76165,Technology,Machines,Printer,1490.02,4.0,0.0,415.13
+674,US-2015-100673,27/04/2015,28/04/2015,Same Day,CU-99661,Customer 81,Corporate,United States,Miami,Florida,33101,South,FUR-91567,Furniture,Bookcases,Modern Bookcase,2888.0,8.0,0.3,262.24
+675,US-2015-100674,13/03/2015,15/03/2015,Second Class,CU-95705,Customer 227,Corporate,United States,Chicago,Illinois,60601,Central,FUR-96686,Furniture,Tables,Conference Table,806.94,2.0,0.3,-46.86
+676,US-2014-100675,05/04/2014,12/04/2014,Same Day,CU-42583,Customer 170,Corporate,United States,Philadelphia,Pennsylvania,19103,East,FUR-16087,Furniture,Chairs,Office Chair,2027.14,7.0,0.5,238.88
+677,US-2014-100676,25/09/2014,02/10/2014,Second Class,CU-78369,Customer 83,Home Office,United States,New York City,New York,10001,East,TEC-27571,Technology,Accessories,Keyboard,20.41,1.0,0.5,0.15
+678,US-2015-100677,20/04/2015,25/04/2015,Standard Class,CU-32223,Customer 227,Corporate,United States,New York City,New York,10001,East,FUR-77017,Furniture,Bookcases,Modern Bookcase,554.5,5.0,0.0,-64.1
+679,US-2017-100678,22/09/2017,28/09/2017,Same Day,CU-77163,Customer 204,Home Office,United States,Chicago,Illinois,60601,Central,OFF-24184,Office Supplies,Art,Marker Set,2509.86,,0.1,2.64
+680,US-2017-100679,14/05/2017,16/05/2017,First Class,CU-42646,Customer 181,Home Office,United States,Atlanta,Georgia,30301,South,TEC-17885,Technology,Machines,Printer,62.25,3.0,0.3,3.75
+681,US-2017-100680,24/12/2017,31/12/2017,Same Day,CU-89129,Customer 242,Home Office,United States,Houston,Texas,77001,Central,TEC-80767,Technology,Phones,Office Phone,225.26,2.0,0.5,18.83
+682,US-2017-100681,29/12/2017,02/01/2018,Standard Class,CU-19193,Customer 156,Corporate,United States,Miami,Florida,33101,South,TEC-56743,Technology,Copiers,Desktop Copier,441.51,7.0,0.0,80.32
+683,US-2017-100682,17/08/2017,21/08/2017,First Class,CU-60791,Customer 154,Corporate,United States,Seattle,Washington,98101,West,OFF-40521,Office Supplies,Storage,File Organizer,2465.45,9.0,0.2,348.95
+684,US-2017-100683,07/07/2017,12/07/2017,First Class,CU-67970,Customer 170,Corporate,United States,Philadelphia,Pennsylvania,19103,East,TEC-74487,Technology,Copiers,Desktop Copier,340.71,1.0,0.5,-20.08
+685,US-2016-100684,04/02/2016,09/02/2016,First Class,CU-72633,Customer 76,Home Office,United States,Houston,Texas,77001,Central,TEC-53147,Technology,Phones,Office Phone,641.71,4.0,0.1,15.2
+686,US-2014-100685,17/06/2014,19/06/2014,Standard Class,CU-56617,Customer 198,Corporate,United States,Philadelphia,Pennsylvania,19103,East,OFF-70383,Office Supplies,Paper,Copy Paper,620.56,2.0,0.3,32.98
+687,US-2015-100686,12/03/2015,18/03/2015,Same Day,CU-56134,Customer 221,Corporate,United States,Atlanta,Georgia,30301,South,FUR-16795,Furniture,Chairs,Ergonomic Chair,281.95,6.0,0.2,50.94
+688,US-2015-100687,02/02/2015,05/02/2015,Second Class,CU-73371,Customer 235,Home Office,United States,Los Angeles,California,90001,West,TEC-29752,Technology,Accessories,Keyboard,771.19,3.0,0.0,179.19
+689,US-2014-100688,27/05/2014,03/06/2014,Second Class,CU-13900,Customer 156,Home Office,United States,Philadelphia,Pennsylvania,19103,East,TEC-85756,Technology,Machines,Shredder,116.55,8.0,0.5,-2.45
+690,US-2016-100689,23/08/2016,27/08/2016,Standard Class,CU-72467,Customer 183,Home Office,United States,Seattle,Washington,98101,West,OFF-70571,Office Supplies,Storage,Storage Box,816.99,3.0,0.2,83.52
+691,US-2015-100690,30/04/2015,03/05/2015,First Class,CU-36047,Customer 144,Consumer,United States,Seattle,Washington,98101,West,TEC-52554,Technology,Accessories,Keyboard,182.07,2.0,0.0,22.57
+692,US-2014-100691,23/04/2014,25/04/2014,First Class,CU-28423,Customer 78,Consumer,United States,Los Angeles,California,90001,West,FUR-30114,Furniture,Chairs,Ergonomic Chair,496.05,6.0,0.0,-14.47
+693,US-2017-100692,20/02/2017,25/02/2017,First Class,CU-85847,Customer 240,Consumer,United States,Houston,Texas,77001,Central,TEC-20586,Technology,Accessories,USB Drive,480.86,4.0,0.0,-39.45
+694,US-2017-100693,23/05/2017,28/05/2017,Same Day,CU-22798,Customer 210,Corporate,United States,Atlanta,Georgia,30301,South,FUR-57625,Furniture,Tables,Conference Table,130.29,8.0,0.3,-9.11
+695,US-2014-100694,31/03/2014,02/04/2014,Second Class,CU-89324,Customer 140,Corporate,United States,Atlanta,Georgia,30301,South,TEC-22286,Technology,Machines,Printer,2518.81,7.0,0.0,125.67
+696,US-2016-100695,26/04/2016,29/04/2016,First Class,CU-66347,Customer 66,Corporate,United States,Seattle,Washington,98101,West,TEC-63512,Technology,Phones,Wireless Phone,456.66,9.0,0.2,-11.98
+697,US-2017-100696,10/03/2017,17/03/2017,Standard Class,CU-77216,Customer 205,Consumer,United States,Philadelphia,Pennsylvania,19103,East,TEC-37984,Technology,Copiers,Multifunction Copier,635.18,3.0,0.1,-83.45
+698,US-2015-100697,28/11/2015,30/11/2015,Standard Class,CU-67646,Customer 62,Home Office,United States,Seattle,Washington,98101,West,OFF-37848,Office Supplies,Labels,Shipping Labels,3162.75,8.0,0.1,787.78
+699,US-2014-100698,31/12/2014,01/01/2015,Same Day,CU-85241,Customer 57,Home Office,United States,Seattle,Washington,98101,West,FUR-66450,Furniture,Bookcases,Modern Bookcase,179.62,1.0,0.1,21.32
+700,US-2017-100699,12/03/2017,14/03/2017,Standard Class,CU-57812,Customer 92,Home Office,United States,Seattle,Washington,98101,West,OFF-68683,Office Supplies,Labels,Shipping Labels,121.83,1.0,0.0,16.69
+701,US-2015-100700,22/05/2015,24/05/2015,Same Day,CU-59144,Customer 22,Consumer,United States,Atlanta,Georgia,30301,South,OFF-47946,Office Supplies,Storage,File Organizer,1567.05,8.0,0.0,196.91
+702,US-2015-100701,03/04/2015,06/04/2015,Second Class,CU-30132,Customer 60,Consumer,United States,Philadelphia,Pennsylvania,19103,East,TEC-79550,Technology,Phones,Office Phone,451.82,2.0,0.0,67.13
+703,US-2015-100702,23/02/2015,26/02/2015,Second Class,CU-99585,Customer 45,Home Office,United States,Los Angeles,California,90001,West,OFF-71232,Office Supplies,Art,Drawing Pad,74.63,3.0,0.1,5.39
+704,US-2016-100703,17/09/2016,23/09/2016,First Class,CU-32669,Customer 207,Corporate,United States,Los Angeles,California,90001,West,OFF-40288,Office Supplies,Paper,Notebook Paper,602.0,2.0,0.5,24.64
+705,US-2016-100704,31/08/2016,05/09/2016,First Class,CU-19740,Customer 121,Home Office,United States,Seattle,Washington,98101,West,OFF-71450,Office Supplies,Storage,File Organizer,1710.86,4.0,0.1,89.0
+706,US-2015-100705,12/11/2015,19/11/2015,Same Day,CU-42163,Customer 204,Corporate,United States,Atlanta,Georgia,30301,South,TEC-50992,Technology,Machines,Printer,1051.93,4.0,0.5,115.89
+707,US-2014-100706,23/06/2014,28/06/2014,Same Day,CU-86872,Customer 95,Home Office,United States,New York City,New York,10001,East,OFF-18607,Office Supplies,Storage,File Organizer,1132.03,5.0,0.0,149.21
+708,US-2015-100707,19/07/2015,25/07/2015,Standard Class,CU-99168,Customer 39,Corporate,United States,Miami,Florida,33101,South,TEC-84095,Technology,Machines,Shredder,283.24,1.0,0.2,-28.27
+709,US-2016-100708,22/12/2016,27/12/2016,Standard Class,CU-85476,Customer 27,Home Office,United States,Seattle,Washington,98101,West,TEC-81000,Technology,Accessories,Keyboard,316.43,5.0,0.5,36.03
+710,US-2016-100709,26/11/2016,27/11/2016,Second Class,CU-34842,Customer 6,Home Office,United States,Los Angeles,California,90001,West,OFF-99467,Office Supplies,Labels,Address Labels,336.81,2.0,0.0,-32.5
+711,US-2017-100710,03/07/2017,07/07/2017,Same Day,CU-10503,Customer 187,Home Office,United States,Chicago,Illinois,60601,Central,TEC-83902,Technology,Phones,Office Phone,1357.56,7.0,0.1,54.89
+712,US-2017-100711,16/02/2017,20/02/2017,Second Class,CU-74483,Customer 108,Consumer,United States,Atlanta,Georgia,30301,South,OFF-59052,Office Supplies,Paper,Notebook Paper,187.4,4.0,0.1,11.12
+713,US-2017-100712,24/05/2017,30/05/2017,Standard Class,CU-82735,Customer 28,Home Office,United States,New York City,New York,10001,East,FUR-76630,Furniture,Chairs,Office Chair,255.36,4.0,0.0,24.34
+714,US-2017-100713,08/07/2017,11/07/2017,Same Day,CU-81458,Customer 57,Consumer,United States,Philadelphia,Pennsylvania,19103,East,FUR-35991,Furniture,Bookcases,Modern Bookcase,609.03,4.0,0.5,18.05
+715,US-2014-100714,19/07/2014,22/07/2014,Standard Class,CU-57111,Customer 176,Corporate,United States,Seattle,Washington,98101,West,TEC-68847,Technology,Phones,Office Phone,342.45,4.0,0.0,68.04
+716,US-2017-100715,21/07/2017,22/07/2017,First Class,CU-94813,Customer 24,Home Office,United States,Chicago,Illinois,60601,Central,FUR-82033,Furniture,Furnishings,Desk Lamp,37.49,2.0,0.0,-4.28
+717,US-2015-100716,19/12/2015,20/12/2015,Standard Class,CU-65462,Customer 34,Corporate,United States,Seattle,Washington,98101,West,FUR-25852,Furniture,Furnishings,Desk Lamp,33.59,1.0,0.3,-2.35
+718,US-2016-100717,25/11/2016,28/11/2016,Standard Class,CU-77166,Customer 50,Corporate,United States,Atlanta,Georgia,30301,South,OFF-86024,Office Supplies,Binders,Ring Binder,1443.51,5.0,0.1,113.98
+719,US-2017-100718,04/05/2017,10/05/2017,Same Day,CU-64028,Customer 154,Consumer,United States,Chicago,Illinois,60601,Central,OFF-56450,Office Supplies,Labels,Shipping Labels,184.94,3.0,0.5,0.75
+720,US-2015-100719,01/12/2015,03/12/2015,Second Class,CU-57987,Customer 215,Corporate,United States,Houston,Texas,77001,Central,FUR-10037,Furniture,Furnishings,Wall Clock,1376.6,4.0,0.2,-102.77
+721,US-2014-100720,23/03/2014,27/03/2014,First Class,CU-32048,Customer 242,Consumer,United States,Los Angeles,California,90001,West,OFF-95324,Office Supplies,Binders,Presentation Binder,67.15,2.0,0.1,-0.81
+722,US-2014-100721,25/02/2014,26/02/2014,Second Class,CU-85395,Customer 62,Consumer,United States,Seattle,Washington,98101,West,FUR-96119,Furniture,Chairs,Office Chair,1964.41,6.0,0.1,-14.93
+723,US-2014-100722,06/10/2014,13/10/2014,Second Class,CU-67614,Customer 67,Corporate,United States,Philadelphia,Pennsylvania,19103,East,FUR-71977,Furniture,Bookcases,Wooden Bookcase,517.24,7.0,0.0,-56.26
+724,US-2015-100723,03/08/2015,09/08/2015,Same Day,CU-27948,Customer 90,Home Office,United States,Philadelphia,Pennsylvania,19103,East,TEC-35472,Technology,Accessories,Keyboard,2979.08,9.0,0.3,333.69
+725,US-2015-100724,09/09/2015,11/09/2015,Standard Class,CU-72039,Customer 2,Corporate,United States,Miami,Florida,33101,South,FUR-92883,Furniture,Tables,Work Table,28.8,5.0,0.0,7.22
+726,US-2014-100725,15/10/2014,19/10/2014,Second Class,CU-10804,Customer 174,Corporate,United States,Chicago,Illinois,60601,Central,FUR-98287,Furniture,Furnishings,Wall Clock,1636.24,6.0,0.3,-1.55
+727,US-2015-100726,13/09/2015,17/09/2015,First Class,CU-42326,Customer 243,Corporate,United States,Houston,Texas,77001,Central,OFF-99377,Office Supplies,Art,Marker Set,3566.55,8.0,0.2,439.16
+728,US-2014-100727,03/02/2014,04/02/2014,Standard Class,CU-11962,Customer 180,Consumer,United States,Houston,Texas,77001,Central,TEC-33628,Technology,Machines,Printer,2388.91,8.0,0.3,272.67
+729,US-2016-100728,28/06/2016,04/07/2016,Same Day,CU-13973,Customer 27,Corporate,United States,Philadelphia,Pennsylvania,19103,East,OFF-52593,Office Supplies,Binders,Presentation Binder,181.8,2.0,0.0,10.72
+730,US-2016-100729,03/06/2016,05/06/2016,Second Class,CU-54297,Customer 47,Consumer,United States,Miami,Florida,33101,South,TEC-23244,Technology,Accessories,Keyboard,2066.76,9.0,0.2,149.27
+731,US-2016-100730,15/09/2016,18/09/2016,Second Class,CU-77497,Customer 86,Corporate,United States,Miami,Florida,33101,South,OFF-66817,Office Supplies,Binders,Ring Binder,3432.05,9.0,0.0,-467.1
+732,US-2017-100731,11/08/2017,13/08/2017,Standard Class,CU-46485,Customer 111,Home Office,United States,Seattle,Washington,98101,West,FUR-29437,Furniture,Bookcases,Modern Bookcase,1571.23,5.0,0.1,53.22
+733,US-2016-100732,04/04/2016,05/04/2016,Standard Class,CU-50701,Customer 117,Corporate,United States,Chicago,Illinois,60601,Central,FUR-51490,Furniture,Tables,Conference Table,1323.31,6.0,0.0,-21.19
+734,US-2017-100733,01/11/2017,05/11/2017,Standard Class,CU-84314,Customer 167,Consumer,United States,Atlanta,Georgia,30301,South,TEC-85434,Technology,Copiers,Multifunction Copier,483.09,3.0,0.0,14.94
+735,US-2016-100734,06/04/2016,13/04/2016,First Class,CU-18205,Customer 64,Home Office,United States,Houston,Texas,77001,Central,OFF-66831,Office Supplies,Binders,Ring Binder,1428.37,4.0,0.0,-111.66
+736,US-2015-100735,02/06/2015,07/06/2015,Second Class,CU-36551,Customer 228,Corporate,United States,Atlanta,Georgia,30301,South,FUR-92779,Furniture,Chairs,Office Chair,762.44,8.0,0.2,2.15
+737,US-2016-100736,08/08/2016,14/08/2016,First Class,CU-14887,Customer 113,Home Office,United States,Atlanta,Georgia,30301,South,FUR-74837,Furniture,Furnishings,Desk Lamp,2790.71,7.0,0.1,-227.27
+738,US-2015-100737,25/06/2015,01/07/2015,Standard Class,CU-16125,Customer 56,Corporate,United States,Houston,Texas,77001,Central,FUR-63434,Furniture,Bookcases,Wooden Bookcase,165.21,8.0,0.0,7.99
+739,US-2014-100738,07/02/2014,08/02/2014,Second Class,CU-15339,Customer 98,Home Office,United States,Miami,Florida,33101,South,FUR-72658,Furniture,Chairs,Ergonomic Chair,1780.57,6.0,0.1,276.38
+740,US-2017-100739,10/01/2017,13/01/2017,First Class,CU-34192,Customer 84,Corporate,United States,Chicago,Illinois,60601,Central,OFF-90169,Office Supplies,Binders,Presentation Binder,2032.68,8.0,0.3,379.17
+741,US-2016-100740,16/11/2016,23/11/2016,Second Class,CU-82403,Customer 233,Corporate,United States,Seattle,Washington,98101,West,TEC-78786,Technology,Copiers,Multifunction Copier,564.55,9.0,0.5,54.28
+742,US-2015-100741,27/09/2015,04/10/2015,Standard Class,CU-85814,Customer 23,Consumer,United States,Chicago,Illinois,60601,Central,TEC-72378,Technology,Phones,Wireless Phone,1182.92,5.0,0.3,133.06
+743,US-2017-100742,23/05/2017,24/05/2017,Same Day,CU-23742,Customer 35,Home Office,United States,Houston,Texas,77001,Central,OFF-10908,Office Supplies,Binders,Presentation Binder,3050.35,8.0,0.0,791.18
+744,US-2014-100743,07/04/2014,11/04/2014,Standard Class,CU-76301,Customer 216,Consumer,United States,Seattle,Washington,98101,West,OFF-19891,Office Supplies,Art,Drawing Pad,1358.73,5.0,0.5,8.67
+745,US-2016-100744,22/05/2016,25/05/2016,Second Class,CU-49315,Customer 21,Home Office,United States,Seattle,Washington,98101,West,FUR-34141,Furniture,Furnishings,Wall Clock,1286.32,7.0,0.2,-43.81
+746,US-2015-100745,11/11/2015,15/11/2015,Second Class,CU-62545,Customer 178,Corporate,United States,Seattle,Washington,98101,West,TEC-88571,Technology,Machines,Shredder,778.52,4.0,0.2,-53.0
+747,US-2017-100746,15/08/2017,16/08/2017,Second Class,CU-75433,Customer 126,Corporate,United States,Atlanta,Georgia,30301,South,TEC-76566,Technology,Accessories,USB Drive,1154.06,4.0,0.1,270.59
+748,US-2017-100747,24/08/2017,30/08/2017,Second Class,CU-41409,Customer 82,Corporate,United States,Philadelphia,Pennsylvania,19103,East,OFF-94847,Office Supplies,Labels,Address Labels,1380.42,7.0,0.3,62.76
+749,US-2016-100748,12/01/2016,18/01/2016,Same Day,CU-88227,Customer 225,Corporate,United States,New York City,New York,10001,East,OFF-66276,Office Supplies,Storage,File Organizer,471.89,2.0,0.3,-31.22
+750,US-2014-100749,09/12/2014,11/12/2014,Standard Class,CU-38979,Customer 176,Home Office,United States,Houston,Texas,77001,Central,OFF-35586,Office Supplies,Storage,File Organizer,2779.0,7.0,0.1,671.63
+751,US-2014-100750,26/10/2014,29/10/2014,Standard Class,CU-88478,Customer 91,Corporate,United States,Philadelphia,Pennsylvania,19103,East,FUR-48895,Furniture,Tables,Conference Table,631.25,3.0,0.1,87.19
+752,US-2016-100751,11/06/2016,13/06/2016,Same Day,CU-47698,Customer 35,Corporate,United States,Miami,Florida,33101,South,FUR-66341,Furniture,Furnishings,Wall Clock,183.77,3.0,0.5,-5.82
+753,US-2015-100752,11/04/2015,13/04/2015,Standard Class,CU-60117,Customer 135,Home Office,United States,Atlanta,Georgia,30301,South,FUR-88952,Furniture,Chairs,Ergonomic Chair,357.77,1.0,0.3,-20.82
+754,US-2015-100753,05/04/2015,07/04/2015,First Class,CU-20034,Customer 52,Corporate,United States,Los Angeles,California,90001,West,FUR-68418,Furniture,Bookcases,Wooden Bookcase,454.14,5.0,0.0,119.78
+755,US-2014-100754,06/11/2014,09/11/2014,Same Day,CU-24173,Customer 24,Corporate,United States,Los Angeles,California,90001,West,FUR-38672,Furniture,Chairs,Ergonomic Chair,2131.33,5.0,0.2,135.97
+756,US-2014-100755,24/06/2014,01/07/2014,First Class,CU-33366,Customer 20,Home Office,United States,Los Angeles,California,90001,West,OFF-12026,Office Supplies,Art,Marker Set,957.63,4.0,0.3,125.1
+757,US-2014-100756,17/06/2014,19/06/2014,Second Class,CU-19817,Customer 148,Home Office,United States,Chicago,Illinois,60601,Central,OFF-56870,Office Supplies,Binders,Ring Binder,1686.37,9.0,0.0,67.28
+758,US-2016-100757,28/07/2016,31/07/2016,First Class,CU-72942,Customer 227,Corporate,United States,Seattle,Washington,98101,West,FUR-85417,Furniture,Tables,Conference Table,1155.09,3.0,0.1,65.29
+759,US-2017-100758,01/04/2017,07/04/2017,Second Class,CU-78455,Customer 29,Consumer,United States,Miami,Florida,33101,South,FUR-14922,Furniture,Bookcases,Wooden Bookcase,639.04,3.0,0.3,64.41
+760,US-2017-100759,10/09/2017,14/09/2017,Second Class,CU-82784,Customer 128,Consumer,United States,Chicago,Illinois,60601,Central,OFF-74157,Office Supplies,Paper,Copy Paper,2359.29,7.0,0.3,266.28
+761,US-2014-100760,25/11/2014,27/11/2014,Second Class,CU-32456,Customer 215,Home Office,United States,Atlanta,Georgia,30301,South,TEC-65652,Technology,Accessories,Keyboard,1763.74,7.0,0.1,345.7
+762,US-2017-100761,17/02/2017,24/02/2017,First Class,CU-10663,Customer 12,Home Office,United States,Atlanta,Georgia,30301,South,TEC-81127,Technology,Accessories,USB Drive,2677.98,6.0,0.3,-188.47
+763,US-2015-100762,11/09/2015,15/09/2015,Same Day,CU-76142,Customer 2,Home Office,United States,Chicago,Illinois,60601,Central,FUR-76166,Furniture,Chairs,Office Chair,1480.5,7.0,0.3,231.58
+764,US-2017-100763,19/08/2017,21/08/2017,Second Class,CU-39889,Customer 212,Corporate,United States,Atlanta,Georgia,30301,South,FUR-24441,Furniture,Tables,Work Table,446.03,1.0,0.1,54.54
+765,US-2017-100764,22/05/2017,23/05/2017,First Class,CU-92334,Customer 17,Consumer,United States,Chicago,Illinois,60601,Central,FUR-33799,Furniture,Tables,Work Table,512.53,3.0,0.2,41.88
+766,US-2016-100765,18/02/2016,25/02/2016,Standard Class,CU-89994,Customer 144,Home Office,United States,Seattle,Washington,98101,West,TEC-80774,Technology,Copiers,Desktop Copier,424.48,1.0,0.1,39.41
+767,US-2014-100766,05/08/2014,11/08/2014,Same Day,CU-68611,Customer 189,Consumer,United States,New York City,New York,10001,East,FUR-40639,Furniture,Bookcases,Modern Bookcase,426.75,2.0,0.0,70.25
+768,US-2014-100767,05/04/2014,12/04/2014,Second Class,CU-27009,Customer 76,Consumer,United States,Chicago,Illinois,60601,Central,FUR-12375,Furniture,Chairs,Office Chair,101.93,1.0,0.0,28.52
+769,US-2016-100768,19/01/2016,21/01/2016,First Class,CU-50381,Customer 127,Consumer,United States,New York City,New York,10001,East,FUR-51855,Furniture,Chairs,Office Chair,1273.08,4.0,0.5,-81.61
+770,US-2017-100769,12/10/2017,17/10/2017,Standard Class,CU-74521,Customer 129,Home Office,United States,New York City,New York,10001,East,FUR-33294,Furniture,Tables,Conference Table,2813.78,7.0,0.0,694.68
+771,US-2017-100770,19/05/2017,26/05/2017,Second Class,CU-31625,Customer 21,Home Office,United States,New York City,New York,10001,East,FUR-93330,Furniture,Bookcases,Modern Bookcase,128.87,1.0,0.3,19.96
+772,US-2017-100771,18/03/2017,20/03/2017,Same Day,CU-21594,Customer 113,Corporate,United States,New York City,New York,10001,East,FUR-41745,Furniture,Chairs,Office Chair,547.88,8.0,0.2,-22.45
+773,US-2014-100772,22/06/2014,26/06/2014,First Class,CU-65491,Customer 188,Home Office,United States,New York City,New York,10001,East,TEC-36483,Technology,Machines,Printer,2345.12,9.0,0.3,107.91
+774,US-2014-100773,16/02/2014,20/02/2014,First Class,CU-94531,Customer 189,Corporate,United States,Philadelphia,Pennsylvania,19103,East,TEC-97201,Technology,Machines,Printer,1183.03,6.0,0.1,43.37
+775,US-2017-100774,02/11/2017,05/11/2017,First Class,CU-33157,Customer 141,Consumer,United States,New York City,New York,10001,East,TEC-12783,Technology,Copiers,Multifunction Copier,500.46,6.0,0.3,19.61
+776,US-2017-100775,26/05/2017,02/06/2017,Second Class,CU-98820,Customer 249,Home Office,United States,Atlanta,Georgia,30301,South,FUR-41417,Furniture,Tables,Conference Table,939.2,3.0,0.2,146.85
+777,US-2014-100776,23/12/2014,30/12/2014,Same Day,CU-34452,Customer 95,Consumer,United States,Miami,Florida,33101,South,FUR-84197,Furniture,Chairs,Office Chair,,1.0,0.1,-1.07
+778,US-2014-100777,25/04/2014,26/04/2014,Standard Class,CU-47077,Customer 64,Corporate,United States,Philadelphia,Pennsylvania,19103,East,OFF-55854,Office Supplies,Labels,Address Labels,104.86,2.0,0.1,14.87
+779,US-2014-100778,12/06/2014,14/06/2014,Standard Class,CU-34027,Customer 146,Home Office,United States,Los Angeles,California,90001,West,TEC-40558,Technology,Machines,Printer,1151.51,3.0,0.2,-41.18
+780,US-2014-100779,30/12/2014,31/12/2014,First Class,CU-43343,Customer 51,Corporate,United States,Chicago,Illinois,60601,Central,FUR-72994,Furniture,Chairs,Ergonomic Chair,409.77,1.0,0.5,20.63
+781,US-2016-100780,15/09/2016,20/09/2016,Second Class,CU-20984,Customer 231,Home Office,United States,Philadelphia,Pennsylvania,19103,East,FUR-39389,Furniture,Tables,Conference Table,2144.64,6.0,0.2,-63.39
+782,US-2014-100781,21/03/2014,24/03/2014,Second Class,CU-18406,Customer 25,Consumer,United States,Miami,Florida,33101,South,OFF-16479,Office Supplies,Binders,Presentation Binder,767.34,8.0,0.3,64.53
+783,US-2014-100782,07/02/2014,14/02/2014,First Class,CU-57258,Customer 73,Corporate,United States,Chicago,Illinois,60601,Central,TEC-92634,Technology,Phones,Office Phone,3116.39,7.0,0.3,300.75
+784,US-2014-100783,14/07/2014,19/07/2014,Second Class,CU-39391,Customer 34,Home Office,United States,Houston,Texas,77001,Central,TEC-86461,Technology,Copiers,Multifunction Copier,1545.64,8.0,0.2,284.3
+785,US-2015-100784,08/01/2015,14/01/2015,Standard Class,CU-43075,Customer 62,Consumer,United States,Atlanta,Georgia,30301,South,TEC-67490,Technology,Copiers,Multifunction Copier,807.83,9.0,0.2,137.82
+786,US-2015-100785,04/12/2015,08/12/2015,Same Day,CU-19061,Customer 114,Corporate,United States,Seattle,Washington,98101,West,OFF-69447,Office Supplies,Art,Marker Set,396.64,2.0,0.5,-26.67
+787,US-2017-100786,20/07/2017,24/07/2017,Same Day,CU-89736,Customer 89,Corporate,United States,Los Angeles,California,90001,West,OFF-51243,Office Supplies,Binders,Presentation Binder,806.77,5.0,0.1,185.24
+788,US-2016-100787,09/05/2016,13/05/2016,Second Class,CU-75378,Customer 86,Corporate,United States,Houston,Texas,77001,Central,TEC-21084,Technology,Phones,Office Phone,3320.05,9.0,0.1,-89.17
+789,US-2016-100788,19/11/2016,24/11/2016,Second Class,CU-51263,Customer 222,Corporate,United States,Houston,Texas,77001,Central,OFF-49343,Office Supplies,Labels,Address Labels,1322.21,3.0,0.3,-90.12
+790,US-2015-100789,27/09/2015,01/10/2015,Same Day,CU-17166,Customer 157,Consumer,United States,Los Angeles,California,90001,West,OFF-66408,Office Supplies,Art,Marker Set,146.01,2.0,0.3,-1.65
+791,US-2017-100790,10/05/2017,15/05/2017,Standard Class,CU-44112,Customer 98,Corporate,United States,Houston,Texas,77001,Central,TEC-16359,Technology,Accessories,Keyboard,1022.29,5.0,0.3,13.76
+792,US-2015-100791,19/04/2015,22/04/2015,Same Day,CU-69879,Customer 201,Corporate,United States,Los Angeles,California,90001,West,FUR-58841,Furniture,Chairs,Office Chair,126.71,1.0,0.0,12.48
+793,US-2017-100792,31/05/2017,02/06/2017,Standard Class,CU-81325,Customer 99,Consumer,United States,Miami,Florida,33101,South,TEC-36082,Technology,Accessories,USB Drive,63.46,6.0,0.5,3.38
+794,US-2014-100793,16/07/2014,19/07/2014,Standard Class,CU-17873,Customer 131,Home Office,United States,Seattle,Washington,98101,West,FUR-50991,Furniture,Bookcases,Modern Bookcase,,1.0,0.1,4.7
+795,US-2016-100794,07/10/2016,09/10/2016,Same Day,CU-17333,Customer 91,Home Office,United States,New York City,New York,10001,East,FUR-36328,Furniture,Chairs,Office Chair,409.85,1.0,0.3,11.04
+796,US-2015-100795,19/02/2015,22/02/2015,Same Day,CU-69375,Customer 79,Home Office,United States,Atlanta,Georgia,30301,South,TEC-67859,Technology,Phones,Wireless Phone,267.62,1.0,0.2,30.29
+797,US-2017-100796,29/04/2017,02/05/2017,Same Day,CU-51821,Customer 228,Home Office,United States,New York City,New York,10001,East,OFF-14842,Office Supplies,Storage,Storage Box,478.3,3.0,0.1,43.34
+798,US-2016-100797,11/02/2016,14/02/2016,First Class,CU-16111,Customer 96,Corporate,United States,Seattle,Washington,98101,West,TEC-65526,Technology,Accessories,USB Drive,811.45,5.0,0.2,8.88
+799,US-2014-100798,30/03/2014,04/04/2014,Standard Class,CU-86162,Customer 88,Corporate,United States,Chicago,Illinois,60601,Central,OFF-80881,Office Supplies,Binders,Presentation Binder,324.79,1.0,0.2,45.74
+800,US-2014-100799,20/04/2014,26/04/2014,Same Day,CU-20323,Customer 139,Home Office,United States,Chicago,Illinois,60601,Central,OFF-24229,Office Supplies,Storage,File Organizer,1510.58,6.0,0.2,-82.52
+801,US-2015-100800,18/08/2015,21/08/2015,Same Day,CU-57365,Customer 22,Home Office,United States,Houston,Texas,77001,Central,OFF-71277,Office Supplies,Paper,Copy Paper,3189.57,8.0,0.1,523.36
+802,US-2017-100801,31/05/2017,06/06/2017,Standard Class,CU-45808,Customer 48,Home Office,United States,Houston,Texas,77001,Central,TEC-67076,Technology,Phones,Wireless Phone,464.36,3.0,0.0,30.54
+803,US-2014-100802,05/10/2014,06/10/2014,Second Class,CU-13006,Customer 192,Corporate,United States,Seattle,Washington,98101,West,FUR-43430,Furniture,Bookcases,Modern Bookcase,1686.63,4.0,0.3,71.61
+804,US-2016-100803,09/12/2016,10/12/2016,Second Class,CU-20901,Customer 65,Home Office,United States,Seattle,Washington,98101,West,OFF-97637,Office Supplies,Labels,Shipping Labels,2016.79,6.0,0.3,163.64
+805,US-2015-100804,09/08/2015,16/08/2015,First Class,CU-73188,Customer 127,Home Office,United States,Chicago,Illinois,60601,Central,FUR-18582,Furniture,Chairs,Office Chair,1327.76,3.0,0.3,218.59
+806,US-2014-100805,24/07/2014,27/07/2014,Second Class,CU-45081,Customer 238,Corporate,United States,Philadelphia,Pennsylvania,19103,East,FUR-99602,Furniture,Tables,Conference Table,102.87,1.0,0.0,-6.5
+807,US-2015-100806,26/06/2015,01/07/2015,Standard Class,CU-39526,Customer 150,Consumer,United States,Miami,Florida,33101,South,TEC-29835,Technology,Accessories,USB Drive,462.81,3.0,0.0,-22.98
+808,US-2015-100807,01/05/2015,03/05/2015,First Class,CU-35531,Customer 129,Home Office,United States,New York City,New York,10001,East,TEC-13907,Technology,Copiers,Desktop Copier,148.84,1.0,0.2,0.29
+809,US-2016-100808,04/08/2016,09/08/2016,Standard Class,CU-30378,Customer 105,Corporate,United States,Houston,Texas,77001,Central,OFF-94778,Office Supplies,Storage,Storage Box,797.22,4.0,0.2,0.36
+810,US-2017-100809,04/08/2017,07/08/2017,First Class,CU-18423,Customer 200,Home Office,United States,New York City,New York,10001,East,TEC-94357,Technology,Machines,Shredder,32.05,1.0,0.5,0.34
+811,US-2017-100810,29/10/2017,05/11/2017,Second Class,CU-38959,Customer 243,Consumer,United States,Philadelphia,Pennsylvania,19103,East,OFF-78192,Office Supplies,Art,Marker Set,2273.39,8.0,0.3,187.16
+812,US-2014-100811,21/11/2014,23/11/2014,First Class,CU-46881,Customer 90,Home Office,United States,Los Angeles,California,90001,West,FUR-57438,Furniture,Bookcases,Modern Bookcase,91.58,9.0,0.5,11.79
+813,US-2016-100812,12/10/2016,18/10/2016,Same Day,CU-98859,Customer 165,Corporate,United States,Philadelphia,Pennsylvania,19103,East,FUR-49283,Furniture,Bookcases,Wooden Bookcase,2018.57,6.0,0.5,199.47
+814,US-2014-100813,12/12/2014,17/12/2014,Same Day,CU-14174,Customer 163,Consumer,United States,Philadelphia,Pennsylvania,19103,East,OFF-35225,Office Supplies,Art,Marker Set,2368.66,7.0,0.5,0.25
+815,US-2016-100814,18/05/2016,23/05/2016,Standard Class,CU-25213,Customer 85,Consumer,United States,Philadelphia,Pennsylvania,19103,East,TEC-56451,Technology,Phones,Wireless Phone,1385.34,6.0,0.2,-7.14
+816,US-2014-100815,07/06/2014,10/06/2014,First Class,CU-71716,Customer 161,Consumer,United States,Atlanta,Georgia,30301,South,FUR-73606,Furniture,Furnishings,Wall Clock,979.47,3.0,0.5,73.29
+817,US-2017-100816,15/08/2017,22/08/2017,First Class,CU-59369,Customer 73,Corporate,United States,New York City,New York,10001,East,OFF-96487,Office Supplies,Art,Marker Set,2558.93,8.0,0.1,143.83
+818,US-2017-100817,02/02/2017,08/02/2017,Same Day,CU-73919,Customer 241,Corporate,United States,Houston,Texas,77001,Central,TEC-20727,Technology,Machines,Shredder,2261.2,7.0,0.5,119.86
+819,US-2016-100818,11/07/2016,14/07/2016,Standard Class,CU-91820,Customer 73,Corporate,United States,Atlanta,Georgia,30301,South,TEC-40073,Technology,Phones,Office Phone,747.95,3.0,0.1,4.61
+820,US-2017-100819,13/02/2017,18/02/2017,First Class,CU-57145,Customer 149,Home Office,United States,Los Angeles,California,90001,West,OFF-61061,Office Supplies,Paper,Notebook Paper,255.92,1.0,0.1,-17.4
+821,US-2017-100820,03/02/2017,10/02/2017,First Class,CU-83863,Customer 217,Consumer,United States,Philadelphia,Pennsylvania,19103,East,OFF-78144,Office Supplies,Art,Marker Set,2034.42,8.0,0.5,-140.71
+822,US-2014-100821,05/01/2014,10/01/2014,Same Day,CU-98533,Customer 157,Consumer,United States,Miami,Florida,33101,South,OFF-63796,Office Supplies,Labels,Address Labels,1137.48,9.0,0.1,-14.08
+823,US-2014-100822,21/03/2014,22/03/2014,Second Class,CU-56676,Customer 193,Home Office,United States,Miami,Florida,33101,South,FUR-23762,Furniture,Tables,Work Table,1070.22,9.0,0.0,256.84
+824,US-2017-100823,20/06/2017,26/06/2017,First Class,CU-56398,Customer 150,Consumer,United States,Miami,Florida,33101,South,OFF-57571,Office Supplies,Paper,Notebook Paper,2679.63,8.0,0.1,573.2
+825,US-2017-100824,23/07/2017,29/07/2017,First Class,CU-16624,Customer 229,Home Office,United States,New York City,New York,10001,East,OFF-63148,Office Supplies,Labels,Shipping Labels,9.15,2.0,0.0,0.71
+826,US-2015-100825,02/08/2015,08/08/2015,Standard Class,CU-13130,Customer 138,Corporate,United States,New York City,New York,10001,East,TEC-98803,Technology,Phones,Wireless Phone,1567.51,9.0,0.2,-173.58
+827,US-2017-100826,01/12/2017,07/12/2017,Standard Class,CU-32595,Customer 166,Corporate,United States,Seattle,Washington,98101,West,OFF-98528,Office Supplies,Labels,Address Labels,1421.35,6.0,0.0,153.32
+828,US-2017-100827,29/03/2017,30/03/2017,Standard Class,CU-26170,Customer 26,Home Office,United States,Atlanta,Georgia,30301,South,OFF-76467,Office Supplies,Paper,Copy Paper,118.51,2.0,0.2,11.3
+829,US-2017-100828,19/07/2017,21/07/2017,Standard Class,CU-96575,Customer 245,Home Office,United States,Chicago,Illinois,60601,Central,TEC-23868,Technology,Phones,Wireless Phone,42.04,1.0,0.0,-2.11
+830,US-2015-100829,24/04/2015,27/04/2015,Standard Class,CU-98842,Customer 107,Consumer,United States,Houston,Texas,77001,Central,OFF-21255,Office Supplies,Storage,File Organizer,1322.79,3.0,0.1,10.39
+831,US-2015-100830,13/07/2015,16/07/2015,Same Day,CU-11110,Customer 18,Consumer,United States,New York City,New York,10001,East,TEC-22922,Technology,Copiers,Desktop Copier,1668.24,9.0,0.2,-102.32
+832,US-2015-100831,14/07/2015,17/07/2015,Second Class,CU-18324,Customer 166,Home Office,United States,New York City,New York,10001,East,FUR-29533,Furniture,Furnishings,Wall Clock,2985.73,7.0,0.1,414.78
+833,US-2015-100832,20/03/2015,23/03/2015,Second Class,CU-20401,Customer 71,Home Office,United States,Seattle,Washington,98101,West,OFF-78321,Office Supplies,Paper,Notebook Paper,422.29,4.0,0.2,93.64
+834,US-2015-100833,06/01/2015,12/01/2015,Same Day,CU-29163,Customer 68,Consumer,United States,Miami,Florida,33101,South,OFF-26300,Office Supplies,Art,Drawing Pad,572.26,2.0,0.3,68.36
+835,US-2015-100834,25/04/2015,28/04/2015,Standard Class,CU-33713,Customer 154,Corporate,United States,Atlanta,Georgia,30301,South,OFF-35628,Office Supplies,Art,Drawing Pad,1734.95,5.0,0.5,122.09
+836,US-2014-100835,25/04/2014,27/04/2014,First Class,CU-81767,Customer 68,Corporate,United States,Chicago,Illinois,60601,Central,TEC-14029,Technology,Phones,Wireless Phone,472.91,4.0,0.5,-29.13
+837,US-2016-100836,25/07/2016,01/08/2016,First Class,CU-71119,Customer 16,Corporate,United States,Atlanta,Georgia,30301,South,OFF-79940,Office Supplies,Binders,Ring Binder,1724.93,4.0,0.0,174.72
+838,US-2016-100837,20/05/2016,27/05/2016,First Class,CU-67885,Customer 2,Consumer,United States,Miami,Florida,33101,South,OFF-95996,Office Supplies,Paper,Copy Paper,745.71,7.0,0.1,14.52
+839,US-2017-100838,21/06/2017,23/06/2017,Second Class,CU-37413,Customer 243,Corporate,United States,Seattle,Washington,98101,West,FUR-48849,Furniture,Furnishings,Wall Clock,1669.16,8.0,0.1,324.55
+840,US-2017-100839,29/09/2017,30/09/2017,Standard Class,CU-34258,Customer 178,Home Office,United States,Philadelphia,Pennsylvania,19103,East,TEC-24060,Technology,Accessories,USB Drive,917.52,3.0,0.2,-36.65
+841,US-2015-100840,09/09/2015,12/09/2015,Standard Class,CU-40536,Customer 88,Home Office,United States,Seattle,Washington,98101,West,TEC-41683,Technology,Phones,Wireless Phone,1535.96,4.0,0.0,247.76
+842,US-2015-100841,24/03/2015,29/03/2015,First Class,CU-22849,Customer 186,Corporate,United States,Philadelphia,Pennsylvania,19103,East,FUR-87021,Furniture,Tables,Work Table,3147.69,7.0,0.5,311.23
+843,US-2017-100842,25/10/2017,29/10/2017,Second Class,CU-81823,Customer 6,Home Office,United States,Miami,Florida,33101,South,FUR-15459,Furniture,Bookcases,Wooden Bookcase,1839.47,9.0,0.2,140.4
+844,US-2015-100843,13/05/2015,19/05/2015,First Class,CU-24730,Customer 184,Consumer,United States,Houston,Texas,77001,Central,OFF-68452,Office Supplies,Binders,Ring Binder,68.62,5.0,0.0,5.8
+845,US-2015-100844,08/06/2015,09/06/2015,Second Class,CU-33296,Customer 210,Corporate,United States,Miami,Florida,33101,South,FUR-44660,Furniture,Chairs,Office Chair,3322.88,8.0,0.5,-16.96
+846,US-2015-100845,30/06/2015,03/07/2015,Second Class,CU-60707,Customer 165,Corporate,United States,Philadelphia,Pennsylvania,19103,East,FUR-57396,Furniture,Bookcases,Wooden Bookcase,480.89,4.0,0.3,-26.91
+847,US-2015-100846,31/01/2015,05/02/2015,Second Class,CU-89551,Customer 64,Home Office,United States,Houston,Texas,77001,Central,OFF-80501,Office Supplies,Binders,Ring Binder,1721.48,4.0,0.3,-113.05
+848,US-2014-100847,12/05/2014,15/05/2014,First Class,CU-65021,Customer 136,Consumer,United States,Philadelphia,Pennsylvania,19103,East,OFF-13647,Office Supplies,Paper,Notebook Paper,442.06,1.0,0.5,5.08
+849,US-2014-100848,11/09/2014,14/09/2014,First Class,CU-83373,Customer 217,Consumer,United States,Atlanta,Georgia,30301,South,OFF-91951,Office Supplies,Storage,Storage Box,2680.19,9.0,0.3,203.78
+850,US-2017-100849,03/08/2017,09/08/2017,Standard Class,CU-81400,Customer 34,Corporate,United States,Philadelphia,Pennsylvania,19103,East,TEC-69335,Technology,Accessories,USB Drive,198.76,2.0,0.2,11.96
+851,US-2014-100850,03/06/2014,09/06/2014,Standard Class,CU-29985,Customer 192,Consumer,United States,Philadelphia,Pennsylvania,19103,East,FUR-68102,Furniture,Bookcases,Wooden Bookcase,3559.55,8.0,0.0,-70.16
+852,US-2017-100851,24/01/2017,29/01/2017,Second Class,CU-95786,Customer 142,Consumer,United States,Chicago,Illinois,60601,Central,OFF-36089,Office Supplies,Art,Drawing Pad,1132.73,4.0,0.5,121.2
+853,US-2016-100852,24/10/2016,29/10/2016,Same Day,CU-80807,Customer 243,Corporate,United States,Houston,Texas,77001,Central,TEC-65436,Technology,Phones,Office Phone,2772.54,7.0,0.5,-90.54
+854,US-2016-100853,18/01/2016,22/01/2016,Standard Class,CU-45478,Customer 227,Home Office,United States,Seattle,Washington,98101,West,FUR-74055,Furniture,Furnishings,Desk Lamp,1462.9,6.0,0.3,43.8
+855,US-2014-100854,16/03/2014,22/03/2014,Standard Class,CU-14912,Customer 242,Consumer,United States,Chicago,Illinois,60601,Central,TEC-39437,Technology,Accessories,Keyboard,,9.0,0.2,9.25
+856,US-2015-100855,17/06/2015,24/06/2015,Standard Class,CU-86091,Customer 177,Consumer,United States,Philadelphia,Pennsylvania,19103,East,TEC-78115,Technology,Accessories,USB Drive,3308.71,8.0,0.1,-140.1
+857,US-2015-100856,27/07/2015,30/07/2015,First Class,CU-24242,Customer 192,Consumer,United States,New York City,New York,10001,East,OFF-23203,Office Supplies,Storage,Storage Box,1622.61,5.0,0.3,-128.43
+858,US-2014-100857,16/09/2014,23/09/2014,Standard Class,CU-28411,Customer 67,Consumer,United States,Atlanta,Georgia,30301,South,OFF-84602,Office Supplies,Art,Drawing Pad,520.25,2.0,,2.19
+859,US-2014-100858,30/07/2014,03/08/2014,Second Class,CU-67876,Customer 53,Corporate,United States,Miami,Florida,33101,South,OFF-77614,Office Supplies,Art,Drawing Pad,236.03,6.0,0.3,39.72
+860,US-2014-100859,16/06/2014,23/06/2014,Standard Class,CU-79482,Customer 32,Consumer,United States,Philadelphia,Pennsylvania,19103,East,TEC-45510,Technology,Accessories,USB Drive,1028.96,5.0,0.0,193.9
+861,US-2015-100860,19/07/2015,23/07/2015,Same Day,CU-88242,Customer 7,Home Office,United States,Los Angeles,California,90001,West,FUR-12107,Furniture,Bookcases,Wooden Bookcase,1000.15,7.0,0.3,-53.08
+862,US-2016-100861,01/09/2016,04/09/2016,Same Day,CU-58860,Customer 87,Consumer,United States,Houston,Texas,77001,Central,FUR-97123,Furniture,Bookcases,Modern Bookcase,179.23,1.0,0.5,14.72
+863,US-2015-100862,18/09/2015,19/09/2015,Second Class,CU-69216,Customer 141,Corporate,United States,Houston,Texas,77001,Central,FUR-93782,Furniture,Tables,Work Table,2393.97,6.0,0.1,11.43
+864,US-2014-100863,17/10/2014,22/10/2014,First Class,CU-66850,Customer 219,Consumer,United States,Atlanta,Georgia,30301,South,TEC-14899,Technology,Accessories,USB Drive,812.51,2.0,0.0,-22.28
+865,US-2015-100864,04/04/2015,10/04/2015,Standard Class,CU-13316,Customer 156,Consumer,United States,Chicago,Illinois,60601,Central,OFF-61638,Office Supplies,Binders,Ring Binder,853.2,7.0,0.2,-64.2
+866,US-2016-100865,14/10/2016,19/10/2016,Standard Class,CU-39960,Customer 164,Corporate,United States,Atlanta,Georgia,30301,South,FUR-53115,Furniture,Chairs,Ergonomic Chair,1279.82,4.0,0.1,-36.01
+867,US-2017-100866,29/01/2017,03/02/2017,Same Day,CU-80516,Customer 110,Home Office,United States,Philadelphia,Pennsylvania,19103,East,TEC-91745,Technology,Accessories,Keyboard,179.18,4.0,0.0,-13.82
+868,US-2015-100867,27/12/2015,30/12/2015,First Class,CU-15647,Customer 20,Home Office,United States,Atlanta,Georgia,30301,South,FUR-96148,Furniture,Furnishings,Wall Clock,1854.83,5.0,0.1,-145.68
+869,US-2015-100868,14/09/2015,17/09/2015,First Class,CU-20715,Customer 58,Home Office,United States,Houston,Texas,77001,Central,OFF-47609,Office Supplies,Storage,File Organizer,2552.81,6.0,0.1,-282.68
+870,US-2017-100869,07/02/2017,08/02/2017,Standard Class,CU-30523,Customer 184,Home Office,United States,Seattle,Washington,98101,West,OFF-86988,Office Supplies,Binders,Ring Binder,360.96,3.0,0.1,-18.54
+871,US-2017-100870,04/08/2017,08/08/2017,Second Class,CU-32929,Customer 42,Consumer,United States,Atlanta,Georgia,30301,South,OFF-77189,Office Supplies,Art,Marker Set,2082.76,6.0,0.5,84.42
+872,US-2014-100871,20/11/2014,24/11/2014,First Class,CU-82959,Customer 191,Consumer,United States,Seattle,Washington,98101,West,TEC-76353,Technology,Phones,Office Phone,2346.48,9.0,0.5,-69.3
+873,US-2014-100872,19/05/2014,21/05/2014,First Class,CU-51532,Customer 53,Consumer,United States,Philadelphia,Pennsylvania,19103,East,OFF-23750,Office Supplies,Art,Drawing Pad,383.67,4.0,0.5,43.62
+874,US-2016-100873,12/02/2016,14/02/2016,Standard Class,CU-58620,Customer 41,Consumer,United States,New York City,New York,10001,East,FUR-63943,Furniture,Chairs,Ergonomic Chair,1689.72,5.0,0.2,374.23
+875,US-2017-100874,18/09/2017,25/09/2017,Second Class,CU-49072,Customer 249,Consumer,United States,Atlanta,Georgia,30301,South,TEC-52821,Technology,Machines,Shredder,446.99,7.0,0.3,-45.63
+876,US-2014-100875,23/05/2014,25/05/2014,First Class,CU-74533,Customer 13,Home Office,United States,Chicago,Illinois,60601,Central,OFF-68849,Office Supplies,Labels,Address Labels,2953.99,8.0,0.5,-123.7
+877,US-2016-100876,26/07/2016,29/07/2016,Second Class,CU-47654,Customer 26,Corporate,United States,Miami,Florida,33101,South,OFF-76004,Office Supplies,Storage,File Organizer,444.03,4.0,0.2,-5.3
+878,US-2015-100877,19/02/2015,23/02/2015,First Class,CU-25584,Customer 143,Home Office,United States,Atlanta,Georgia,30301,South,OFF-13457,Office Supplies,Art,Drawing Pad,437.0,8.0,0.1,22.54
+879,US-2017-100878,16/08/2017,21/08/2017,Second Class,CU-63826,Customer 85,Consumer,United States,Seattle,Washington,98101,West,TEC-98953,Technology,Accessories,USB Drive,590.57,7.0,0.1,98.84
+880,US-2015-100879,15/06/2015,18/06/2015,Second Class,CU-41985,Customer 106,Corporate,United States,Miami,Florida,33101,South,TEC-91749,Technology,Accessories,USB Drive,946.14,4.0,0.0,-30.21
+881,US-2016-100880,05/01/2016,07/01/2016,Second Class,CU-33788,Customer 211,Consumer,United States,Seattle,Washington,98101,West,TEC-52194,Technology,Phones,Wireless Phone,269.88,2.0,0.3,35.87
+882,US-2014-100881,05/07/2014,06/07/2014,Standard Class,CU-70445,Customer 186,Home Office,United States,Los Angeles,California,90001,West,FUR-39901,Furniture,Furnishings,Desk Lamp,3095.59,9.0,0.0,732.25
+883,US-2016-100882,04/01/2016,08/01/2016,Second Class,CU-49940,Customer 246,Corporate,United States,Philadelphia,Pennsylvania,19103,East,OFF-67147,Office Supplies,Storage,File Organizer,330.65,1.0,0.2,-18.27
+884,US-2015-100883,13/06/2015,20/06/2015,First Class,CU-37759,Customer 15,Home Office,United States,Philadelphia,Pennsylvania,19103,East,TEC-72845,Technology,Copiers,Multifunction Copier,1585.82,6.0,0.0,133.89
+885,US-2016-100884,11/11/2016,17/11/2016,Same Day,CU-15324,Customer 135,Corporate,United States,Houston,Texas,77001,Central,OFF-13220,Office Supplies,Binders,Presentation Binder,828.74,5.0,0.3,-82.1
+886,US-2017-100885,27/09/2017,29/09/2017,Same Day,CU-91021,Customer 43,Home Office,United States,Houston,Texas,77001,Central,FUR-19981,Furniture,Bookcases,Wooden Bookcase,1056.33,3.0,0.3,10.84
+887,US-2014-100886,08/05/2014,10/05/2014,Second Class,CU-84037,Customer 27,Consumer,United States,Miami,Florida,33101,South,OFF-28106,Office Supplies,Art,Marker Set,1298.53,3.0,0.1,79.74
+888,US-2015-100887,05/11/2015,12/11/2015,First Class,CU-52461,Customer 133,Consumer,United States,Chicago,Illinois,60601,Central,OFF-14917,Office Supplies,Paper,Copy Paper,2636.12,6.0,0.2,-39.44
+889,US-2014-100888,14/06/2014,19/06/2014,First Class,CU-71476,Customer 219,Home Office,United States,Chicago,Illinois,60601,Central,FUR-12158,Furniture,Chairs,Ergonomic Chair,822.33,6.0,0.3,-31.6
+890,US-2016-100889,09/03/2016,12/03/2016,Second Class,CU-14782,Customer 110,Consumer,United States,Chicago,Illinois,60601,Central,OFF-36618,Office Supplies,Labels,Address Labels,3704.94,9.0,0.0,-364.07
+891,US-2017-100890,14/07/2017,21/07/2017,Standard Class,CU-95492,Customer 152,Consumer,United States,Atlanta,Georgia,30301,South,FUR-29333,Furniture,Tables,Conference Table,879.19,2.0,0.5,56.95
+892,US-2014-100891,19/01/2014,20/01/2014,Standard Class,CU-22713,Customer 65,Home Office,United States,Chicago,Illinois,60601,Central,TEC-86223,Technology,Copiers,Multifunction Copier,148.6,9.0,0.3,0.81
+893,US-2014-100892,23/08/2014,30/08/2014,First Class,CU-65618,Customer 81,Corporate,United States,Seattle,Washington,98101,West,TEC-13453,Technology,Accessories,Keyboard,620.92,9.0,0.1,155.92
+894,US-2016-100893,29/06/2016,06/07/2016,Same Day,CU-56878,Customer 176,Corporate,United States,Chicago,Illinois,60601,Central,TEC-46399,Technology,Copiers,Desktop Copier,2230.6,8.0,0.5,-23.77
+895,US-2016-100894,25/05/2016,26/05/2016,Standard Class,CU-98706,Customer 172,Home Office,United States,Houston,Texas,77001,Central,TEC-22582,Technology,Phones,Wireless Phone,259.94,1.0,0.2,49.05
+896,US-2015-100895,03/08/2015,06/08/2015,First Class,CU-34871,Customer 101,Home Office,United States,New York City,New York,10001,East,TEC-82803,Technology,Copiers,Desktop Copier,2345.25,7.0,0.0,66.99
+897,US-2015-100896,05/03/2015,09/03/2015,Second Class,CU-19583,Customer 169,Consumer,United States,Chicago,Illinois,60601,Central,TEC-98820,Technology,Phones,Wireless Phone,1320.02,9.0,0.5,111.55
+898,US-2015-100897,15/05/2015,16/05/2015,Same Day,CU-61308,Customer 175,Home Office,United States,Houston,Texas,77001,Central,FUR-89822,Furniture,Furnishings,Wall Clock,232.42,9.0,0.1,14.39
+899,US-2016-100898,22/04/2016,25/04/2016,Second Class,CU-43564,Customer 23,Consumer,United States,Philadelphia,Pennsylvania,19103,East,FUR-75069,Furniture,Tables,Work Table,2991.5,7.0,0.2,230.29
+900,US-2014-100899,20/03/2014,23/03/2014,Standard Class,CU-98027,Customer 79,Home Office,United States,Atlanta,Georgia,30301,South,OFF-73022,Office Supplies,Art,Drawing Pad,820.62,7.0,0.2,10.21
+901,US-2017-100900,11/04/2017,17/04/2017,Standard Class,CU-81405,Customer 248,Home Office,United States,Philadelphia,Pennsylvania,19103,East,FUR-25292,Furniture,Chairs,Ergonomic Chair,896.02,9.0,0.0,159.1
+902,US-2015-100901,01/10/2015,05/10/2015,Same Day,CU-64535,Customer 113,Home Office,United States,Los Angeles,California,90001,West,TEC-79443,Technology,Accessories,USB Drive,2661.44,9.0,0.3,-163.01
+903,US-2015-100902,22/06/2015,25/06/2015,First Class,CU-46140,Customer 87,Corporate,United States,Houston,Texas,77001,Central,OFF-14720,Office Supplies,Art,Drawing Pad,407.74,5.0,0.5,51.42
+904,US-2015-100903,29/01/2015,31/01/2015,Same Day,CU-60689,Customer 113,Corporate,United States,Seattle,Washington,98101,West,OFF-86565,Office Supplies,Labels,Address Labels,3941.24,9.0,0.1,489.55
+905,US-2014-100904,04/02/2014,09/02/2014,Standard Class,CU-12854,Customer 21,Corporate,United States,Miami,Florida,33101,South,TEC-55936,Technology,Machines,Printer,683.3,4.0,0.3,4.07
+906,US-2017-100905,26/10/2017,28/10/2017,Same Day,CU-31552,Customer 144,Home Office,United States,Houston,Texas,77001,Central,OFF-24403,Office Supplies,Paper,Copy Paper,874.36,6.0,0.3,-62.49
+907,US-2016-100906,11/02/2016,18/02/2016,First Class,CU-51670,Customer 143,Corporate,United States,New York City,New York,10001,East,OFF-40513,Office Supplies,Labels,Shipping Labels,231.23,1.0,0.2,-13.35
+908,US-2014-100907,12/01/2014,16/01/2014,Second Class,CU-12351,Customer 135,Consumer,United States,Philadelphia,Pennsylvania,19103,East,OFF-84778,Office Supplies,Art,Drawing Pad,436.62,4.0,0.1,-51.29
+909,US-2017-100908,27/01/2017,31/01/2017,Same Day,CU-87094,Customer 237,Corporate,United States,Miami,Florida,33101,South,OFF-91156,Office Supplies,Storage,File Organizer,175.95,6.0,0.5,1.91
+910,US-2015-100909,29/06/2015,01/07/2015,Second Class,CU-65806,Customer 60,Consumer,United States,New York City,New York,10001,East,TEC-84098,Technology,Machines,Printer,592.2,2.0,0.5,-1.84
+911,US-2015-100910,03/08/2015,07/08/2015,Same Day,CU-51205,Customer 147,Home Office,United States,Seattle,Washington,98101,West,TEC-69155,Technology,Phones,Office Phone,601.4,3.0,0.0,41.08
+912,US-2014-100911,20/11/2014,26/11/2014,Second Class,CU-50042,Customer 214,Home Office,United States,Atlanta,Georgia,30301,South,TEC-34049,Technology,Machines,Printer,1457.49,5.0,0.0,290.18
+913,US-2017-100912,11/08/2017,16/08/2017,Second Class,CU-41307,Customer 114,Corporate,United States,Los Angeles,California,90001,West,TEC-85544,Technology,Copiers,Desktop Copier,57.72,1.0,0.5,-3.98
+914,US-2016-100913,09/12/2016,16/12/2016,Standard Class,CU-21082,Customer 94,Consumer,United States,Chicago,Illinois,60601,Central,TEC-97996,Technology,Accessories,Keyboard,861.4,3.0,0.1,126.25
+915,US-2016-100914,06/10/2016,10/10/2016,Same Day,CU-48484,Customer 112,Consumer,United States,Atlanta,Georgia,30301,South,FUR-48475,Furniture,Bookcases,Wooden Bookcase,3430.96,8.0,0.0,494.55
+916,US-2016-100915,26/08/2016,28/08/2016,First Class,CU-33026,Customer 95,Home Office,United States,Miami,Florida,33101,South,OFF-96861,Office Supplies,Art,Marker Set,,7.0,0.2,-41.04
+917,US-2016-100916,08/10/2016,15/10/2016,Same Day,CU-25916,Customer 200,Corporate,United States,Houston,Texas,77001,Central,TEC-87445,Technology,Machines,Shredder,2897.5,9.0,0.1,170.14
+918,US-2014-100917,18/08/2014,24/08/2014,Second Class,CU-67730,Customer 201,Home Office,United States,Philadelphia,Pennsylvania,19103,East,FUR-41874,Furniture,Bookcases,Modern Bookcase,1386.24,8.0,0.0,-91.63
+919,US-2015-100918,07/12/2015,08/12/2015,Same Day,CU-12754,Customer 197,Consumer,United States,Philadelphia,Pennsylvania,19103,East,FUR-87509,Furniture,Tables,Conference Table,776.92,5.0,0.3,139.43
+920,US-2016-100919,01/10/2016,06/10/2016,First Class,CU-42806,Customer 243,Home Office,United States,Seattle,Washington,98101,West,OFF-51012,Office Supplies,Paper,Notebook Paper,730.0,5.0,0.0,97.46
+921,US-2016-100920,04/08/2016,09/08/2016,Same Day,CU-81123,Customer 110,Consumer,United States,Philadelphia,Pennsylvania,19103,East,OFF-46238,Office Supplies,Labels,Address Labels,1778.36,4.0,0.1,-97.72
+922,US-2016-100921,22/04/2016,24/04/2016,First Class,CU-49428,Customer 85,Consumer,United States,Miami,Florida,33101,South,FUR-33465,Furniture,Furnishings,Desk Lamp,309.35,7.0,0.2,27.11
+923,US-2016-100922,15/11/2016,18/11/2016,Second Class,CU-63987,Customer 169,Consumer,United States,Chicago,Illinois,60601,Central,TEC-10269,Technology,Accessories,USB Drive,1115.07,9.0,0.5,-66.88
+924,US-2014-100923,24/06/2014,28/06/2014,First Class,CU-26701,Customer 145,Home Office,United States,Chicago,Illinois,60601,Central,TEC-53509,Technology,Accessories,USB Drive,635.24,2.0,0.1,120.69
+925,US-2015-100924,17/01/2015,23/01/2015,Same Day,CU-65158,Customer 217,Consumer,United States,New York City,New York,10001,East,TEC-72977,Technology,Accessories,USB Drive,1138.05,3.0,0.1,172.8
+926,US-2017-100925,02/08/2017,06/08/2017,Standard Class,CU-71667,Customer 173,Home Office,United States,Los Angeles,California,90001,West,FUR-13008,Furniture,Tables,Conference Table,58.56,5.0,0.5,3.02
+927,US-2014-100926,05/03/2014,12/03/2014,Standard Class,CU-79949,Customer 10,Home Office,United States,Atlanta,Georgia,30301,South,FUR-57943,Furniture,Furnishings,Desk Lamp,295.86,5.0,0.2,30.47
+928,US-2014-100927,04/07/2014,06/07/2014,Standard Class,CU-81290,Customer 75,Corporate,United States,Atlanta,Georgia,30301,South,OFF-29740,Office Supplies,Binders,Ring Binder,959.95,3.0,0.0,4.49
+929,US-2016-100928,27/10/2016,31/10/2016,Same Day,CU-44510,Customer 196,Corporate,United States,Chicago,Illinois,60601,Central,OFF-51837,Office Supplies,Binders,Presentation Binder,250.0,5.0,0.5,-10.7
+930,US-2014-100929,24/09/2014,25/09/2014,First Class,CU-45313,Customer 166,Corporate,United States,Seattle,Washington,98101,West,TEC-95928,Technology,Copiers,Multifunction Copier,492.31,3.0,0.3,88.37
+931,US-2014-100930,01/10/2014,04/10/2014,Standard Class,CU-22688,Customer 174,Corporate,United States,Chicago,Illinois,60601,Central,OFF-48954,Office Supplies,Labels,Shipping Labels,165.53,1.0,0.2,36.21
+932,US-2017-100931,06/09/2017,13/09/2017,Same Day,CU-61489,Customer 163,Home Office,United States,Miami,Florida,33101,South,TEC-45484,Technology,Copiers,Multifunction Copier,213.81,8.0,0.5,3.65
+933,US-2017-100932,02/04/2017,09/04/2017,Standard Class,CU-10427,Customer 54,Home Office,United States,Miami,Florida,33101,South,OFF-81485,Office Supplies,Binders,Presentation Binder,86.5,1.0,0.0,3.4
+934,US-2014-100933,17/04/2014,21/04/2014,Second Class,CU-79605,Customer 57,Consumer,United States,Chicago,Illinois,60601,Central,TEC-29333,Technology,Phones,Wireless Phone,563.59,2.0,0.0,-32.5
+935,US-2016-100934,28/06/2016,05/07/2016,Standard Class,CU-32581,Customer 184,Home Office,United States,New York City,New York,10001,East,FUR-11055,Furniture,Tables,Work Table,233.1,1.0,0.3,17.43
+936,US-2017-100935,10/07/2017,13/07/2017,Same Day,CU-64161,Customer 209,Home Office,United States,Houston,Texas,77001,Central,OFF-71007,Office Supplies,Labels,Shipping Labels,1666.92,6.0,0.1,-187.27
+937,US-2015-100936,10/06/2015,13/06/2015,Second Class,CU-72198,Customer 223,Home Office,United States,Houston,Texas,77001,Central,FUR-53957,Furniture,Chairs,Office Chair,201.88,3.0,0.5,-3.88
+938,US-2014-100937,28/07/2014,03/08/2014,Standard Class,CU-28756,Customer 38,Corporate,United States,Los Angeles,California,90001,West,TEC-57244,Technology,Machines,Shredder,343.43,8.0,0.1,38.3
+939,US-2014-100938,21/01/2014,23/01/2014,Second Class,CU-49961,Customer 171,Corporate,United States,Philadelphia,Pennsylvania,19103,East,TEC-23238,Technology,Machines,Shredder,3451.4,8.0,0.5,411.29
+940,US-2015-100939,24/10/2015,31/10/2015,Same Day,CU-86147,Customer 166,Corporate,United States,Atlanta,Georgia,30301,South,OFF-87154,Office Supplies,Labels,Shipping Labels,658.61,7.0,0.5,84.72
+941,US-2016-100940,30/03/2016,05/04/2016,Second Class,CU-22179,Customer 124,Corporate,United States,Los Angeles,California,90001,West,TEC-27937,Technology,Accessories,USB Drive,115.02,4.0,0.5,-0.24
+942,US-2016-100941,28/08/2016,04/09/2016,Standard Class,CU-11856,Customer 175,Corporate,United States,Los Angeles,California,90001,West,TEC-59093,Technology,Machines,Printer,1152.13,9.0,0.2,169.16
+943,US-2017-100942,05/04/2017,08/04/2017,Standard Class,CU-42527,Customer 56,Consumer,United States,Los Angeles,California,90001,West,TEC-62765,Technology,Phones,Wireless Phone,974.97,3.0,0.5,68.76
+944,US-2016-100943,19/01/2016,25/01/2016,Standard Class,CU-34922,Customer 236,Consumer,United States,Los Angeles,California,90001,West,FUR-47185,Furniture,Tables,Work Table,849.03,3.0,0.3,-21.78
+945,US-2014-100944,24/12/2014,30/12/2014,Standard Class,CU-63202,Customer 173,Corporate,United States,Houston,Texas,77001,Central,OFF-22950,Office Supplies,Art,Marker Set,3897.93,9.0,0.3,284.99
+946,US-2017-100945,16/03/2017,19/03/2017,Second Class,CU-29253,Customer 209,Corporate,United States,Seattle,Washington,98101,West,OFF-25330,Office Supplies,Binders,Presentation Binder,1564.26,8.0,0.0,-178.47
+947,US-2015-100946,23/08/2015,28/08/2015,Standard Class,CU-98018,Customer 74,Corporate,United States,New York City,New York,10001,East,TEC-54435,Technology,Copiers,Desktop Copier,389.42,4.0,0.5,30.68
+948,US-2017-100947,09/08/2017,12/08/2017,Same Day,CU-13062,Customer 144,Corporate,United States,Philadelphia,Pennsylvania,19103,East,OFF-37416,Office Supplies,Art,Drawing Pad,2858.07,9.0,0.3,206.31
+949,US-2016-100948,02/11/2016,06/11/2016,Second Class,CU-94541,Customer 94,Consumer,United States,Atlanta,Georgia,30301,South,TEC-13286,Technology,Phones,Wireless Phone,493.35,2.0,0.1,77.73
+950,US-2015-100949,12/10/2015,15/10/2015,First Class,CU-43332,Customer 112,Home Office,United States,Los Angeles,California,90001,West,TEC-98621,Technology,Phones,Office Phone,1739.16,9.0,0.0,-91.05
+951,US-2015-100950,15/12/2015,21/12/2015,First Class,CU-65373,Customer 78,Consumer,United States,New York City,New York,10001,East,FUR-68338,Furniture,Furnishings,Desk Lamp,2225.62,5.0,0.5,-66.2
+952,US-2017-100951,03/02/2017,04/02/2017,Second Class,CU-22927,Customer 85,Home Office,United States,Seattle,Washington,98101,West,OFF-15858,Office Supplies,Labels,Shipping Labels,730.37,9.0,0.2,-62.01
+953,US-2015-100952,22/01/2015,29/01/2015,Second Class,CU-50690,Customer 57,Home Office,United States,New York City,New York,10001,East,TEC-80897,Technology,Accessories,USB Drive,38.54,1.0,0.5,1.49
+954,US-2016-100953,08/12/2016,10/12/2016,Standard Class,CU-95707,Customer 210,Consumer,United States,Los Angeles,California,90001,West,OFF-64076,Office Supplies,Art,Marker Set,2210.85,7.0,0.2,-67.59
+955,US-2016-100954,29/05/2016,02/06/2016,First Class,CU-94392,Customer 57,Corporate,United States,Chicago,Illinois,60601,Central,FUR-81805,Furniture,Tables,Work Table,2957.21,9.0,0.5,-141.13
+956,US-2014-100955,14/12/2014,17/12/2014,First Class,CU-94435,Customer 236,Consumer,United States,Chicago,Illinois,60601,Central,OFF-42055,Office Supplies,Art,Marker Set,1048.48,4.0,0.5,-34.59
+957,US-2015-100956,05/09/2015,11/09/2015,Standard Class,CU-82024,Customer 48,Home Office,United States,Houston,Texas,77001,Central,TEC-82720,Technology,Phones,Wireless Phone,2644.06,9.0,0.2,
+958,US-2014-100957,07/04/2014,10/04/2014,Second Class,CU-36889,Customer 65,Corporate,United States,Chicago,Illinois,60601,Central,FUR-35503,Furniture,Tables,Work Table,347.33,1.0,0.1,-8.9
+959,US-2015-100958,09/05/2015,15/05/2015,Same Day,CU-18345,Customer 150,Corporate,United States,Philadelphia,Pennsylvania,19103,East,OFF-29809,Office Supplies,Art,Drawing Pad,864.59,9.0,0.1,159.78
+960,US-2016-100959,28/09/2016,03/10/2016,Same Day,CU-78281,Customer 61,Consumer,United States,Seattle,Washington,98101,West,OFF-41029,Office Supplies,Labels,Address Labels,2629.44,6.0,0.1,-136.46
+961,US-2015-100960,26/07/2015,30/07/2015,Same Day,CU-71930,Customer 138,Home Office,United States,Philadelphia,Pennsylvania,19103,East,OFF-90984,Office Supplies,Binders,Ring Binder,522.3,3.0,0.1,65.33
+962,US-2014-100961,22/08/2014,25/08/2014,First Class,CU-97055,Customer 223,Home Office,United States,Los Angeles,California,90001,West,TEC-66294,Technology,Copiers,Multifunction Copier,1877.09,7.0,0.0,-220.62
+963,US-2016-100962,14/04/2016,20/04/2016,Standard Class,CU-13054,Customer 134,Corporate,United States,Los Angeles,California,90001,West,OFF-20231,Office Supplies,Paper,Copy Paper,2726.99,8.0,0.1,169.63
+964,US-2017-100963,17/11/2017,20/11/2017,First Class,CU-14114,Customer 29,Corporate,United States,Atlanta,Georgia,30301,South,TEC-93212,Technology,Accessories,USB Drive,2169.28,6.0,0.0,467.53
+965,US-2017-100964,12/08/2017,14/08/2017,Second Class,CU-11977,Customer 38,Home Office,United States,Miami,Florida,33101,South,OFF-86290,Office Supplies,Art,Drawing Pad,1426.49,7.0,0.1,-80.67
+966,US-2016-100965,22/10/2016,27/10/2016,Second Class,CU-35989,Customer 240,Home Office,United States,Chicago,Illinois,60601,Central,TEC-48576,Technology,Accessories,Keyboard,725.61,4.0,0.3,63.02
+967,US-2017-100966,22/11/2017,28/11/2017,Standard Class,CU-61657,Customer 31,Corporate,United States,Los Angeles,California,90001,West,TEC-81165,Technology,Copiers,Multifunction Copier,96.19,3.0,0.1,18.73
+968,US-2017-100967,17/10/2017,20/10/2017,Second Class,CU-82536,Customer 174,Consumer,United States,Miami,Florida,33101,South,TEC-24656,Technology,Copiers,Desktop Copier,1244.14,3.0,0.1,-101.73
+969,US-2017-100968,18/10/2017,22/10/2017,Same Day,CU-90435,Customer 2,Consumer,United States,New York City,New York,10001,East,OFF-98756,Office Supplies,Binders,Ring Binder,2080.24,5.0,0.1,208.53
+970,US-2015-100969,15/04/2015,19/04/2015,Same Day,CU-35736,Customer 91,Consumer,United States,Atlanta,Georgia,30301,South,OFF-94947,Office Supplies,Art,Drawing Pad,121.51,4.0,0.0,33.74
+971,US-2014-100970,02/09/2014,06/09/2014,Standard Class,CU-22455,Customer 201,Home Office,United States,Chicago,Illinois,60601,Central,FUR-64700,Furniture,Furnishings,Desk Lamp,136.63,5.0,0.1,2.42
+972,US-2014-100971,12/04/2014,17/04/2014,Same Day,CU-55414,Customer 92,Consumer,United States,Miami,Florida,33101,South,TEC-17514,Technology,Phones,Wireless Phone,806.94,7.0,0.3,53.09
+973,US-2017-100972,23/04/2017,26/04/2017,First Class,CU-75808,Customer 205,Corporate,United States,Miami,Florida,33101,South,TEC-87543,Technology,Copiers,Multifunction Copier,2523.68,6.0,0.5,-83.68
+974,US-2015-100973,19/07/2015,21/07/2015,Second Class,CU-86938,Customer 187,Home Office,United States,Houston,Texas,77001,Central,FUR-93311,Furniture,Furnishings,Wall Clock,861.29,7.0,0.3,19.09
+975,US-2015-100974,15/04/2015,19/04/2015,First Class,CU-25090,Customer 37,Corporate,United States,Miami,Florida,33101,South,OFF-45017,Office Supplies,Binders,Presentation Binder,915.46,4.0,0.1,-86.14
+976,US-2014-100975,09/04/2014,12/04/2014,Second Class,CU-50683,Customer 172,Home Office,United States,Atlanta,Georgia,30301,South,TEC-47355,Technology,Phones,Wireless Phone,2991.18,7.0,0.0,-437.61
+977,US-2016-100976,10/09/2016,11/09/2016,Same Day,CU-29725,Customer 144,Corporate,United States,Miami,Florida,33101,South,FUR-78440,Furniture,Furnishings,Desk Lamp,318.34,1.0,0.1,5.45
+978,US-2017-100977,01/05/2017,02/05/2017,Same Day,CU-36983,Customer 79,Consumer,United States,Miami,Florida,33101,South,OFF-12798,Office Supplies,Art,Marker Set,1185.44,7.0,0.0,278.25
+979,US-2015-100978,27/03/2015,03/04/2015,Same Day,CU-48573,Customer 242,Consumer,United States,Los Angeles,California,90001,West,FUR-12676,Furniture,Tables,Conference Table,1568.68,4.0,0.5,-14.51
+980,US-2017-100979,21/09/2017,22/09/2017,First Class,CU-68893,Customer 200,Home Office,United States,Seattle,Washington,98101,West,TEC-52808,Technology,Copiers,Desktop Copier,796.22,8.0,0.5,37.52
+981,US-2014-100980,07/10/2014,08/10/2014,Second Class,CU-84523,Customer 93,Consumer,United States,Chicago,Illinois,60601,Central,OFF-18592,Office Supplies,Labels,Address Labels,692.06,7.0,0.2,80.01
+982,US-2015-100981,19/08/2015,25/08/2015,Second Class,CU-28931,Customer 128,Consumer,United States,Houston,Texas,77001,Central,OFF-66428,Office Supplies,Binders,Ring Binder,1821.84,6.0,0.5,189.25
+983,US-2014-100982,25/07/2014,27/07/2014,First Class,CU-27964,Customer 131,Corporate,United States,Philadelphia,Pennsylvania,19103,East,FUR-67744,Furniture,Bookcases,Wooden Bookcase,2783.61,7.0,0.5,274.55
+984,US-2014-100983,14/06/2014,19/06/2014,Standard Class,CU-54870,Customer 121,Corporate,United States,Miami,Florida,33101,South,TEC-43559,Technology,Phones,Office Phone,680.98,9.0,0.5,80.84
+985,US-2016-100984,19/03/2016,26/03/2016,Second Class,CU-47973,Customer 104,Corporate,United States,Houston,Texas,77001,Central,TEC-34568,Technology,Copiers,Desktop Copier,459.33,3.0,0.3,-32.05
+986,US-2017-100985,19/07/2017,22/07/2017,Same Day,CU-44963,Customer 106,Corporate,United States,Los Angeles,California,90001,West,FUR-54701,Furniture,Tables,Conference Table,1959.18,6.0,0.0,50.8
+987,US-2016-100986,06/04/2016,08/04/2016,Second Class,CU-62445,Customer 141,Corporate,United States,Los Angeles,California,90001,West,FUR-62704,Furniture,Furnishings,Desk Lamp,1056.54,6.0,0.0,283.73
+988,US-2014-100987,27/04/2014,02/05/2014,Standard Class,CU-69962,Customer 137,Home Office,United States,Seattle,Washington,98101,West,FUR-78106,Furniture,Chairs,Office Chair,1584.12,5.0,0.2,104.22
+989,US-2017-100988,05/12/2017,12/12/2017,First Class,CU-93916,Customer 244,Home Office,United States,Miami,Florida,33101,South,TEC-36811,Technology,Accessories,Keyboard,1598.19,6.0,0.0,333.62
+990,US-2015-100989,13/03/2015,18/03/2015,First Class,CU-67224,Customer 74,Consumer,United States,Los Angeles,California,90001,West,TEC-17992,Technology,Copiers,Multifunction Copier,2168.92,7.0,0.0,268.73
+991,US-2017-100990,23/04/2017,28/04/2017,Standard Class,CU-85854,Customer 132,Corporate,United States,Chicago,Illinois,60601,Central,TEC-68819,Technology,Copiers,Multifunction Copier,91.43,2.0,0.1,-2.43
+992,US-2014-100991,04/08/2014,07/08/2014,Same Day,CU-25839,Customer 2,Consumer,United States,Atlanta,Georgia,30301,South,FUR-12263,Furniture,Tables,Conference Table,866.88,8.0,0.2,72.63
+993,US-2017-100992,12/07/2017,16/07/2017,Second Class,CU-94376,Customer 47,Consumer,United States,Houston,Texas,77001,Central,OFF-74454,Office Supplies,Labels,Shipping Labels,1149.15,6.0,0.3,155.57
+994,US-2016-100993,18/09/2016,21/09/2016,Standard Class,CU-65951,Customer 170,Consumer,United States,Miami,Florida,33101,South,FUR-19937,Furniture,Chairs,Office Chair,1556.88,4.0,0.3,39.87
+995,US-2017-100994,02/03/2017,09/03/2017,First Class,CU-17104,Customer 79,Home Office,United States,Chicago,Illinois,60601,Central,TEC-36870,Technology,Machines,Printer,3946.03,9.0,0.0,-256.18
+996,US-2016-100995,03/03/2016,08/03/2016,First Class,CU-30188,Customer 163,Corporate,United States,Atlanta,Georgia,30301,South,TEC-55330,Technology,Machines,Printer,2667.26,9.0,0.2,454.04
+997,US-2015-100996,23/07/2015,24/07/2015,Same Day,CU-47485,Customer 198,Consumer,United States,New York City,New York,10001,East,OFF-23930,Office Supplies,Art,Drawing Pad,1427.03,7.0,0.1,250.19
+998,US-2015-100997,21/07/2015,23/07/2015,Same Day,CU-84790,Customer 44,Corporate,United States,Chicago,Illinois,60601,Central,OFF-84425,Office Supplies,Art,Marker Set,645.09,5.0,0.5,-45.72
+999,US-2016-100998,14/03/2016,17/03/2016,Standard Class,CU-73788,Customer 85,Consumer,United States,Miami,Florida,33101,South,TEC-58591,Technology,Machines,Shredder,161.44,5.0,0.5,15.63
+1000,US-2017-100999,03/08/2017,06/08/2017,Standard Class,CU-14484,Customer 139,Corporate,United States,Atlanta,Georgia,30301,South,FUR-10548,Furniture,Furnishings,Wall Clock,1433.58,6.0,0.0,348.59
